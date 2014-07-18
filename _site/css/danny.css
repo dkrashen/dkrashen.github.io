@@ -20,8 +20,8 @@ img#portrait {
 img#actionpic {
   max-height: 240px; }
 
-.nav a:hover {
-  background-color: green; }
+.nav a {
+  background-color: #d0d7df; }
 
 .github-icon-svg,
 .twitter-icon-svg,
