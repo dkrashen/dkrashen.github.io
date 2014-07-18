@@ -1,0 +1,22 @@
+# Site settings
+title: "Danny Krashen"
+email: "&#100;&#107;&#114;&#97;&#115;&#104;&#101;&#110;&#64;&#109;&#97;&#116;&#104;&#46;&#117;&#103;&#97;&#46;&#101;&#100;&#117;&#13;&#10;&#13;&#10;"
+tagline: "Using shapes to understand the arithmetic of algebraic
+structures." 
+description: "Mathematics research, software development, university
+instruction and community outreach"
+
+baseurl: ""
+
+url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+
+twitter_username: dkrashen
+github_username:  dkrashen
+youtube_username: dkrashen
+soundcloud_username: dkrashen
+
+# Build settings
+markdown: kramdown
+permalink: pretty
