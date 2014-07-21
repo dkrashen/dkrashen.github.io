@@ -1,0 +1,26 @@
+<dl>
+{% if site.github_username %}
+<dt>{% include githubicon.html %}</dt>
+<dd>
+	<a href="https://github.com/{{ site.github_username }}">
+		{{ site.github_username }}@github
+	</a>
+</dd>
+{% endif %}
+{% if site.twitter_username %}
+<dt>{% include twittericon.html %}</dt>
+<dd>
+	<a href="https://twitter.com/{{ site.twitter_username }}">
+		{{ site.twitter_username }}@twitter
+	</a>
+</dd>
+{% endif %}
+{% if site.soundcloud_username %}
+<dt>{% include soundcloudicon.html %}</dt>
+<dd>
+	<a href="https://soundcloud.com/{{ site.soundcloud_username }}">
+		{{ site.soundcloud_username }}@soundcloud
+	</a>
+</dd>
+{% endif %}
+</dl>
