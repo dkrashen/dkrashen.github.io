@@ -1,5 +1,6 @@
 <dl>
 {% if site.github_username %}
+<dt>{% include githubicon.html %}</dt>
 <dd>
 	<a href="https://github.com/{{ site.github_username }}">
 		{{ site.github_username }}@github
@@ -7,6 +8,7 @@
 </dd>
 {% endif %}
 {% if site.twitter_username %}
+<dt>{% include twittericon.html %}</dt>
 <dd>
 	<a href="https://twitter.com/{{ site.twitter_username }}">
 		{{ site.twitter_username }}@twitter
