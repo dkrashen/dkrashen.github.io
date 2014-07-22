@@ -20,21 +20,51 @@ layout: default
 </div>
 </div>
 
+<div class="row"> <!-- Uber content row -->
+<div class="col-md-8"> <!-- left uber content, containing pubs -->
+{% for p in site.data.publications %}
+<div class="row well well-sm">
+	<div class="col-md-9">
+	<b>{{p.title}}</b>
+	{% if p.by %}
+		By {{ p.by }},
+	{% endif %}
+	{% if p.with %}
+		With {{ p.with }},
+	{% endif %}
+	{{ p.in }}, {{ p.pubinfo }}
+	</div>
+	<div class="col-md-3">
+		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
+	    <button type="button" class="btn btn-lnk">MathSciNet</button>
+		</a>
+    <button type="button" class="btn btn-lnk">arXiv</button>
+	</div>
+</div>
+{% endfor %}
+</div> <!-- end left Uber Content -->
 
-<div class="row well">
+<!-- begin right Uber content: links and stuff -->
+<div class="col-md-3 ">
+
+<div class="row">
 	<div class="col-md-12">
 	<ul>
 		<li>
 		<a href="http://arxiv.org/a/krashen_d_1"
-		>Preprints on the arXiv</a>
+		>All preprints on the arXiv</a>
 		</li>
 		<li>
 		<a
 		href="http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=728218"
-		>Publications on MathSciNet</a> (subscription required)
+		>All publications on MathSciNet</a> (subscription required)
 		</li>
 	</div><!--/col-->
 </div><!--/row-->
+</div>
+</div>
+
+
 
 
 
