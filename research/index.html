@@ -35,10 +35,16 @@ layout: default
 	{{ p.in }}, {{ p.pubinfo }}
 	</div>
 	<div class="col-md-3">
+		{% if p.MR %}
 		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
 	    <button type="button" class="btn btn-lnk">MathSciNet</button>
 		</a>
+		{% endif %}
+		{% if p.arxiv %}
+		<a href="http://arxiv.org/abs/{{ p.arxiv }}">
     <button type="button" class="btn btn-lnk">arXiv</button>
+		</a>
+		{% endif %}
 	</div>
 </div>
 {% endfor %}
