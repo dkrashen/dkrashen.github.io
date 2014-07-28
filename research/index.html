@@ -1,23 +1,9 @@
 ---
 layout: default
 ---
-<div class="row well">
-<div class="col-md-12">
-<ul class="nav nav-pills">
-	<li><a href="/">home</a></li>
-	<li class="active"><a href="/research/">research</a></li>
-		
-	<li><a href="https://github.com/{{ site.github_username }}"
-	target="_blank">code</a> </li>
-<!--		
-			
-	<li><a href="/teaching/">teaching</a></li>
--->
 
-	<li><a href= "https://www.youtube.com/user/{{ site.youtube_username }}"
-	target="_blank">videos</a> </li>
-</ul>
-</div>
+<div class="navigation" active_link="research_link"/>
+	{% include navigation.html %}
 </div>
 
 <div class="row"> <!-- Uber content row -->
