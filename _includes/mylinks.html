@@ -1,26 +1,23 @@
-<dl class="dl-horizontal">
+<ul class="list-unstyled">
 {% if site.github_username %}
-<dt>{% include githubicon.html %}</dt>
-<dd>
-	<a href="https://github.com/{{ site.github_username }}">
+<li>{% include githubicon.html %}
+  <a href="https://github.com/{{ site.github_username }}">
 		{{ site.github_username }}@github
 	</a>
-</dd>
+</li>
 {% endif %}
 {% if site.twitter_username %}
-<dt>{% include twittericon.html %}</dt>
-<dd>
+<li>{% include twittericon.html %}
 	<a href="https://twitter.com/{{ site.twitter_username }}">
 		{{ site.twitter_username }}@twitter
 	</a>
-</dd>
+</li>
 {% endif %}
 {% if site.soundcloud_username %}
-<dt>{% include soundcloudicon.html %}</dt>
-<dd>
+<li>{% include soundcloudicon.html %}
 	<a href="https://soundcloud.com/{{ site.soundcloud_username }}">
 		{{ site.soundcloud_username }}@soundcloud
 	</a>
-</dd>
+</li>
 {% endif %}
-</dl>
+</ul>
