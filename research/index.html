@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<div class="navigation" active_link="research_link"/>
-	{% include navigation.html %}
+<div class="navigation" active_link="research_link">
 </div>
 
-<div class="row"> <!-- Uber content row -->
-<div class="col-md-8"> <!-- left uber content, containing pubs -->
 {% for p in site.data.publications %}
 <div class="row well well-sm">
 	<div class="col-md-9">
@@ -23,23 +20,19 @@ layout: default
 	<div class="col-md-3">
 		{% if p.MR %}
 		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
-	    <button type="button" class="btn btn-lnk">MathSciNet</button>
+	    <button type="button" class="btn btn-lnk pull-right btn-spaced">MathSciNet</button>
 		</a>
 		{% endif %}
 		{% if p.arxiv %}
 		<a href="http://arxiv.org/abs/{{ p.arxiv }}">
-    <button type="button" class="btn btn-lnk">arXiv</button>
+    <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
 		</a>
 		{% endif %}
 	</div>
 </div>
 {% endfor %}
-</div> <!-- end left Uber Content -->
 
-<!-- begin right Uber content: links and stuff -->
-<div class="col-md-3 ">
-
-<div class="row">
+<div class="row well">
 	<div class="col-md-12">
 	<ul>
 		<li>
@@ -53,8 +46,6 @@ layout: default
 		</li>
 	</div><!--/col-->
 </div><!--/row-->
-</div>
-</div>
 
 
 
