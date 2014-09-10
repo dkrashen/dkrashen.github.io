@@ -8,14 +8,10 @@ layout: default
 {% for p in site.data.publications %}
 <div class="row well well-sm">
 	<div class="col-md-9">
-	<b>{{p.title}}</b>
-	{% if p.by %}
+	<b>{{p.title}}</b>{% if p.by %}
 		By {{ p.by }},
-	{% endif %}
-	{% if p.with %}
-		With {{ p.with }},
-	{% endif %}
-	{{ p.in }}, {{ p.pubinfo }}
+	{% endif %}{% if p.with %}, with {{ p.with }}{% endif %}{% if p.in %},
+	{{ p.in }}, {{ p.pubinfo }}{% endif %}
 	</div>
 	<div class="col-md-3">
 		{% if p.MR %}
