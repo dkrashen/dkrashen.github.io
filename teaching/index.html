@@ -7,33 +7,26 @@ layout: default
 
 <div class="row well well-sm">
 	<div class="col-md-12">
+
+  {% for c in site.data.courses %}
     <div class="panel panel-primary">
+
       <div class="panel-heading">
         <h3 class="panel-title">
-          <a href="http://dkrashen.github.io/stacks/">
-            MATH 8830: Algebraic Stacks
-          </a>
+          <a href="{{ c.url }}">{{ c.title }}</a> ({{ c.semester }})
         </h3>
         </a>
       </div>
+
       <div class="panel-body">
-        Tues/Thurs 11:00am-12:15pm in Boyd Graduate Studies, room 328
+        {{ c.schedule }}, {{ c.location }}.
+        {% if c.schedule2 %}<br>
+        {{ c.schedule2}}, {{ c.location2 }}
+        {% endif %}
       </div>
+
     </div>
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">
-          <a href="http://dkrashen.github.io/calc2/">
-            MATH 2260: Calculus 2
-          </a>
-        </h3>
-      </div>
-      <div class="panel-body">
-        Lectures Tues/Thurs 12:30pm-1:45pm in Hardman Hall, room 102 <br />
-        Recitation Wed 12:20pm-1:10pm in Boyd Graduate Studies, room 303
-      </div>
-    </div>
-</div>
+  {% endfor %}
 
 
 
