@@ -1,52 +1,41 @@
 ---
-layout: front
+layout: default
 ---
 
 <div class="navigation" active_link="home_link">
 </div>
 
 <div class="row well">
-	<div class="col-md-12">
-		<p><b>My research interests</b> involve finite dimensional division
-		algebras and the Brauer group, linear algebraic groups, algebraic
-		cycles, and field theory.  I am particularly interested in the use
-		of techniques and ideas from algebraic topology and algebraic
-		geometry to problems in algebra.</p>
+	<div class="col-md-5">
+		<h3>Research interests</h3> 
+    <p>Finite dimensional division algebras and the Brauer group, linear
+    algebraic groups, algebraic cycles, and field theory.  I am
+    particularly interested in the use of techniques and ideas from
+    algebraic topology and algebraic geometry to problems in algebra.</p>
+	</div><!--/col-->
+
+  <div class="col-md-1"></div>
+
+	<div class="col-md-5">
+  <h3> What's New </h3>
+  <ul class="posts list-unstyled">
+    {% for post in site.posts limit:1 %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" 
+          href="{{ post.url | prepend: site.baseurl }}"
+          >{{ post.title }}</a>
+        <p> {{ post.content }} </p>
+      </li>
+    {% endfor %}
 	</div><!--/col-->
 </div><!--/row-->
 
-<div class="row well">
-	<div class="col-md-6">
-		<p><b>Field patching</b> is a technique for working with algebraic
-		structures over fields of transcendence degree 1 over complete
-		discretely valued fields, such as <b>Q</b><sub>p</sub>(t).  Over
-		the past few years, I have been working with David Harbater and
-		Julia Hartmann on developing this theory in order to answer
-		questions about division algebras, quadratic forms, Galois
-		cohomology and torsors for linear algebraic groups over such
-		fields. These techniques also give rise to a number of new
-		local-global principles for algebraic structures over these
-		fields.</p>
-	</div><!--/col-->
-	<div class="col-md-6">
-		<p><b>The complexity of algebraic structures and its relation to
-		field arithmetic</b> has been major theme in my recent research.
-		Algebraic structures such as central simple algebras and quadratic
-		forms give rise to a number of important arithmetic invariants of a
-		field, such as its Brauer dimension and its <i>u</i>-invariant.
-		These invariants are related to each other as well as to the
-		field's Diophantine dimension, cohomological dimension, and symbol
-		length bounds for Galois cohomology. Many fundmental problems in
-		field arithmetic involve understanding these invariants and their
-		relationship to each other, and there are many more invariants
-		defined via algebra and algebraic geometry which promise to hold
-		very rich and subtle information about field arithmetic.</p>
-	</div><!--/col-->
-</div><!--/row-->
-
+{% include actionfoot.html %}
 
 <div class="row well well-sm">
 <div class="col-md-12">
+  <h3>Related Sites</h3>
 	<ul class="list-unstyled">
 		<li><a href="http://brauer.torsor.org/"
       >Brauer group conference at Pingree Park, 2015</a></li>
