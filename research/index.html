@@ -39,29 +39,7 @@ layout: default
 <h2> Manuscripts </h2>
 <br/>
 <br/>
-{% for p in site.data.publications %}
-<div class="row well well-sm">
-	<div class="col-md-9">
-	<b>{{p.title}}</b>{% if p.by %}
-		By {{ p.by }},
-	{% endif %}{% if p.with %}, with {{ p.with }}{% endif %}{% if p.in %},
-	{{ p.in }}, {{ p.pubinfo }}{% endif %}
-	</div>
-	<div class="col-md-3">
-		{% if p.MR %}
-		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
-	    <button type="button" class="btn btn-lnk pull-right btn-spaced">MathSciNet</button>
-		</a>
-		{% endif %}
-		{% if p.arxiv %}
-		<a href="http://arxiv.org/abs/{{ p.arxiv }}">
-    <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
-		</a>
-		{% endif %}
-	</div>
-</div>
-{% endfor %}
-
+{% include publist.html %}
 </div>
 </div>
 

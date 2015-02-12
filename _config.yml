@@ -13,7 +13,6 @@ baseurl: ""
 url: "localhost:4000"
 # url: "http://math.dkrashen.org"
 
-
 twitter_username: dkrashen
 github_username:  dkrashen
 youtube_username: dkrashen
