@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title:  "LiveTexed notes updated"
-date:   2015-02-27
+title:  "Videos on Galois Descent"
+date:   2015-04-09
 categories: announcements 
 
 ---
