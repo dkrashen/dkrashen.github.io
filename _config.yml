@@ -1,7 +1,8 @@
 #testing: true
 
 # Site settings
-title: "Danny Krashen"
+title: "Danny Krashen -- interesting diagrams don't have to commute"
+headertext: "Danny Krashen"
 email: "&#100;&#107;&#114;&#97;&#115;&#104;&#101;&#110;&#64;&#109;&#97;&#116;&#104;&#46;&#117;&#103;&#97;&#46;&#101;&#100;&#117;&#13;&#10;&#13;&#10;"
 tagline: "Using shapes to understand the arithmetic of algebraic
 structures." 
