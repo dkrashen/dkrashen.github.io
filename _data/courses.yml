@@ -1,9 +1,24 @@
+- title: "MATH 2250: Calculus 1 (Section 15624)"
+  url: "http://dkrashen.github.io/calc1/"
+  schedule: "Lectures Tues/Thurs 9:30am-10:45am" 
+  location: "Poultry Science, Room 238"
+  schedule2: "Recitation Mon 12:20pm-1:10pm" 
+  location2: "Aderhold Hall, Room 116"
+  semester: "Fall 2015"
+
+- title: "MATH 2250: Calculus 1 (Section 25507)"
+  url: "http://dkrashen.github.io/calc1/"
+  schedule: "Lectures Tues/Thurs 12:30pm-1:45pm" 
+  location: "Physics Building, Room 327"
+  schedule2: "Recitation Mon 10:10am-11:00am" 
+  location2: "Physics Building, Room 327"
+  semester: "Fall 2015"
+
 - title: "MATH 8330: Central Simple Algebras"
   url: "http://dkrashen.github.io/csa/"
   schedule: "Friday 2:30pm-5:30pm" 
   location: "Boyd Graduate Studies, room 328"
   semester: "Spring 2015"
-
 
 - title: "MATH 8830: Algebraic Stacks"
   url: "http://dkrashen.github.io/stacks/"
