@@ -8,7 +8,7 @@ categories: announcements
 ---
 
 For those of you who still have letters of recommendation to write or are
-looking for a letterhead templates to use with latex, have a look at the
+looking for a letterhead template for use with latex, have a look at the
 [deptletter class](https://github.com/dkrashen/deptletter) I've just put on
 [my github](http://github.com/dkrashen/). Hope it is helpful!
 
