@@ -1,5 +1,7 @@
 
-  {% include analytics.html %}
+  {% if site.analytics == "true" %}
+    {% include analytics.html %}
+  {% endif %}
 
 	<div class="row well header-row">
 
