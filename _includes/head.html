@@ -42,4 +42,8 @@
 	<link href="{{ "/css/bootstrap-dannymod.css" | prepend: site.baseurl }}"
 	rel="stylesheet">
 
+  {% if site.analytics == "true" %}
+    {% include analytics.html %}
+  {% endif %}
+
 </head>
