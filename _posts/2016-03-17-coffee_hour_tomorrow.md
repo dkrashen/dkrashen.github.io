@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "coffee hour!"
+title: "coffee hour -- and notifications!"
 date: 2016-03-17
 categories: announcements, coffee hour
 
