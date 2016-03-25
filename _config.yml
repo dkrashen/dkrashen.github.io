@@ -11,8 +11,8 @@ instruction and community outreach"
 
 baseurl: ""
 
-url: "localhost:4000"
-# url: "http://math.dkrashen.org"
+# url: "localhost:4000"
+url: "http://dkrashen.org"
 
 twitter_username: dkrashen
 github_username:  dkrashen
