@@ -7,7 +7,7 @@ categories: announcements, LAAST
 
 ---
 
-Tomorrow at 2:30 we'll be meeting again for the LAAST seminar, and this
+Tomorrow at 2:30 in room 326, we'll be meeting again for the LAAST seminar, and this
 time I'll actually give a talk:
 
 <b>Clifford algebras and the search for Ulrich bundles</b>
