@@ -33,8 +33,13 @@ layout: default
     Geometry, or General Nonsense. Sign up below to make sure to be
     notified when a meeting is announced!
 
+      {% if site.testing %}
+        <br />
+        {% include laast_updates.html %}
+      {% else %}
         {% include laast_notification.html %}
         {% include laast_email.html %}
+      {% endif %}
     </div>
     <div class="row well">
     <h4>Don't miss a coffee hour!</h4>
@@ -45,8 +50,13 @@ layout: default
     advisees, and whoever happens to be in the matrix at the time! Lattes
     and snacks are generally featured.
 
+      {% if site.testing %}
+        <br />
+        {% include coffee_hour_updates.html %}
+      {% else %}
         {% include coffee_hour_notification.html %}
         {% include coffee_hour_email.html %}
+      {% endif %}
     </div>
 
 

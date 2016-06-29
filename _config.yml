@@ -11,7 +11,7 @@ instruction and community outreach"
 
 baseurl: ""
 
-# url: "localhost:4000"
+#url: "localhost:4000"
 url: "http://dkrashen.org"
 
 twitter_username: dkrashen
@@ -24,3 +24,4 @@ markdown: kramdown
 permalink: pretty
 analytics_id: "UA-74515307-1"
 analytics: "true"
+#analytics: "false"

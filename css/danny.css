@@ -5,7 +5,10 @@
   font-family: 'exobold';
   src: url("fonts/Exo-Medium.ttf"); }
 * {
+/*
   font-family: 'exo';
+*/
+  font-family: 'helvetica';
   color: black; }
 
 b {
