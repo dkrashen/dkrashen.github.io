@@ -17,13 +17,14 @@ layout: default
     <br />
 
     {% for r in site.data.related %}
-      <div class="row well">
+      <div class="row" style="margin-bottom:15px;">
       <div class="col-md-12">
-        <a href="{{ r.url }}"
-          >{{ r.title }}</a>
+        <a href="{{ r.url }}" 
+        >{{ r.title }}</a>
       </div>
       </div>
     {% endfor %}
+    <br />
 		<h3>Notifications</h3> 
     <div class="row well">
     <h4>The LAAST Seminar</h4>
