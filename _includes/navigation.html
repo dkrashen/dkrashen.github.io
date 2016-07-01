@@ -1,18 +1,24 @@
-	<ul class="nav nav-pills">
-		<li id="home_link"><a href="/">home</a></li>
+  
+  <ul class="nav nav-pills" style="float:left;">
+		<!--<li id="home_link"><a href="/">home</a></li> -->
+		<li id="about_link"><a href="/about/">about</a></li>
 		<li id="research_link"><a href="/research/">research</a></li>
     <li id="teaching_link"><a href="/teaching/">teaching</a></li>
-		<li id="code_link">
-			<a href="https://github.com/{{ site.github_username }}"
-			target="_blank">code@github</a> 
-		</li>
-		<li id="video_link"><a href= 
-			"https://www.youtube.com/user/{{ site.youtube_username }}"
-			target="_blank">videos@youtube</a> 
-		</li>
     <li> 
       <a href="{{ "/vita.pdf" | prepend: site.baseurl}}"
         >cv (pdf)</a>
     </li>
+ </ul>
+
+  <ul class="nav nav-pills" style="float:right;">
+    <li id="mathcamp_link"><a href="http://mathcamp.torsor.org/">mathcamp</a></li>
+    <li id="code_link">
+			<a href="https://github.com/{{ site.github_username }}"
+			target="_blank">code</a> 
+		</li>
+		<li id="video_link"><a href= 
+			"https://www.youtube.com/user/{{ site.youtube_username }}"
+			target="_blank">videos</a> 
+		</li>
 	</ul>
 
