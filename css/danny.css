@@ -10,7 +10,6 @@
 */
   font-family: 'helvetica';
   color: black; }
-
 b {
   font-size:110%;
   }
@@ -35,3 +34,17 @@ img#actionpic {
   width: 16px;
   height: 16px;
   top: 3px; }
+
+.row {
+  background-color: #f7f7ff;
+}
+
+@media screen and (min-width: 680px) 
+{
+  .nav * { font-size: 1.2em;}
+}
+
+@media screen and (max-width: 480px) 
+{
+  .nav * { font-size: 1em;}
+}

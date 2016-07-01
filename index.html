@@ -6,86 +6,30 @@ layout: default
 
 
 <div class="row well">
-<div class="row">
-	<div class="col-md-6">
-    <p style="margin-left: 15px">I am an associate professor of mathematics
-    at the University of Georgia, Athens. My research is currently
-    supported by an NSF CAREER grant "The Arithmetic of Fields and the
-    Complexity of Algebraic Structures," for which I was awarded a
-    Presendential Early Career Award (PECASE). My research is also support
-    by NSF FRG grant "Obstructions to Local-Global Principles and
-    Applications to Algebraic Structures," and I am a co-PI on the UGA RTG
-    grant "Algebra, Algebraic Geometry, and Number Theory." I have been
-    awarded the University of Georgia Creative Research Medal, and the
-    University of Georgia Outstanding Professor Award.</p>
+  <div class="row">
+	  <div class="col-md-6">
+      <p style="margin-left: 15px">I am an associate professor of
+      mathematics at the University of Georgia, Athens. My research is
+      currently supported by an NSF CAREER grant "The Arithmetic of Fields
+      and the Complexity of Algebraic Structures," for which I was awarded
+      a Presendential Early Career Award (PECASE). My research is also
+      support by NSF FRG grant "Obstructions to Local-Global Principles and
+      Applications to Algebraic Structures," and I am a co-PI on the UGA
+      RTG grant "Algebra, Algebraic Geometry, and Number Theory." I have
+      been awarded the University of Georgia Creative Research Medal, and
+      the University of Georgia Outstanding Professor Award.</p>
+    </div>
+	  <div class="col-md-1">
+    </div>
+	  <div class="col-md-5">
+      <p><b>Research Interests:</b></p><p> Finite dimensional division algebras and the Brauer group, linear algebraic groups, algebraic
+      cycles, and field theory.</p>
+      <p>I am particularly interested in the use of techniques and ideas from algebraic topology and
+      algebraic geometry to problems in algebra.</p>
+    </div>
   </div>
 </div>
-	<div class="col-md-5">
-
-		<h3>Research interests</h3> 
-    <p>Finite dimensional division algebras and the Brauer group, linear
-    algebraic groups, algebraic cycles, and field theory.</p>
-    <p>I am particularly interested in the use of techniques and ideas from
-    algebraic topology and algebraic geometry to problems in algebra.</p>
-
-    <br />
-	  {% include shirtpic.html %}
-    <br />
-
-    {% for r in site.data.related %}
-      <div class="row" style="margin-bottom:15px;">
-      <div class="col-md-12">
-        <a href="{{ r.url }}" 
-        >{{ r.title }}</a>
-      </div>
-      </div>
-    {% endfor %}
-    <br />
-		<h3>Notifications</h3> 
-    <div class="row well">
-    <h4>The LAAST Seminar</h4>
-
-    The Late Afternoon Algebraic Structures Tea is an informal
-    seminar/meeting to discuss current topics in Algebra, Algebraic
-    Geometry, or General Nonsense. Sign up below to make sure to be
-    notified when a meeting is announced!
-
-      {% if site.testing %}
-        <br />
-        {% include laast_updates.html %}
-      {% else %}
-        {% include laast_notification.html %}
-        {% include laast_email.html %}
-      {% endif %}
-    </div>
-    <div class="row well">
-    <h4>Don't miss a coffee hour!</h4>
-
-    Coffee hours are an opportunity for informal meetings to talk about
-    classes, majors, 
-    mathematics, and other things. They are open to my students and
-    advisees, and whoever happens to be in the matrix at the time! Lattes
-    and snacks are generally featured.
-
-      {% if site.testing %}
-        <br />
-        {% include coffee_hour_updates.html %}
-      {% else %}
-        {% include coffee_hour_notification.html %}
-        {% include coffee_hour_email.html %}
-      {% endif %}
-    </div>
-
-
-	</div><!--/col-->
-
-  <div class="col-md-1"></div>
-
-	<div class="col-md-5">
-  {% include newposts.html %}
-  {% include oldposts.html %}
-	</div><!--/col-->
-</div><!--/row-->
+<div class="row well">
 
 {% include actionfoot.html %}
 
