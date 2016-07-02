@@ -5,14 +5,8 @@
   font-family: 'exobold';
   src: url("fonts/Exo-Medium.ttf"); }
 * {
-/*
   font-family: 'exo';
-*/
-  font-family: 'helvetica';
   color: black; }
-b {
-  font-size:110%;
-  }
 
 div.header-row {
   margin-top: 30px; }
@@ -34,17 +28,3 @@ img#actionpic {
   width: 16px;
   height: 16px;
   top: 3px; }
-
-.row {
-  background-color: #f7f7ff;
-}
-
-@media screen and (min-width: 680px) 
-{
-  .nav * { font-size: 1.2em;}
-}
-
-@media screen and (max-width: 480px) 
-{
-  .nav * { font-size: 1.0em;}
-}
