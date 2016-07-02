@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'exo';
+  src: url("fonts/Exo-Light.ttf"); }
+@font-face {
+  font-family: 'exobold';
+  src: url("fonts/Exo-Medium.ttf"); }
+* {
+  color: black;
+  font-family: 'helvetica'; }
+
+b {
+  font-size: 110%; }
+
+div.header-row {
+  margin-top: 30px; }
+
+img#portrait {
+  max-height: 150px; }
+
+img#actionpic {
+  max-height: 240px; }
+
+.nav a {
+  background-color: #d0d7df; }
+
+.github-icon-svg,
+.twitter-icon-svg,
+.soundcloud-icon-svg {
+  display: inline-block;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  top: 3px; }
+
+.row {
+  background-color: #f7f7ff; }
+
+@media screen and (min-width: 680px) {
+  nav * {
+    font-size: 1.2em; } }
+@media screen and (max-width: 480px) {
+  nav * {
+    font-size: 1.0em; } }
