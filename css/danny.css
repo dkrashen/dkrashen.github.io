@@ -36,8 +36,10 @@ img#actionpic {
   background-color: #f7f7ff; }
 
 @media screen and (min-width: 680px) {
-  nav * {
+  .nav * {
     font-size: 1.2em; } }
 @media screen and (max-width: 480px) {
-  nav * {
+  .nav * {
     font-size: 1.0em; } }
+
+/*# sourceMappingURL=danny.css.map */
