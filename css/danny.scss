@@ -5,7 +5,12 @@
 
 @font-face {font-family: 'exo'; src: url('fonts/Exo-Light.ttf');}
 @font-face {font-family: 'exobold'; src: url('fonts/Exo-Medium.ttf');}
-* { font-family: 'exo'; color: black;}
+* { //font-family: 'exo'; 
+  color: black;
+  font-family: 'helvetica'; 
+}
+
+b {font-size:110%;}
 
 $blocky_color: #d0d7df;
 $backdrop_color: #ececec;
@@ -47,4 +52,10 @@ img#actionpic {
   position: relative; width: 16px; height: 16px; top: 3px;
 }
 
+.row {background-color: #f7f7ff;}
 
+@media screen and (min-width: 680px) 
+{nav * { font-size: 1.2em;}}
+
+@media screen and (max-width: 480px) 
+{nav * { font-size: 1.0em;}}
