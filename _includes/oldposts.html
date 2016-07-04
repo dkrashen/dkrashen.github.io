@@ -1,7 +1,6 @@
 {% for post in site.posts offset: 2 limit:1 %}
-<h3> Previous Posts </h3>
 {% endfor %}
-{% for post in site.posts offset: 2 %}
+{% for post in site.posts offset: 3 %}
   <div class="row well">
   <div class="col-md-12">
     <span class="post-date">{{ post.date | date: "%b %-d, %Y"}}</span>
