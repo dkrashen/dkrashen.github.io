@@ -1,10 +1,12 @@
 {% for p in site.data.metavita_public.publications %}
+{% unless p.in %}
+{% unless p.type == "expository paper" %}
 <div class="row well well-sm">
 	<div class="col-md-9">
 	<b>{{p.title}}</b>{% if p.by %}
 		By {{ p.by }},
 	{% endif %}{% if p.with %}, with {{ p.with }}{% endif %}{% if p.in %},
-	{{ p.in }}, {{ p.pubinfo }}{% endif %}
+	{{ p.in }}{% if p.pubinfo %}, {{ p.pubinfo }}{% endif %}{% endif %}
 	</div>
 	<div class="col-md-3">
 		{% if p.MR %}
@@ -19,4 +21,89 @@
 		{% endif %}
 	</div>
 </div>
+{% endunless %}
+{% endunless %}
 {% endfor %}
+
+{% for p in site.data.metavita_public.publications %}
+{% if p.in %}
+{% unless p.pubinfo %}
+<div class="row well well-sm">
+	<div class="col-md-9">
+	<b>{{p.title}}</b>{% if p.by %}
+		By {{ p.by }},
+	{% endif %}{% if p.with %}, with {{ p.with }}{% endif %}{% if p.in %},
+	{{ p.in }}{% if p.pubinfo %}, {{ p.pubinfo }}{% endif %}{% endif %}
+	</div>
+	<div class="col-md-3">
+		{% if p.MR %}
+		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
+	    <button type="button" class="btn btn-lnk pull-right btn-spaced">MathSciNet</button>
+		</a>
+		{% endif %}
+		{% if p.arxiv %}
+		<a href="http://arxiv.org/abs/{{ p.arxiv }}">
+    <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
+		</a>
+		{% endif %}
+	</div>
+</div>
+{% endunless %}
+{% endif %}
+{% endfor %}
+
+{% for p in site.data.metavita_public.publications %}
+{% if p.in %}
+{% if p.pubinfo %}
+<div class="row well well-sm">
+	<div class="col-md-9">
+	<b>{{p.title}}</b>{% if p.by %}
+		By {{ p.by }},
+	{% endif %}{% if p.with %}, with {{ p.with }}{% endif %}{% if p.in %},
+	{{ p.in }}{% if p.pubinfo %}, {{ p.pubinfo }}{% endif %}{% endif %}
+	</div>
+	<div class="col-md-3">
+		{% if p.MR %}
+		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
+	    <button type="button" class="btn btn-lnk pull-right btn-spaced">MathSciNet</button>
+		</a>
+		{% endif %}
+		{% if p.arxiv %}
+		<a href="http://arxiv.org/abs/{{ p.arxiv }}">
+    <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
+		</a>
+		{% endif %}
+	</div>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+
+{% for p in site.data.metavita_public.publications %}
+{% unless p.in %}
+{% if p.type == "expository paper" %}
+<div class="row well well-sm">
+	<div class="col-md-9">
+	<b>{{p.title}}</b>{% if p.by %}
+		By {{ p.by }},
+	{% endif %}{% if p.with %}, with {{ p.with }}{% endif %}{% if p.in %},
+	{{ p.in }}{% if p.pubinfo %}, {{ p.pubinfo }}{% endif %}{% endif %}
+	</div>
+	<div class="col-md-3">
+		{% if p.MR %}
+		<a href="http://www.ams.org/mathscinet-getitem?mr={{ p.MR }}">
+	    <button type="button" class="btn btn-lnk pull-right btn-spaced">MathSciNet</button>
+		</a>
+		{% endif %}
+		{% if p.arxiv %}
+		<a href="http://arxiv.org/abs/{{ p.arxiv }}">
+    <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
+		</a>
+		{% endif %}
+	</div>
+</div>
+{% endif %}
+{% endunless %}
+{% endfor %}
+
