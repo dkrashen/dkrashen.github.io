@@ -11,6 +11,8 @@ As part of the activies related to UGA's RTG grant (AGANT: Algebraic Geometry, A
 
 [Slides for the math writing workshop (keynote)][writing-keynote]
 
+[Slides for the math writing workshop (google slides)][writing-google]
+
 [Slides for the math writing workshop (pdf)][writing-pdf] 
 
 [Slides for the grant workshop (keynote)][grant-keynote] 
@@ -18,6 +20,7 @@ As part of the activies related to UGA's RTG grant (AGANT: Algebraic Geometry, A
 [Slides for the grant workshop (pdf)][grant-pdf] 
 
 [writing-keynote]: {{ site.baseurl }}/resources/math-writing.key
+[writing-google]: https://docs.google.com/presentation/d/1opZwSVZ6iS_c6rzTx3pVuCdUi9Doyi19N7zVz7oHIPA/edit?usp=sharing
 [writing-pdf]: {{ site.baseurl }}/resources/math-writing.pdf
 [grant-keynote]: {{ site.baseurl }}/resources/grant-logistics.key
 [grant-pdf]: {{ site.baseurl }}/resources/grant-logistics.pdf
