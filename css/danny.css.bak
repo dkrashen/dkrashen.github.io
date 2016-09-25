@@ -35,12 +35,11 @@ img#actionpic {
 .row {
   background-color: #e7ffe7; }
 
-.inner_row {
-  background-color: #d0d7df; }
-
 @media screen and (min-width: 680px) {
   .nav * {
     font-size: 1.2em; } }
 @media screen and (max-width: 480px) {
   .nav * {
     font-size: 1.0em; } }
+
+/*# sourceMappingURL=danny.css.map */

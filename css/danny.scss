@@ -13,6 +13,8 @@
 b {font-size:110%;}
 
 $blocky_color: #d0d7df;
+$standard_back_color: #e7ffe7; 
+$inner_back_color: #d0d7df;
 $backdrop_color: #ececec;
 $chicklet_color: #3d3d58;
 $action_color: #d070d0;
@@ -52,7 +54,9 @@ img#actionpic {
   position: relative; width: 16px; height: 16px; top: 3px;
 }
 
-.row {background-color: #f7f7ff;}
+.row {background-color: $standard_back_color;}
+
+.inner_row {background-color: $inner_back_color;}
 
 @media screen and (min-width: 680px) 
 {.nav * { font-size: 1.2em;}}

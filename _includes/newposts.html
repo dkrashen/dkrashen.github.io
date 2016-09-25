@@ -1,7 +1,7 @@
 {% for post in site.posts limit:1 %}
 {% endfor %}
 {% for post in site.posts limit: 2 %}
-  <div class="row well">
+  <div class="row well inner_row">
   <div class="col-md-12">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
       ><b>{{ post.title }}</b></a>
