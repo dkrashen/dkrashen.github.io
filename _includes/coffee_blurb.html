@@ -1,0 +1,19 @@
+
+    <div class="row well">
+    <h4>Don't miss a coffee hour!</h4>
+
+    Coffee hours are an opportunity for informal meetings to talk about
+    classes, majors, 
+    mathematics, and other things. They are open to my students and
+    advisees, and whoever happens to be in the matrix at the time! Lattes
+    and snacks are generally featured.
+
+      {% if site.testing %}
+        <br />
+        {% include coffee_hour_updates.html %}
+      {% else %}
+        {% include coffee_hour_notification.html %}
+        {% include coffee_hour_email.html %}
+      {% endif %}
+    </div>
+

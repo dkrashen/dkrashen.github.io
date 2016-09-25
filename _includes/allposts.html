@@ -1,0 +1,14 @@
+{% for post in site.posts limit:1 %}
+{% endfor %}
+{% for post in site.posts%}
+  <div class="row well">
+  <div class="col-md-12">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
+      ><b>{{ post.title }}</b></a>
+    (posted <span class="post-date">{{ post.date | date: "%b %-d, %Y"}}</span>)
+  <p>{{ post.excerpt }}</p>
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
+      >...read more</a>
+  </div>
+  </div>
+{% endfor %}
