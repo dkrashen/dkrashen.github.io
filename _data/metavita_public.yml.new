@@ -1,0 +1,1174 @@
+--- 
+
+###############
+# administration
+###############
+
+administration:
+  -
+    title: "Director of UGA MathCamp"
+    year: 2014
+    years: "2013, 2014"
+    description: "Organized a week long outreach program for local high
+    school students, involving UGA Math faculty, graduate students, and
+    undergraduate majors."
+  -
+    title: "CoPI of RTG Grant"
+    year: 2014
+
+
+###############
+# awards
+###############
+
+awards:
+  -
+    title: "Presidental Early Career Award for Scientists and Engineers
+    (PECASE)"
+    year: 2016
+    url: "http://www.whitehouse.gov/the-press-office/2016/02/18/president-obama-honors-extraordinary-early-career-scientists"
+
+  -
+    title: "University of Georgia Outstanding Professor Award"
+    year: 2016
+    url: "http://news.uga.edu/releases/article/SGA-honors-faculty-members-16/"
+
+  -
+    title: "University of Georgia Creative Research Medal"
+    year: 2012
+    url: "https://research.uga.edu/research-awards/2016/03/02/daniel-krashen/"
+
+###############
+# background
+###############
+
+appointments:
+  -
+    title: "Associate Professor" 
+    institution: "University of Georgia"
+    dates: "2012-present"
+  -
+    title: "Assistant Professor"
+    institution: "University of Georgia"
+    dates: "2008-2012"
+  -
+    title: "Visiting Scholar"
+    institution: "University of Pennsylvania"
+    dates: "2007-2008"
+  -
+    title: "Member"
+    institution: "Institute for Advanced Study, Princeton"
+    dates: "Fall 2006"
+  -
+    title: "Member"
+    institution: "Institute for Advanced Study, Princeton"
+    dates: "2004-2005" 
+  -
+    title: "Gibbs Assistant Professor"
+    institution: "Yale University"
+    dates: "2003-2007"
+  -
+    title: "Visiting Scholar"
+    institution: "University of Michigan, Ann Arbor"
+    dates: "2002-2003"
+  -
+    title: "VIGRE Assistant Professor"
+    institution: "University of California, Los Angeles"
+    dates: "2001-2003"
+  -
+    title: "Graduate Instructor"
+    institution: "University of Texas at Austin"
+    dates: "1997-2001"
+
+
+###############
+# contact
+###############
+
+contact:
+  name: "Daniel Krashen"
+  department: "Department of Mathematics, University of Georgia"
+  address: "Athens, GA 30602"
+  email: "dkrashen@uga.edu"
+  phone: "(706) 542-2555"
+  website: "http://dkrashen.org"
+
+
+###############
+# Departmental service
+###############
+
+dept_service:
+
+  -
+    title: "Executive committee"
+    dates: "2014-2016"
+    year: 2014
+
+  -
+    title: "Graduate student professional development seminar"
+    description: "Developing and maintaining a professional webpage: what,
+    why, and how"
+    dates: "2014"
+
+  -
+    title: "Graduate admissions applications"
+    description: "Created, with Laura Ackerly, a online application survey
+    for our graduate admissions, in order to automatically generate
+    spreadsheet data concerning our applicants."
+    year: 2014
+    dates: "2014"
+
+  -
+    title: "Facilities Committee"
+    dates: "2011-2014" 
+
+  -
+    title: "Algebra Qualifying exam committee"
+    year: 2011 
+    dates: "2011"
+    
+  -
+    title: "Cantrell Lecture Series Committee"
+    year: 2011
+    dates: "2010-2011"
+
+  -
+    title: "Personnel Committee"
+    dates: "2008-2011"
+
+
+
+###############
+# graduate students
+###############
+
+phdstudents:
+  -
+    name: "Riley Ellis"
+    status: "current"
+    topic: "Ulrich bundles and Clifford algebras"
+    start_year: 2016
+
+  -
+    name: "Saurabh Gosavi"
+    status: "current"
+    topic: "Splitting behavior of quadratic forms"
+    start_year: 2016
+
+  -
+    name: "Ernest Guico"
+    status: "current"
+    topic: "Field patching"
+    start_year: 2014
+
+  -
+    name: "Patrick McFaddin"
+    status: "current"
+    topic: "Algebraic K-theory and K-cohomology of homogeneous varieties"
+    start_year: 2012
+
+  -
+    name: "Maren Turbow"
+    status: "current"
+    topic: "Structure theory of graded central simple algebras"
+    start_year: 2012
+
+  -
+    name: "Stacy Musgrave"
+    status: "graduated"
+    graduation_date: 2013
+    current_position: "Postdoc"
+    current_title: "Assistant Professor of Mathematics at Cal Poly Pomona"
+    thesis_title: "Structure and Representation of Alternative Clifford Algebras of Quadratic Forms"
+
+  -
+    name: "Kate Thompson"
+    coadvisors: "Jonathan Hanke"
+    status: "graduated"
+    graduation_date: 2014
+    current_position: "Postdoc"
+    current_title: "Visiting Assistant Professor at Davidson College
+    (starting tenure track at DePaul University, Fall 2016)"
+    thesis_title: 'Explicit Representation Results of Quadratic Forms over $\mathbb Q$ and $\mathbb Q\sqrt{5}$ by Analytic Methods'
+
+gradadvisory:
+
+  -
+    name: "Marko Milosevic"
+    status: "current"
+    advisor: "Pete Clark"
+    role: "committee"
+  -
+    name: "Nick Castro"
+    status: "past"
+    role: "preliminary committee"
+  -
+    name: "Phong Luu"
+    status: "current"
+    role: "teaching mentor"
+  -
+    name: "Jae Ho Shin"
+    status: "past"
+    role: "phd committee"
+  -
+    name: "Brian Bonsignore"
+    status: "current"
+    role: "phd committee"
+  -
+    name: "Eric Burgess"
+    status: "past"
+    role: "preliminary committee"
+  -
+    name: "Luca Schaffler"
+    status: "current"
+  -
+    name: "Andy Talian"
+    status: "past"
+  -
+    name: "Jacob Hicks"
+    status: "current"
+    role: "phd committee"
+
+###############
+# grants
+###############
+
+grant_proposals: 
+
+  - 
+    title: "FRG: Collaborative Research: Obstructions to Local-Global
+    Principles and Applications to Algebraic Structures."
+    PI: "Daniel Krashen"
+    active: TRUE
+    agency: "National Science Foundation"
+    status: "Awarded"
+    status_date: "4/28/2015"
+    dates: "07/01/15-06/31/18"
+    submission_date: "9/19/2014"
+    external: TRUE
+    submission_year: 2014
+    amount_awarded: "173,174"
+    amount_requested: "206,881"
+    description: "This proposal funds research activities including
+    faculty summer salary, and graduate student support. It is a collaborative
+    proposal in conjunction with parallel proposals by David Harbater and
+    Julia Hartmann at the University of Pennsylvania, Parimala and V.
+    Suresh at Emory University, and also involving Jean-Louis
+    Colliot-Thelene as an additional participant at the Universite
+    Paris-Sud."
+
+  - 
+    title: "Collaborative Research: Georgia Algebraic Geometry Symposium"
+    PI: "Valery Alexeev"
+    coPIs: "Valery Alexeev, Noah Giansiracusa, Daniel Krashen, Angela Gibney, Dino Lorenzini"
+    status: "Awarded"
+    dates: "06/15/15-05/31/18"
+    status_date: "6/13/2015"
+    submission_date: "12/16/2014"
+    external: TRUE
+    submission_year: 2014
+    active: TRUE
+    agency: "National Science Foundation"
+    amount_requested: "28,013"
+    amount_awarded: "27,813"
+    description: "Joint proposal together with Emory
+    and Georgia Tech. For an Algebraic Geometry conference in
+    each of the 3 years, rotating institutions each year."
+
+  - 
+    title: "The 12th Brauer Group Meeting"
+    PI: "Kelly McKinnie"
+    coPIs: "Daniel Krashen, Eric Brussel"
+    agency: "National Science Foundation"
+    status: "Awarded"
+    dates: "04/01/15-03/31/16"
+    status_date: "02/23/2015"
+    submission_date: "11/05/2014"
+    submission_year: 2014
+    amount_requested: "22,200"
+    description: "For a conference which was held summer 2015 at
+    Pingree Park Colorado on the study of the Brauer group."
+    url: "http://torsor.github.io/brauer/index2015/"
+    external: TRUE
+
+  - 
+    title: "RTG: Algebra, Algebraic Geometry, and Number Theory"
+    PI: "Dino Lorenzini"
+    coPIs: "Valery Alexeev, Pete L. Clark, Daniel Krashen, Angela
+    Gibney"
+    award_number: "DMS-1344994"
+    status: "Awarded"
+    active: TRUE
+    external: TRUE
+    submission_date: "6/04/2013"
+    dates: "05/01/14-04/30/19"
+    submission_year: 2013
+    award_year: 2014
+    agency: "National Science Foundation"
+    status_date: "04/23/2014"
+    amount_awarded: "2,000,000"
+    description: "The AGANT (Algebraic Geometry, Algebra and Number Theory)
+    Research and Training Group at the University of Georgia Mathematics
+    Department grant supports a number of programs and activities the the
+    UGA Math department at a variety of levels, from high school students
+    to postdoctoral fellows."
+    url: "http://agant.torsor.org"
+
+  - 
+    title: "CAREER: The Arithmetic of Fields and the Complexity of Algebraic Structures"
+    PI: "Daniel Krashen"
+    status: "Awarded"
+    external: TRUE
+    active: TRUE
+    dates: "07/01/12-06/30/17"
+    award_number: "DMS-1151252"
+    submission_date: "7/27/2011"
+    submission_year: 2011
+    award_year: 2012
+    active_years: 2014
+    status_date: "02/16/2015"
+    amount_awarded: "790,922"
+    agency: "National Science Foundation"
+    description: "This is a research grant for work in Algebra, Arithmetic
+    Geometry and Algebraic Geometry, drawing on ideas from Homotopy theory.
+    The grant provides summer faculty support, travel funding, graduate
+    stipends and a number of outreach activities."
+    url: "http://dkrashen.github.io"
+
+  - 
+    title: "The structure of invariants in algebra and geometry"
+    PI: "Daniel Krashen"
+    external: TRUE
+    agency: "National Science Foundation"
+    status: "Awarded"
+    active: FALSE
+    submission_date: "11/04/2009"
+    submission_year: 2009
+    award_year: 2010
+    dates: "09/01/10-08/31/13"
+    amount_awarded: "164,879"
+
+  - 
+    title: "The 10th Brauer Group Meeting"
+    PI: "Kelly McKinnie"
+    coPIs: "Daniel Krashen, Eric Brussel"
+    agency: "National Science Foundation"
+    status: "Awarded"
+    active: FALSE 
+    external: TRUE
+    status_date: "02/23/2015"
+    submission_date: "11/05/2014"
+    dates: "06/01/12-05/31/13"
+    submission_year: 2014
+    amount_requested: "21,200"
+    award_number: "DMS-1214939"
+
+  -
+    title: "Young Investigator's Grant"
+    external: TRUE
+    agency: "National Security Agency"
+    PI: "Daniel Krashen"
+    dates: "2009-2010"
+    status: "Awarded"
+    active: FALSE 
+
+  -
+    title: "University of Georgia Foreign travel grant"
+    PI: "Daniel Krashen"
+    agency: "University of Georgia"
+    external: FALSE
+    dates: "2009"
+    status: "Awarded"
+    active: FALSE 
+
+  -
+    title: "Young Investigator's Grant"
+    PI: "Daniel Krashen"
+    agency: "National Security Agency"
+    external: TRUE
+    dates: "2008-2009"
+    award_number: "H98230-08-1-0109"
+    status: "Awarded"
+    active: FALSE 
+
+  -
+    title: "Young Investigator's Grant"
+    PI: "Daniel Krashen"
+    agency: "National Security Agency"
+    external: TRUE
+    dates: "2006-2007"
+    award_number: "H98230-06-1-0032"
+    status: "Awarded"
+    active: FALSE 
+
+
+###############
+# Other contributions
+###############
+
+other:
+  -
+    description: "Developed a LaTex templating tool (TransTex), available on
+    a public domain code repository (used to produce this document)"
+    year: 2015
+    url: "http://dkrashen.github.io/TransTex/"
+
+  -
+    description: "Set up and maintained a bug-tracker for Martin Olssen's
+    book on Algbraic Stacks"
+    year: 2014
+    url: "https://github.com/dkrashen/stacks-issues"
+
+  -
+    description: "Set up website for AGANT RTG grant"
+    year: 2014
+    url: "http://agant.torsor.org"
+
+  -
+    description: "Set up and maintained a public domain code repository with
+    jekyll templates for creating websites for personal professional use,
+    including courses and seminars"
+    year: 2014
+    url: "https://github.com/dkrashen/jekyll_templates"
+
+
+###############
+# professional activities
+###############
+
+editor:
+  -
+    title: "Associate editor, American Mathematical Monthly"
+    year: 2014
+
+reviewer:
+  -
+    journal: "Advances in Mathematics"
+    year: 2014
+    comments: "2 papers"
+
+  -
+    journal: "National Security Agency Grant external reviewer"
+    year: 2014
+
+  -
+    journal: "National Science Foundation Panelist"
+    year: 2014
+
+  -
+    journal: "National Science Foundation Panelist"
+    year: 2013
+
+  -
+    journal: "National Science Foundation Panelist"
+    year: 2012
+
+  -
+    year: 2010
+    journal: "Transactions of the American Mathematical Society"
+
+  -
+    year: 2010
+    journal: "Communications in Algebra"
+
+  -
+    year: 2010
+    journal: "Journal of Pure and Applied Algebra"
+
+  -
+    year: 2010 
+    journal: "Crelle's Journal (Journal f\\\"ur die reine und angewandte
+    Mathematik)" 
+
+  -
+    year: 2010 
+    journal: "Journal of Algebra"
+
+  -
+    year: 2009 
+    journal: "Mathematiche Annalen"
+
+  -
+    year: 2009 
+    journal: "Journal of Algebra"
+
+  -
+    year: 2009
+    journal: "Journal of K-Theory"
+
+  -
+    year: 2009
+    journal: "Pacific Journal of Mathematics"
+
+  -
+    year: 2009
+    journal: "National Security Agency Mathematical Sciences Grant
+    Reviewer"
+
+  - 
+    year: 2008
+    journal: "Manuscripta Mathematica"
+
+
+
+###############
+# research
+###############
+
+publications: 
+
+  - 
+    arxiv: "1305.5217"
+    title: "Period and index, symbol lengths, and generic splittings in Galois cohomology"
+    arxiv_year: 2013
+    revision_year: 2014
+    type: "research paper"
+    in: "to appear in the Bulletin of the London Mathematical Society"
+    accepted_year: 2016
+
+  - 
+    arxiv: "1409.2580"
+    title: "Derived categories for torsors for Abelian schemes"
+    with: "Benjamin Antieau and Matthew Ward"
+    year: 2014
+    arxiv_year: 2014
+    status: "in revision in Advances in Mathematics"
+    type: "research paper"
+
+  - 
+    arxiv: "1409.1888"
+    title: "Torsion in Chow groups of zero cycles of homogeneous projective varieties"
+    year: 2014
+    arxiv_year: 2014
+    status: "not in submission"
+    type: "research paper"
+
+  - 
+    arxiv: "1404.4349"
+    title: "Refinements to patching and applications to field invariants"
+    with: "David Harbater and Julia Hartmann"
+    year: 2014
+    arxiv_year: 2014
+    publication_year: 2015
+    revision_year: 2014
+    type: "research paper"
+    in: "International Math. Research Notices"
+    pubinfo: "doi: 10.1093/imrn/rnu278"
+
+  - 
+    MR: "MR3177913"
+    arxiv: "1208.6359"
+    in: "Comment. Math. Helv."
+    pubinfo: "89 (2014),  no. 1, 215--253"
+    type: "research paper"
+    title: "Local-global principles for Galois cohomology"
+    with: "David Harbater and Julia Hartmann"
+    year: 2014
+    publication_year: 2014
+    arxiv_year: 2012
+    
+  - 
+    MR: "MR3072806"
+    arxiv: "1109.6362"
+    in: "Math. Ann."
+    pubinfo: "356 (2013),  no. 4, 1405--1424"
+    type: "research paper"
+    title: "Weierstrass preparation and algebraic invariants"
+    with: "David Harbater and Julia Hartmann"
+    publication_year: 2013
+    arxiv_year: 2011
+
+  - 
+    title: "Local-global principles for torsors over arithmetic curves"
+    with: "David Harbater and Julia Hartmann"
+    arxiv_year: 2011
+    in: "to appear in the American Journal of Mathematics"
+    accepted_year: 2015
+    type: "research paper"
+    revision_years: "2011, 2012, 2013, 2015"
+    arxiv: "1108.3323"
+
+
+  - 
+    arxiv: "1305.5295"
+    in: "Proceedings of the American Mathematical Sociaty"
+    pubinfo: "143 (2015), no. 7, 2779--2788"
+    title: "Diophantine and cohomological dimensions"
+    with: "Eliyahu Matzri"
+    type: "research paper"
+    arxiv_year: 2013
+    accepted_year: 2014
+
+  - 
+    MR: "MR3009747"
+    arxiv: "math/0701614"
+    in: "Israel J. Math."
+    pubinfo: "192 (2012),  no. 2, 921--949"
+    title: "Relative Brauer groups of genus 1 curves"
+    type: "research paper"
+    with: "Mirela Ciperiani"
+    publication_year: 2012
+    arvix_year: 2007
+
+  - 
+    MR: "MR2837009"
+    arxiv: "math/0702240"
+    by: "Max Lieblich"
+    in: "J. Reine Angew. Math."
+    type: "research paper"
+    pubinfo: "659 (2011), 1--41"
+    title: "Appendix to: Period and index in the Brauer group of an arithmetic surface"
+    publication_year: 2011
+    type: "research paper"
+    arxiv_year: 2007
+
+  - 
+    MR: "MR2775810"
+    arxiv: "0904.1594"
+    in: "Trans. Amer. Math. Soc."
+    pubinfo: "363 (2011),  no.  6, 3335--3349"
+    title: "Patching subfields of division algebras"
+    type: "research paper"
+    with: "David Harbater and Julia Hartmann"
+    arxiv_year: 2009
+    publication_year: 2011
+
+  - 
+    MR: "MR2745259"
+    arxiv: "1001.3685"
+    in: "Manuscripta Math."
+    pubinfo: "134 (2011), no. 1-2, 171--182."
+    title: "Distinguishing division algebras by finite splitting fields"
+    type: "research paper"
+    with: "Kelly McKinnie"
+    publication_year: 2011
+
+  - 
+    MR: "MR2648720"
+    arxiv: "0909.3115"
+    in: "Quadratic forms, linear algebraic groups, and cohomology"
+    type: "research paper"
+    pubinfo: "57--82, Dev. Math., 18, Springer, New York, 2010"
+    title: "Field patching, factorization, and local-global principles"
+    arxiv_year: 2009
+    publication_year: 2010
+
+  - 
+    MR: "MR2645050"
+    arxiv: "0704.3443"
+    in: "Trans. Amer. Math. Soc."
+    pubinfo: "362 (2010), no. 9, 4781--4792"
+    title: "Corestrictions of algebras and splitting fields"
+    type: "research paper"
+    publication_year: 2010
+    arxiv_year: 2007
+
+  - 
+    MR: "MR2601007"
+    arxiv: "math/0501399"
+    in: "Adv. Math."
+    pubinfo: "223 (2010), no. 6, 2022--2048"
+    type: "research paper"
+    title: "Zero cycles on homogeneous varieties"
+    publication_year: 2010
+    arxiv_year: 2005
+
+  - 
+    MR: "MR2545681"
+    arxiv: "0809.4481"
+    in: "Invent. Math."
+    type: "research paper"
+    pubinfo: "178 (2010), no.  2, 231--263"
+    title: "Applications of patching to quadratic forms and central simple algebras"
+    with: "David Harbater and Julia Hartmann"
+    arxiv_year: 2008
+    publication_year: 2009
+
+  - 
+    MR: "MR2496455"
+    arxiv: "math/0505296"
+    in: "J.  Algebraic Geom."
+    pubinfo: "18 (2009), no.  3, 477--509."
+    title: "Pointed trees of projective spaces."
+    with: "Linda Chen and Angela Gibney"
+    type: "research paper"
+    publication_year: 2009
+
+  - 
+    MR: "MR2428144"
+    arxiv: "0706.1072"
+    in: "Int. Math. Res. Not. IMRN"
+    pubinfo: "no. 8 (2008), Art. ID rnn010, 31 pp."
+    title: "Index reduction for Brauer classes via stable sheaves"
+    with: "Max Lieblich"
+    publication_year: 2008
+    type: "research paper"
+    arxiv_year: 2007
+
+  - 
+    MR: "MR2363485"
+    arxiv: "math/0203117"
+    in: "J. Pure Appl. Algebra"
+    pubinfo: "212 (2008), no.  4, 689--703"
+    title: "Birational maps between generalized Severi-Brauer varieties"
+    publication_year: 2008
+    arxiv_year: 2002
+    type: "research paper"
+
+  - 
+    MR: "MR2363128"
+    arxiv: "math/0603389"
+    in: "J. Algebra"
+    pubinfo: "318 (2007), no.  1, 135--139"
+    title: "Motives of unitary and orthogonal homogeneous varieties"
+    type: "research paper"
+    publication_year: 2007
+    arxiv_year: 2006
+
+  - 
+    MR: "MR2090670"
+    in: "Algebraic transformation groups and algebraic varieties"
+    pubinfo: "59--70, Encyclopaedia Math.  Sci., 132, Springer, Berlin, 2004"
+    title: "Severi-Brauer varieties and symmetric powers"
+    with: "David J. Saltman"
+    type: "research paper"
+    publication_year: 2004
+
+  - 
+    arxiv: "0411529" 
+    title: "Moduli of \\'etale subalgebras in an Azumaya algebra"
+    type: "expository paper"
+    arxiv_year: 2004
+
+  - 
+    MR: "MR2029172"
+    arxiv: "math/0206154"
+    in: "Doc. Math."
+    pubinfo: "8 (2003), 527--546 (electronic)"
+    title: "Severi-Brauer varieties of semidirect product algebras"
+    publication_year: 2003
+    type: "research paper"
+    arxiv_year: 2002
+
+presentations:
+  -
+    title: "The Clifford Algebra of a finite morphism"
+    year: 2015
+    venue: "Special Session on Quadratic Forms in
+    Arithmetic and Geometry, AMS Sectional Meeting, Huntsville, Alabama"
+
+  -
+    title: "Birational isomorphisms between noncommutative surfaces, finite over their centers"
+    venue: "Special Algebraic Geometry Seminar, UT Austin"
+    year: 2014
+    abstract: "Just as there are many interpretations of a ``noncommutative
+    space'' in the context of algebraic geometry, there are also many ways
+    of comparing such spaces and many ways in which they can be considered
+    equivalent. In this talk we will be concerned with the notion of
+    birational isomorphisms between noncommutative projective schemes, and
+    in particular, between quantum planes which are finite over their
+    centers. To do this we will introduce algebr-geometric/combinatorial
+    methods for working with these objects and producing noncommutative
+    birational invariants. This will allow us to distinguish between certain birational equivalence class of quantum planes, answering a
+    question of Izuru Mori."
+
+  -
+    venue: "Special Session on Exceptional Groups in Physics, Algebra, and
+    Geometry, AMS Southeastern Sectional Meeting University of North Carolina
+    at Greensboro"
+    title: "Higer dimensional local-global principles for torsors under
+    linear algebraic groups"
+    coauthors: "David Harbater and Julia Hartmann"
+    abstract: "In this talk, I’ll discuss some recent joint work with David Harbater and Julia Hartmann on finding higher-dimensional versions of local-global principles for linear algebraic groups, and describe some
+    conjectures and open problems."
+    year: 2014
+
+  -
+    venue: "Workshop on Algebraic and Geometric Invariants of Linear Algebraic
+      Groups and Homogeneous Spaces, University of Ottawa"
+    year: 2014
+
+  -
+    title: "Algebraic structures and the arithmetic of fields"
+    venue: "Invited address at the Sectional Meeting of the AMS, Knoxville,
+    TN"
+    year: 2014
+
+  -
+    title: "Derived categories of torsors for Abelian varieties"
+    year: 2013
+    venue: "Winter Meeting of the Canadian Mathematical Society"
+
+  -
+    title: "Field patching and local-global principles"
+    year: 2013
+    venue: "Thematic Program on Torsors, Nonassociative Algebras and
+    Cohomological Invariants, Fields Institute"
+
+  -
+    title: "The Clifford algebra of a morphism"
+    year: 2013
+    venue: "RIMS workshop, Kyoto, Japan"
+
+  -
+    title: "Bounding the symbol length in Galois cohomology"
+    year: 2013 
+    venue: "Conference on Brauer groups, the Technion University, Haifa,
+    Israel" 
+
+  -
+    year: 2013 
+    title: "Splitting dimension and symbol length in Galois cohomology"
+    venue: "AMS MAA Joint Meeting, Special session on the Brauer group on
+    algebra and geometry, San Diego"
+
+  -
+    year: 2010 
+    title: "Field patching and local-global principles for Galois
+cohomology"
+    venue: "Motives and the Homotopy Theory of Schemes, Oberwolfach MFO,
+    Germany"
+
+  -
+    year: 2009 
+    title: "Field patching and local-global principles for Galois
+    cohomology"
+    venue: "Quadratic Forms and Linear Algebraic Groups Oberwolfach MFO,
+    Germany"
+
+  -
+    year: 2009 
+    title: "Patching topologies and local-global principles"
+    venue: "Linear Algebraic Groups and Related Structures, Banff
+    International Research Station"
+
+  -
+    year: 2009 
+    title: "Patching subfields of division algebras"
+    venue: "Special session on Brauer groups, Quadratic Forms, Algebraic
+    Groups, and Lie Algebras, AMS Southeastern Section Meeting Raleigh, NC"
+
+  -
+    year: 2008
+    title: "Local global principles for field patching and applications to
+    quadratic forms and division algebras"
+    venue: "Quadratic forms, linear algebraic  groups and cohomology,
+    Hyderabad, India"
+
+  -
+    year: 2008 
+    title: "Field patching, quadratic forms and division algebras"
+    venue: "Algebraic Groups session of the 2nd Canada-France Math
+    Congress"
+
+  -
+    year: 2007 
+    title: "Corestriction and splitting fields of algebras"
+    venue: "Linear Algebraic Groups and Cohomology, Emory University"
+
+  -
+    year: 2006
+    title: "Index reduction for genux $1$ curves"
+    venue: "Algebraic Groups, Quadratic Forms and Related Topics, Banff
+    International Research Station"
+
+  -
+    year: 2006
+    title: "Relative Brauer groups and index reduction for genus $1$
+    curves"
+    venue: "Quadratic Forms and Linear Algebraic Groups, Mathematisches Forschungsinstitut Oberwolfach"
+
+  -
+    year: 2005
+    title: "Zero cycles on homogeneous varieties Applications of torsors to
+    Galois cohomology and Lie theory"
+    venue: "Banff International Research Station"
+
+  -
+    year: 2005
+    title: "Zero cycles on homogeneous varieties"
+    venue: "AMS Summer Institute on Algebraic Geometry, Seattle"
+
+  -
+    year: 2004 
+    title: "Cycles on homogeneous varieties and subfields of divison
+    algebras"
+    venue: "Conference on Brauer Groups, Pingree Park, Colorado"
+
+  -
+    year: 2002
+    title: "Moduli of subfields of central simple algebras"
+    venue: "Conference on Brauer Groups, Pingree Park, Colorado"
+
+  -
+    year: 2002 
+    title: "Birational isomorphisms between generalized Severi-Brauer
+    varieties"
+    venue: "Joint Mathematics Meetings, special session on forms, algebras
+    and algebraic groups"
+
+  -
+    year: 2001
+    title: "Birational isomorphisms between generalized Severi-Brauer varieties"
+    venue: "Conference on K-Theory and Linear Algebraic Groups, Duisburg,
+    Germany"
+
+  -
+    year: 1999
+    title: "Rational morphisms between Severi-Brauer varieties"
+    venue: "Summer Conference on Brauer Groups, University of Montana"
+
+
+workshops:
+  - 
+    year: 2015
+    role: "organizer, presenter"
+    venue: "Local-Global Principles and Their Obstructions, University of
+    Pennsylvania"
+    url: "https://www.math.upenn.edu/~hartmann/sha/"
+
+  -
+    role: "mentor"
+    venue: "Algebraic Geometry in Seattle: New connections for recent PhDs"
+    year: 2014
+     
+  -
+    year: 2013
+    venue: "Brauer groups and obstruction problems: moduli spaces and
+    arithmetic, American Institute of Mathematics"
+    role: "organizer, participant"
+
+  -
+    year: 2009
+    venue: "Rational curves and $\\mathbb A^1$-homotopy theory, American Institute of Mathematics"
+    role: "participant"
+
+conferences_organized:
+
+  -
+    title: "The Georgia Algebraic Geometry Symposium at Emory"
+    with: "A. Gibney, R. Parimala, V. Suresh, D. Zurich-Brown"
+    url: "https://sites.google.com/site/galgeoms/"
+    year: 2015
+
+  -
+    title: "Workshop: Local-Global Principles and Their Obstructions"
+    with: "D. Harbater, J. Hartmann, R. Parimala, V. Suresh"
+    year: 2015
+    url: "https://www.math.upenn.edu/~hartmann/sha/"
+
+  -
+    title: "The 12th Brauer Group Meeting at Pingree Park"
+    with: "Eric Brussel and Kelly McKinnie"
+    url: "http://torsor.github.io/brauer/index2015/"
+    year: 2015
+
+  -
+    with: "Valery Alexeev, Noah Giansiracusa and Angela Gibney" 
+    title: "The Georgia Algebraic Geometry Symposium"
+    year: 2014
+    url: "http://gags.torsor.org/conf2014/"
+
+  -
+    with: "Ben Antieau and V. Suresh"
+    title: "AMS special session: Galois Cohomology and the Brauer Group, Knoxville, TN"
+    url: "http://www.ams.org/meetings/sectional/2216_special.html"
+    year: 2014
+
+  -
+    with: "Valery Alexeev and Angela Gibney"
+    title: "The Georgia Algebraic Geometry Symposium"
+    year: 2013
+    url: "http://gags.torsor.org/conf2013/"
+
+  -
+    year: 2012 
+    title: "Algebraic Groups and Patching, Oberwolfach Mathematical
+    Research Institute, Oberwolfach, Germany" 
+    notes: "Presented a series of 4 lectures"
+    with: "Karim Becher, David Harbater and Julia Hartmann"
+
+  -
+    year: 2012 
+    title: "The 10th Brauer Group Meeting at Pingree Park"
+    with: "Eric Brussel and Kelly McKinnie"
+
+  -
+    year: 2012
+    title: "The Georgia Algebraic Geometry Symposium and Summer School
+    Program, University of Georgia"
+    with: "Valery Alexeev, Angela Gibney and Elham Izadi"
+
+  -
+    year: 2011
+    title: "Ramification in Algebra and Geometry at Emory"
+    with: "Asher Auel, Eric Brussel, Skip Garibaldi and R. Parimala"
+
+  -
+    year: 2011
+    title: "Deformation theory, patching, quadratic forms, and the Bruaer
+group, American Institute of Mathematics" 
+    with: "Max Lieblich" 
+
+  -
+    year: 2010
+    title: "Local-global principles for \\'etale cohomology, Banff International Research Station, Research in Teams program"
+    with: "David Harbater and Julia Hartmann"
+
+  -
+    year: 2010
+    title: "The Brauer group in Israel, Kibbutz Ketura, Israel"
+    with: "Skip Garibaldi, Louis Rowen, David Saltman, Jack Sonn and Uziel
+    Vishne"
+
+  -
+    year: 2008
+    title: "Conference on the Brauer group at Pingree Park"
+    with: "Skip Garibaldi and Kelly McKinnie"
+
+
+###############
+# teaching
+###############
+
+courses:
+  -
+    semester: "Spring 2016"
+    number: "MATH/CS 4690/6690"
+    title: "Graph Theory"
+    type: "undergraduate"
+    url: "http://dkrashen.github.io/graphtheory/"
+
+  -
+    semester: "Fall 2015"
+    number: "MATH 2250"
+    title: "Calculus I - two sections"
+    contact_hours: "4"
+    type: "undergraduate"
+    url: "http://dkrashen.github.io/calc1/"
+
+  -
+    semester: "Spring 2015"
+    number: "MATH 8330"
+    title: "Central Simple Algebras"
+    contact_hours: "3"
+    type: "graduate"
+    url: "http://dkrashen.github.io/csa/"
+
+  -
+    semester: "Fall 2014"
+    number: "MATH 8330"
+    title: "Algebraic Stacks"
+    url: "http://dkrashen.github.io/stacks/"
+    contact_hours: "3"
+    enrollment: "10"
+    type: "graduate"
+
+  -
+    semester: "Fall 2014"
+    number: "MATH 2260 - two sections"
+    title: "Calculus II"
+    url: "http://dkrashen.github.io/calc2/"
+    contact_hours: "4"
+    type: "undergraduate"
+
+  -
+    semester: "Spring 2014"
+    number: "MATH 2260"
+    title: "Calculus II"
+    contact_hours: "4"
+    enrollment: "37"
+    type: "undergraduate"
+
+  -
+    semester: "Spring 2014"
+    number: "MATH/CS 4690/6690"
+    title: "Graph Theory"
+    type: "undergraduate"
+
+  -
+    semester: "Fall 2013"
+    number: "MATH 2250"
+    title: "Calculus I"
+    type: "undergraduate"
+
+  -
+    semester: "Fall 2013"
+    number: "MATH 8315"
+    title: "Algebraic Geometry: Cohomology"
+    contact hours: "3"
+    type: "graduate"
+
+  -
+    semester: "Summer 2013"
+    title: "Reading course on Etale Cohomology (McFaddin,
+    Varghese)"
+    type: "graduate"
+
+  -
+    semester: "Fall 2012"
+    number: "MATH 4670/6670"
+    title: "Combinatorics"
+    type: "undergraduate"
+
+  -
+    semester: "Fall 2012"
+    number: "MATH 2250"
+    title: "Calculus I"
+    type: "undergraduate"
+
+  -
+    semester: "Summer 2011"
+    title: "Reading course on Algebraic Geometry (McFaddin)"
+    type: "graduate"
+    
+  -
+    semester: "Spring 2011"
+    title: "Quadratic Forms"
+    type: "graduate"
+
+  -
+    semester: "Spring 2011"
+    number: "MATH 2250"
+    title: "Calculus I"
+    type: "undergraduate"
+    
+  -
+    semester: "Fall 2010"
+    number: "MATH 8000"
+    title: "Graduate Algebra"
+    type: "graduate"
+
+  -
+    semester: "Spring 2010"
+    number: "MATH 4690/6690"
+    title: "Graph Theory"
+    type: "undergraduate"
+
+  -
+    semester: "Summer 2010"
+    number: "MATH 8900"
+    title: "Spectral Sequences"
+    type: "graduate"
+
+  -
+    semester: "Spring 2009"
+    number: "MATH 8310"
+    title: "Algebraic Geometry: Schemes"
+    type: "graduate"
+    
+
+  -
+    semester: "Fall 2009"
+    number: "MATH 2200"
+    title: "Calculus (2 sections)"
+    type: "undergraduate"
+
+  -
+    semester: "Fall 2008"
+    number: "MATH 3000"
+    title: "Linear Algebra"
+    type: "undergraduate"
+
+
