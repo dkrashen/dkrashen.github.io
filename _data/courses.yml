@@ -1,3 +1,19 @@
+- title: "MATH 2250: Calculus 1 (Section 43142)"
+  url: "http://dkrashen.github.io/calc1/"
+  schedule: "Lectures Tues/Thurs 12:30pm-1:45pm" 
+  location: "Geography and Geology, room 300A"
+  schedule2: "Recitation Mon 12:20pm-1:10pm" 
+  location2: "Forestry Resources, Building 4, room 418"
+  semester: "Spring 2017"
+
+- title: "MATH 2250: Calculus 1 (Section 43008)"
+  url: "http://dkrashen.github.io/calc1/"
+  schedule: "Lectures Tues/Thurs 2:00pm-3:15pm" 
+  location: "Geography and Geology, room 300A"
+  schedule2: "Recitation Mon 1:25pm-2:15pm" 
+  location2: "Aderhold, room 112"
+  semester: "Spring 2017"
+
 - title: "MATH/CS 4670/6670: Combinatorics"
   url: "http://dkrashen.github.io/combinatorics/"
   schedule: "Lectures MWF 1:25pm-2:15pm" 
@@ -11,7 +27,7 @@
   semester: "Spring 2016"
 
 - title: "MATH 2250: Calculus 1 (Section 15624)"
-  url: "http://dkrashen.github.io/calc1/"
+  url: ""
   schedule: "Lectures Tues/Thurs 9:30am-10:45am" 
   location: "Poultry Science, Room 238"
   schedule2: "Recitation Mon 12:20pm-1:10pm" 
@@ -19,7 +35,7 @@
   semester: "Fall 2015"
 
 - title: "MATH 2250: Calculus 1 (Section 25507)"
-  url: "http://dkrashen.github.io/calc1/"
+  url: ""
   schedule: "Lectures Tues/Thurs 12:30pm-1:45pm" 
   location: "Physics Building, Room 327"
   schedule2: "Recitation Mon 10:10am-11:00am" 
