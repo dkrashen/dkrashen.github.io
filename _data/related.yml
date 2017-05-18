@@ -1,6 +1,8 @@
+- url: "https://sites.google.com/view/confqf/home"
+  title: "CAAATQuafs: Conference on aspects of the algebraic and analytic theory of quadratic forms"
 
-- url: "http://ugamathcamp.torsor.org/"
-  title: "UGA MathCamp"
+- title: "ECHORaP: Emory Conference on Higher Obstructions to Rational Points"
+  url: "https://sites.google.com/site/echorap2017/"
 
 - url: "http://torsor.github.io/brauer/"
   title: "The Brauer group conferences at Pingree Park"
@@ -11,3 +13,6 @@
 - url: "http://sites.google.com/site/galgeoms/"
   title: "Georgia Algebraic Geometry Symposium"
   
+- url: "http://ugamathcamp.torsor.org/"
+  title: "UGA MathCamp"
+
