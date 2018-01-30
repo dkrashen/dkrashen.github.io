@@ -1,29 +1,61 @@
 ---
-layout: default
-home: true
+layout: bare
+
+navlinks:
+    -
+        name: "research"
+        imgurl: "images/research.png"
+        url: "research.html"
+    -
+        name: "computation"
+        imgurl: "images/computation.png"
+        url: "computation.html"
+    -
+        name: "computational VRG"
+        imgurl: "images/compvrg.png"
+        url: "computation.html"
+    -
+        name: "MathCamp"
+        imgurl: "images/mathcamp.png"
+        url: "http://torsor.github.io/mathcamp/"
+    -
+        name: "teaching"
+        imgurl: "images/teaching.png"
+        url: "computation.html"
+    -
+        name: "Videos"
+        imgurl: "images/videos.png"
+        url: "computation.html"
+
+
 ---
-
-<div class="navigation" active_link="home_link"></div>
-
-<div class="row well">
-
-
-
-
-
-  <div class="col-md-12">
-    <div class="row well inner_row">
-      {% for r in site.data.related %}
-        <div class="row inner_row" style="margin-bottom:15px;">
-          <div class="col-md-12">
-            <h4><a style="color: #048;"href="{{ r.url }}" 
-            >{{ r.title }}</a></h4>
-          </div>
+<div class="container" style="padding-top:30px; padding-bottom:30px;">
+	<div class="row">
+		<div class="col-md-4 hidden-xs">
+			{% include maxpic.html %}
+		</div>
+		<div class="col-md-4">
+			<h1 > <a href="/">{{ site.headertext }}</a> </h1>
+	  		<h4>{{ site.tagline }}</h4>
+		</div>
+        <div class="col-md-4">
+            <div class="float-right;">
+            <h1> <a href="#">about</a> </h4>
+            <h3> CV </h3>
+            </div>
         </div>
-      {% endfor %}
-    </div>
-	</div><!--/col-->
+	</div> <!-- /row -->
+</div> <!-- /container -->
 
-</div>
-</div>
-
+<div class="container">
+    <div class="row">
+        {% for navlink in page.navlinks %}
+        <div class="col-md-3 well hidden-xs">
+            {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url small="false" %}
+        </div>
+        <div class="col-xs hidden-md hidden-lg hidden-sm">
+            {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url small="true" %}
+        </div>
+        {% endfor %}
+    </div> <!-- /row -->
+</div> <!-- /container -->
