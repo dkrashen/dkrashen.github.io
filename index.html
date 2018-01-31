@@ -50,7 +50,7 @@ navlinks:
 <div class="container">
     <div class="row">
         {% for navlink in page.navlinks %}
-        <div class="col-md-3 well hidden-xs">
+        <div class="col-md-4 hidden-xs">
             {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url small="false" %}
         </div>
         <div class="col-xs hidden-md hidden-lg hidden-sm">
