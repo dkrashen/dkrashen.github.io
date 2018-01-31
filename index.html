@@ -30,31 +30,28 @@ navlinks:
 
 ---
 <div class="container" style="padding-top:30px; padding-bottom:30px;">
-	<div class="row">
-		<div class="col-md-4 hidden-xs">
+	<div class="row" style="padding-bottom:30px;">
+		<div class="col-md-3 col-sm-3 hidden-xs">
 			{% include maxpic.html %}
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-6 col-xs-9 col-sm-6">
 			<h1 > <a href="/">{{ site.headertext }}</a> </h1>
 	  		<h4>{{ site.tagline }}</h4>
 		</div>
-        <div class="col-md-4">
+        <div class="col-md-3 col-xs-3 col-sm-3">
             <div class="float-right;">
-            <h1> <a href="#">about</a> </h4>
-            <h3> CV </h3>
+            <p style="font-size:2em; margin-top: 20px; margin-left: 50px;"> <a href="#">about</a> </p>
+            <p style="font-size:1.5em; margin-left: 50px;"> <a href="#"> CV </a> </p>
             </div>
         </div>
 	</div> <!-- /row -->
 </div> <!-- /container -->
 
-<div class="container">
+<div class="container" style="padding-bottom:300px;">
     <div class="row">
         {% for navlink in page.navlinks %}
-        <div class="col-md-4 hidden-xs">
-            {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url small="false" %}
-        </div>
-        <div class="col-xs hidden-md hidden-lg hidden-sm">
-            {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url small="true" %}
+        <div class="col-md-4 col-xs-6 col-sm-4">
+            {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url %}
         </div>
         {% endfor %}
     </div> <!-- /row -->

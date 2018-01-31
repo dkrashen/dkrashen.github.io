@@ -1,16 +1,12 @@
-<figure class="figure float-left" style="width:200px;">
+<figure class="figure float-left" style="width:200px; margin-bottom:50px;">
 	<a href="{{ include.url }}">
-		{% if include.small == "false" %}
 		<img
 			class="img-fluid mx-auto d-block"
 			src= {{ include.imgurl }}
 			alt= {{ include.name }}
 			height="150" />
-		<figcaption class="figure-caption text-center">
-			{{ include.name }}
+		<figcaption class="figure-caption text-center" >
+			<span>{{ include.name }}</span>
 		</figcaption>
-		{% else %}
-			<h4 style="padding-left: 20px;"> {{ include.name }} </h4>
-		{% endif %}
 	</a>
 </figure>
