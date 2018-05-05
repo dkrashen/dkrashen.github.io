@@ -1162,7 +1162,15 @@ group, American Institute of Mathematics"
 # teaching
 ###############
 
-courses:
+courses-rutgers:
+
+  - title: "MATH 8850: Computational Mathematics VRG"
+    url: "http://compvrg.github.io/compvrg-spring-2018/"
+    schedule: "Lab Meetings every other Friday within the interval 10:00am-2:00pm"
+    location: "Boyd 640"
+    semester: "Fall 2018"
+
+courses-uga:
 
   - title: "MATH 8850: Computational Mathematics VRG"
     url: "http://compvrg.github.io/compvrg-spring-2018/"

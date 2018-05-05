@@ -8,23 +8,17 @@ title: teaching
 
 <div class="row well well-sm">
 	<div class="col-md-12">
-
-  {% for c in site.data.metavita_public.courses %}
-    <div class="panel panel-primary">
-
-      <div class="panel-heading">
-        <h3 class="panel-title">
-          <a href="{{ c.url }}">{{ c.title }}</a> ({{ c.semester }})
-        </h3>
-        </a>
-      </div>
-
-      <div class="panel-body">
-        {{ c.schedule }}, {{ c.location }}.
-        {% if c.schedule2 %}<br>
-        {{ c.schedule2}}, {{ c.location2 }}
-        {% endif %}
-      </div>
-
-    </div>
-  {% endfor %}
+		<h3> Courses at Rutgers </h3>
+  			{% for c in site.data.metavita_public.courses-rutgers %}
+				{% include course.html c=c %}
+  			{% endfor %}
+	</div>
+</div>
+<div class="row well well-sm">
+	<div class="col-md-12">
+		<h3> Prior courses at UGA </h3>
+  			{% for c in site.data.metavita_public.courses-uga %}
+				{% include course.html c=c %}
+  			{% endfor %}
+	</div>
+</div>

@@ -1,0 +1,17 @@
+<div class="panel panel-primary">
+
+  <div class="panel-heading">
+    <h3 class="panel-title">
+      <a href="{{ include.c.url }}">{{ include.c.title }}</a> ({{ include.c.semester }})
+    </h3>
+    </a>
+  </div>
+
+  <div class="panel-body">
+    {{ include.c.schedule }}, {{ include.c.location }}.
+    {% if include.c.schedule2 %}<br>
+    {{ include.c.schedule2}}, {{ include.c.location2 }}
+    {% endif %}
+  </div>
+
+</div>
