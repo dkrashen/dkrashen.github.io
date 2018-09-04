@@ -1164,10 +1164,10 @@ group, American Institute of Mathematics"
 
 courses-rutgers:
 
-  - title: "MATH 8850: Computational Mathematics VRG"
-    url: "http://compvrg.github.io/compvrg-spring-2018/"
-    schedule: "Lab Meetings every other Friday within the interval 10:00am-2:00pm"
-    location: "Boyd 640"
+  - title: "MATH 560: Homological Algebra"
+    url: "http://dkrashen.github.io/homological-algebra/"
+    schedule: "Lectures Tuesday/Thursday 1:40pm-3:00pm"
+    location: "Hill 552"
     semester: "Fall 2018"
 
 courses-uga:
