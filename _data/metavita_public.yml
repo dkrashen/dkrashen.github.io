@@ -1170,6 +1170,12 @@ courses-rutgers:
     location: "Hill 552"
     semester: "Fall 2018"
 
+  - title: "Reading course on stacks and algebraic stacks"
+    url: "http://dkrashen.github.io/stacks-reading/"
+    schedule: "TBD"
+    location: "TBD"
+    semester: "Fall 2018"
+
 courses-uga:
 
   - title: "MATH 8850: Computational Mathematics VRG"
