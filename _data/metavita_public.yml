@@ -609,7 +609,6 @@ reviewer:
 
 publications:
 
-
   -
     arxiv: "1509.07195"
     title: "The Clifford algebra of a finite morphism"
@@ -619,22 +618,42 @@ publications:
     type: "research paper"
 
   -
-    arxiv: "1305.5217"
-    title: "Period and index, symbol lengths, and generic splittings in Galois cohomology"
-    arxiv_year: 2013
-    revision_year: 2014
-    type: "research paper"
-    in: "to appear in the Bulletin of the London Mathematical Society"
-    accepted_year: 2016
+    arxiv: "1704.05489"
+    title: "Period-index bounds for arithmetic threefolds"
+    with: "Benjamin Antieau, Asher Auel, Colin Ingalls and Max Lieblich"
+    arxiv_year: 2017
+    in: "to appear in Inventiones Mathematicae"    
+
+  -
+    title: "Multiparty Non-Interactive Key Exchange and More From Isogenies
+    on Elliptic Curves"
+    arxiv: "1807.03038"
+    with: "Dan Boneh, Darren Glass, Kristin Lauter, Shahed
+    Sharif, Alice Silverberg, Mehdi Tibouchi and Mark Zhandry"
+    in: "to appear in MathCrypt 2018"
 
   -
     arxiv: "1409.2580"
     title: "Derived categories for torsors for Abelian schemes"
     with: "Benjamin Antieau and Matthew Ward"
-    year: 2014
+    year: 2017
     arxiv_year: 2014
-    status: "under revision for Advances in Mathematics"
+    in: "Advances in Mathematics"
+    pubinfo: "306 (2017), 1--23"
     type: "research paper"
+    MR: "MR3581296"
+
+
+  -
+    arxiv: "1305.5217"
+    title: "Period and index, symbol lengths, and generic splittings in Galois cohomology"
+    year: 2016
+    arxiv_year: 2013
+    revision_year: 2014
+    type: "research paper"
+    pubinfo: "48 (2016), no. 6, 985--1000"
+    in: "Bulletin of the London Mathematical Society"
+    accepted_year: 2016
 
   -
     title: "Local-global principles for torsors over arithmetic curves"
