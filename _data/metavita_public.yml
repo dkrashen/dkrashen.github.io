@@ -1183,6 +1183,12 @@ group, American Institute of Mathematics"
 
 courses-rutgers:
 
+  - title: "MATH 477: Mathematical Theory of Probability"
+    url: "http://dkrashen.github.io/probability/"
+    schedule: "Lectures Tuesday/Friday 12:00pm-1:20pm"
+    location: "Buisiness Rockafeller Road 1071 (Livingston Campus)"
+    semester: "Spring 2019"
+
   - title: "MATH 560: Homological Algebra"
     url: "http://dkrashen.github.io/homological-algebra/"
     schedule: "Lectures Tuesday/Thursday 1:40pm-3:00pm"
