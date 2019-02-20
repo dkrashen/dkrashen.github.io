@@ -618,6 +618,14 @@ publications:
     type: "research paper"
 
   -
+    title: "Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields"
+    arxiv: "1710.03173"
+    authors: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala and V. Suresh"
+    with: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
+    status: "preprint"
+    type: "research paper"
+
+  -
     arxiv: "1704.05489"
     title: "Period-index bounds for arithmetic threefolds"
     with: "Benjamin Antieau, Asher Auel, Colin Ingalls and Max Lieblich"
@@ -631,6 +639,15 @@ publications:
     with: "Dan Boneh, Darren Glass, Kristin Lauter, Shahed
     Sharif, Alice Silverberg, Mehdi Tibouchi and Mark Zhandry"
     in: "to appear in MathCrypt 2018"
+
+  -
+    title: "Local-global Galois theory of arithmetic function fields"
+    authors: "David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala, V. Suresh"
+    with: "David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
+    arxiv: "1710.03635"
+    type: "research paper"
+    status: "to appear"
+    note: "To appear in the Israel Journal of Mathematics"
 
   -
     arxiv: "1409.2580"
