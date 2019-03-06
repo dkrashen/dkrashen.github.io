@@ -614,7 +614,7 @@ publications:
     title: "The Clifford algebra of a finite morphism"
     with: "Max Lieblich"
     arxiv_year: 2015
-    status: "in submission"
+    status: "preprint"
     type: "research paper"
 
   -
@@ -631,6 +631,7 @@ publications:
     with: "Benjamin Antieau, Asher Auel, Colin Ingalls and Max Lieblich"
     year: 2019
     in: "to appear in Inventiones Mathematicae"    
+    status: "publication"
 
   -
     title: "Multiparty Non-Interactive Key Exchange and More From Isogenies
@@ -639,6 +640,7 @@ publications:
     with: "Dan Boneh, Darren Glass, Kristin Lauter, Shahed
     Sharif, Alice Silverberg, Mehdi Tibouchi and Mark Zhandry"
     in: "to appear in MathCrypt 2018"
+    status: "publication"
 
   -
     title: "Local-global Galois theory of arithmetic function fields"
@@ -646,8 +648,8 @@ publications:
     with: "David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
     arxiv: "1710.03635"
     type: "research paper"
-    status: "to appear"
-    note: "To appear in the Israel Journal of Mathematics"
+    status: "publication"
+    in: "to appear in the Israel Journal of Mathematics"
 
   -
     arxiv: "1409.2580"
@@ -657,6 +659,7 @@ publications:
     arxiv_year: 2014
     in: "Advances in Mathematics"
     pubinfo: "306 (2017), 1--23"
+    status: "publication"
     type: "research paper"
     MR: "MR3581296"
 
@@ -671,6 +674,7 @@ publications:
     pubinfo: "48 (2016), no. 6, 985--1000"
     in: "Bulletin of the London Mathematical Society"
     accepted_year: 2016
+    status: "publication"
 
   -
     title: "Local-global principles for torsors over arithmetic curves"
@@ -681,6 +685,7 @@ publications:
     publication_year: 2015
     arxiv: "1108.3323"
     MR: "MR3432268"
+    status: "publication"
 
   -
     arxiv: "1305.5295"
@@ -690,6 +695,7 @@ publications:
     publication_year: 2015
     with: "Eliyahu Matzri"
     MR: "MR3336603"
+    status: "publication"
     type: "research paper"
 
   -
@@ -699,6 +705,7 @@ publications:
     arxiv_year: 2014
     type: "research paper"
     include: "no"
+    status: "expository"
 
   -
     arxiv: "1404.4349"
@@ -708,6 +715,7 @@ publications:
     arxiv_year: 2014
     publication_year: 2015
     revision_year: 2014
+    status: "publication"
     type: "research paper"
     in: "International Math. Research Notices"
     pubinfo: "doi: 10.1093/imrn/rnu278 (2015)"
@@ -723,6 +731,7 @@ publications:
     with: "David Harbater and Julia Hartmann"
     year: 2014
     publication_year: 2014
+    status: "publication"
     arxiv_year: 2012
 
   -
@@ -734,6 +743,7 @@ publications:
     title: "Weierstrass preparation and algebraic invariants"
     with: "David Harbater and Julia Hartmann"
     publication_year: 2013
+    status: "publication"
     arxiv_year: 2011
 
 
@@ -747,6 +757,7 @@ publications:
     type: "research paper"
     with: "Mirela Ciperiani"
     publication_year: 2012
+    status: "publication"
     arvix_year: 2007
 
   -
@@ -758,6 +769,7 @@ publications:
     pubinfo: "659 (2011), 1--41"
     title: "Appendix to: Period and index in the Brauer group of an arithmetic surface"
     publication_year: 2011
+    status: "publication"
     arxiv_year: 2007
 
   -
@@ -770,6 +782,7 @@ publications:
     with: "David Harbater and Julia Hartmann"
     arxiv_year: 2009
     publication_year: 2011
+    status: "publication"
 
   -
     MR: "MR2745259"
@@ -780,6 +793,7 @@ publications:
     type: "research paper"
     with: "Kelly McKinnie"
     publication_year: 2011
+    status: "publication"
 
   -
     MR: "MR2648720"
@@ -790,6 +804,7 @@ publications:
     title: "Field patching, factorization, and local-global principles"
     arxiv_year: 2009
     publication_year: 2010
+    status: "publication"
 
   -
     MR: "MR2645050"
@@ -800,6 +815,7 @@ publications:
     type: "research paper"
     publication_year: 2010
     arxiv_year: 2007
+    status: "publication"
 
   -
     MR: "MR2601007"
@@ -810,6 +826,7 @@ publications:
     title: "Zero cycles on homogeneous varieties"
     publication_year: 2010
     arxiv_year: 2005
+    status: "publication"
 
   -
     MR: "MR2545681"
@@ -821,6 +838,7 @@ publications:
     with: "David Harbater and Julia Hartmann"
     arxiv_year: 2008
     publication_year: 2009
+    status: "publication"
 
   -
     MR: "MR2496455"
@@ -831,6 +849,7 @@ publications:
     with: "Linda Chen and Angela Gibney"
     type: "research paper"
     publication_year: 2009
+    status: "publication"
 
   -
     MR: "MR2428144"
@@ -840,6 +859,7 @@ publications:
     title: "Index reduction for Brauer classes via stable sheaves"
     with: "Max Lieblich"
     publication_year: 2008
+    status: "publication"
     type: "research paper"
     arxiv_year: 2007
 
@@ -852,6 +872,7 @@ publications:
     publication_year: 2008
     arxiv_year: 2002
     type: "research paper"
+    status: "publication"
 
   -
     MR: "MR2363128"
@@ -862,6 +883,7 @@ publications:
     type: "research paper"
     publication_year: 2007
     arxiv_year: 2006
+    status: "publication"
 
   -
     MR: "MR2090670"
@@ -871,12 +893,14 @@ publications:
     with: "David J. Saltman"
     type: "research paper"
     publication_year: 2004
+    status: "publication"
 
   -
     arxiv: "0411529"
     title: "Moduli of \\'etale subalgebras in an Azumaya algebra"
     type: "expository paper"
     arxiv_year: 2004
+    status: "expository"
 
   -
     MR: "MR2029172"
@@ -886,6 +910,7 @@ publications:
     title: "Severi-Brauer varieties of semidirect product algebras"
     publication_year: 2003
     type: "research paper"
+    status: "publication"
     arxiv_year: 2002
 
 presentations:
@@ -1214,8 +1239,6 @@ courses-rutgers:
 
   - title: "Reading course on stacks and algebraic stacks"
     url: "http://dkrashen.github.io/stacks-reading/"
-    schedule: "TBD"
-    location: "TBD"
     semester: "Fall 2018"
 
 courses-uga:

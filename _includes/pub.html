@@ -1,0 +1,20 @@
+<div class="row well well-sm">
+	<div class="col-md-9">
+	<b>{{ include.p.title }}</b>{% if include.p.by %}
+		By {{ include.p.by }},
+	{% endif %}{% if include.p.with %}, with {{ include.p.with }}{% endif %}{% if include.p.in %},
+	{{ include.p.in }}{% if include.p.pubinfo %}, {{ include.p.pubinfo }}{% endif %}{% endif %}
+	</div>
+	<div class="col-md-3">
+		{% if include.p.MR %}
+		<a href="http://www.ams.org/mathscinet-getitem?mr={{ include.p.MR }}">
+	    <button type="button" class="btn btn-lnk pull-right btn-spaced">MathSciNet</button>
+		</a>
+		{% endif %}
+		{% if include.p.arxiv %}
+		<a href="http://arxiv.org/abs/{{ include.p.arxiv }}">
+    <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
+		</a>
+		{% endif %}
+	</div>
+</div>
