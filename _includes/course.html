@@ -8,7 +8,9 @@
   </div>
 
   <div class="panel-body">
+    {% if include.c.schedule %}<br>
     {{ include.c.schedule }}, {{ include.c.location }}.
+    {% endif %}
     {% if include.c.schedule2 %}<br>
     {{ include.c.schedule2}}, {{ include.c.location2 }}
     {% endif %}
