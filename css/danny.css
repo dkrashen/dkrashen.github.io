@@ -50,3 +50,9 @@ img#actionpic {
 @media screen and (max-width: 480px) {
   .nav * {
     font-size: 1.0em; } }
+
+div.news {
+  padding-bottom:150px;
+  padding-left:10%;
+  padding-right:10%;
+}

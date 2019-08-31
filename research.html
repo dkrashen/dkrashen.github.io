@@ -46,10 +46,27 @@ tag: "Using shapes to understand the arithmetic of algebraic structures."
 
 <div class="row well">
 <div class="col-md-12">
-<h2 id="manuscripts"> Manuscripts </h2>
+<h2 id="manuscripts"> Preprints </h2>
 <br/>
 <br/>
-{% include publist.html %}
+{% for p in site.data.metavita_public.publications %}
+{% if p.status == "preprint" %}
+{% include pub.html p=p %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+
+<div class="row well">
+<div class="col-md-12">
+<h2 id="manuscripts"> Publications </h2>
+<br/>
+<br/>
+{% for p in site.data.metavita_public.publications %}
+{% if p.status == "publication" %}
+{% include pub.html p=p %}
+{% endif %}
+{% endfor %}
 </div>
 </div>
 
