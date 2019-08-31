@@ -1200,6 +1200,12 @@ group, American Institute of Mathematics"
 
 courses-rutgers:
 
+  - title: "MATH 551: Graduate Abstract Algebra I"
+    url: "http://dkrashen.github.io/algebra1/"
+    schedule: "Lectures Monday/Thursday 1:40-3:00pm"
+    location: "Hill Center, Room 423"
+    semester: "Fall 2019"
+
   - title: "MATH 447: Mathematical Theory of Probability"
     url: "http://dkrashen.github.io/probability/"
     schedule: "Lectures Tuesday/Thursday 1:40pm-3:00pm"
