@@ -1225,6 +1225,12 @@ group, American Institute of Mathematics"
 
 courses-rutgers:
 
+  - title: "MATH 492: Honors Seminar"
+    url: "http://dkrashen.github.io/resonance/"
+    schedule: "TBD"
+    location: "TBA"
+    semester: "Spring 2020"
+
   - title: "MATH 551: Graduate Abstract Algebra I"
     url: "http://dkrashen.github.io/algebra1/"
     schedule: "Lectures Monday/Thursday 1:40-3:00pm"
