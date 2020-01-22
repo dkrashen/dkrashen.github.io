@@ -6,3 +6,5 @@ todo.txt
 *.picasa.ini
 *.DS_Store
 Icon*
+
+.jekyll-cache/*
