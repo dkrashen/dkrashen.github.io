@@ -9,7 +9,7 @@ title: teaching
 <div class="row well well-sm">
 	<div class="col-md-12">
 		<h3> Courses at Rutgers </h3>
-  			{% for c in site.data.metavita_public.courses-rutgers %}
+  			{% for c in site.data.courses-rutgers %}
 				{% include course.html c=c %}
   			{% endfor %}
 	</div>
@@ -17,7 +17,7 @@ title: teaching
 <div class="row well well-sm">
 	<div class="col-md-12">
 		<h3> Prior courses at UGA </h3>
-  			{% for c in site.data.metavita_public.courses-uga %}
+  			{% for c in site.data.courses-uga %}
 				{% include course.html c=c %}
   			{% endfor %}
 	</div>

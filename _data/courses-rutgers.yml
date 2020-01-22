@@ -1,0 +1,37 @@
+---
+
+  - title: "MATH 357: Topics in Applied Algebra"
+    url: "http://dkrashen.github.io/"
+    schedule: "Lectures Monday/Thursday 12:00-1:20pm"
+    location: "Allison Road Classroom, Room 205"
+    semester: "Spring 2020"
+
+  - title: "MATH 428: Graph Theory"
+    url: "http://dkrashen.github.io/"
+    schedule: "Lectures Monday/Thursday 8:40-10:00am"
+    location: "Tillett Hall, Room 105"
+    semester: "Spring 2020"
+
+  - title: "MATH 551: Graduate Abstract Algebra I"
+    url: "http://dkrashen.github.io/algebra1/"
+    schedule: "Lectures Monday/Thursday 1:40-3:00pm"
+    location: "Hill Center, Room 423"
+    semester: "Fall 2019"
+
+  - title: "MATH 447: Mathematical Theory of Probability"
+    url: "http://dkrashen.github.io/probability/"
+    schedule: "Lectures Tuesday/Friday 12:00pm-1:20pm"
+    location: "Buisiness Rockafeller Road 1071 (Livingston Campus)"
+    semester: "Spring 2019"
+
+  - title: "MATH 560: Homological Algebra"
+    url: "http://dkrashen.github.io/homological-algebra/"
+    schedule: "Lectures Tuesday/Thursday 1:40pm-3:00pm"
+    location: "Hill 552"
+    semester: "Fall 2018"
+
+  - title: "Reading course on stacks and algebraic stacks"
+    url: "http://dkrashen.github.io/stacks-reading/"
+    semester: "Fall 2018"
+    description: "Fibered categories, stacks and the theory of descent, algebraic spaces and algebraic stacks."
+

@@ -2,17 +2,24 @@
 
   <div class="panel-heading">
     <h3 class="panel-title">
+      {% if include.c.url %}
       <a href="{{ include.c.url }}">{{ include.c.title }}</a> ({{ include.c.semester }})
+      {% else %}
+      {{ include.c.title }} ({{ include.c.semester }})
+      {% endif %}
     </h3>
     </a>
   </div>
 
   <div class="panel-body">
-    {% if include.c.schedule %}<br>
+    {% if include.c.schedule %}<br />
     {{ include.c.schedule }}, {{ include.c.location }}.
     {% endif %}
-    {% if include.c.schedule2 %}<br>
+    {% if include.c.schedule2 %}<br />
     {{ include.c.schedule2}}, {{ include.c.location2 }}
+    {% endif %}
+    {% if include.c.description %}<br />
+    {{ include.c.description }}
     {% endif %}
   </div>
 

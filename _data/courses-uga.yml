@@ -1,0 +1,60 @@
+---
+
+
+
+  - title: "MATH 8850: Computational Mathematics VRG"
+    url: "http://compvrg.github.io/compvrg-spring-2018/"
+    schedule: "Lab Meetings every other Friday within the interval 10:00am-2:00pm"
+    location: "Boyd 640"
+    semester: "Fall 2018"
+
+  - title: "MATH 8430: Field Arithmetic"
+    url: "http://dkrashen.github.io/fa/"
+    schedule: "Lectures Friday 2:30pm-5:30pm"
+    location: "Boyd 328"
+    semester: "Spring 2017"
+
+  - title: "MATH 2250: Calculus 1 (Section 43142)"
+    url: "http://dkrashen.github.io/calc1/"
+    schedule: "Lectures Tues/Thurs 12:30pm-1:45pm"
+    location: "Geography and Geology, room 300A"
+    schedule2: "Recitation Mon 12:20pm-1:10pm"
+    location2: "Forestry Resources, Building 4, room 418"
+    semester: "Spring 2017"
+
+  - title: "MATH 2250: Calculus 1 (Section 43008)"
+    url: "http://dkrashen.github.io/calc1/"
+    schedule: "Lectures Tues/Thurs 2:00pm-3:15pm"
+    location: "Geography and Geology, room 300A"
+    schedule2: "Recitation Mon 1:25pm-2:15pm"
+    location2: "Aderhold, room 112"
+    semester: "Spring 2017"
+
+  - title: "MATH/CS 4670/6670: Combinatorics"
+    url: "http://dkrashen.github.io/combinatorics/"
+    schedule: "Lectures MWF 1:25pm-2:15pm"
+    location: "Boyd Graduate Studies, Room 323"
+    semester: "Fall 2016"
+
+  - title: "MATH/CS 4690/6690: Graph Theory"
+    url: "http://dkrashen.github.io/graphtheory/"
+    schedule: "Lectures Tues/Thurs 12:30pm-1:45pm"
+    location: "Boyd Graduate Studies, Room 302"
+    semester: "Spring 2016"
+
+  -
+    number: "MATH 8330"
+    title: "Central Simple Algebras"
+    type: "graduate"
+    url: "http://dkrashen.github.io/csa/"
+    semester: "Spring 2015"
+    description: "An introduction to the theory of finite dimensional division algebras, the Brauer group, involutions and other things."
+
+  -
+    number: "MATH 8330"
+    title: "MATH 8330: Algebraic Stacks"
+    url: "http://dkrashen.github.io/stacks/"
+    type: "graduate"
+    description: "An introductory course in the theory of Descent, Algebraic Spaces and Algebraic Stacks."
+    semester: "Fall 2014"
+
