@@ -258,7 +258,7 @@ publications:
   -
     MR: "MR2601007"
     arxiv: "math/0501399"
-    in: "Adv. Math."
+    in: "Advances in Mathematics"
     pubinfo: "223 (2010), no. 6, 2022--2048"
     type: "research paper"
     status: "publication"
@@ -281,7 +281,7 @@ publications:
   -
     MR: "MR2496455"
     arxiv: "math/0505296"
-    in: "J.  Algebraic Geom."
+    in: "Journal of Algebraic Geometry"
     pubinfo: "18 (2009), no.  3, 477--509"
     title: "Pointed trees of projective spaces."
     with: "Linda Chen and Angela Gibney"
@@ -292,7 +292,7 @@ publications:
   -
     MR: "MR2428144"
     arxiv: "0706.1072"
-    in: "Int. Math. Res. Not. IMRN"
+    in: "International Mathematics Research Notices"
     pubinfo: "no. 8 (2008), Art. ID rnn010, 31 pp"
     title: "Index reduction for Brauer classes via stable sheaves"
     with: "Max Lieblich"
@@ -304,7 +304,7 @@ publications:
   -
     MR: "MR2363485"
     arxiv: "math/0203117"
-    in: "J. Pure Appl. Algebra"
+    in: "Journal of Pure Applied Algebra"
     pubinfo: "212 (2008), no.  4, 689--703"
     title: "Birational maps between generalized Severi-Brauer varieties"
     publication_year: 2008
@@ -315,7 +315,7 @@ publications:
   -
     MR: "MR2363128"
     arxiv: "math/0603389"
-    in: "J. Algebra"
+    in: "Journal of Algebra"
     pubinfo: "318 (2007), no.  1, 135--139"
     title: "Motives of unitary and orthogonal homogeneous varieties"
     status: "publication"
@@ -342,7 +342,7 @@ publications:
   -
     MR: "MR2029172"
     arxiv: "math/0206154"
-    in: "Doc. Math."
+    in: "Documenta Mathematica"
     pubinfo: "8 (2003), 527--546 (electronic)"
     title: "Severi-Brauer varieties of semidirect product algebras"
     status: "publication"
