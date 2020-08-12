@@ -54,6 +54,7 @@ publications:
     doi: "10.1515/jmc-2015-0047"
     in: "in the Journal of Mathematical Cryptology"
     status: "publication"
+    MR: "MR4113747"
 
   -
     title: "Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields"
