@@ -2,14 +2,6 @@
 publications:
 
   -
-    title: "Local-Global Principles for Curves over Semi-Global Fields"
-    arxiv: "i2001.05429"
-    authors: "David Harbater, Daniel Krashen and Alena Pirutka"
-    with: "David Harbater and Alena Pirutka"
-    status: "preprint"
-    type: "research paper"
-
-  -
     arxiv: "1704.08687"
     title: "Schubert cycles and subvarieties of generalized Severi-Brauer
     varieties"
@@ -17,29 +9,40 @@ publications:
     arxiv_year: 2017
     status: "preprint"
     type: "research paper"
-   
+
 
   -
     arxiv: "1509.07195"
     title: "The Clifford algebra of a finite morphism"
     with: "Max Lieblich"
     arxiv_year: 2015
-    status: "preprint"
+    status: "in submission"
     type: "research paper"
 
+  -
+    title: "Local-Global Principles for Curves over Semi-Global Fields"
+    arxiv: "2001.05429"
+    authors: "David Harbater, Daniel Krashen and Alena Pirutka"
+    with: "David Harbater and Alena Pirutka"
+    in: "to appear in the Bulletin of the London Mathematical Society"
+    publication_year: "2020"
+    type: "research paper"
+    status: "publication"
 
   -
     title: "Local-Global Principles for Tori over Arithmetic Curves"
     arxiv: "1906.10672"
     authors: "Jean-Louis Colliot-Th\\'el\\`ene, David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala and V. Suresh"
+    unicode-authors: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala and V. Suresh"
     with: "Jean-Louis Colliot-Th\\'el\\`ene, David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
+    unicode-with: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
     type: "research paper"
-    status: "publication"
     in: "Algebraic Geometry"
     pubinfo: "7 (5) (2020) 607–633"
+    publication_year: 2020
     doi: "10.14231/AG-2020-022"
+    status: "publication"
 
-    
   -
     arxiv: "1807.03038"
     title: "Multiparty Non-Interactive Key Exchange and More From Isogenies on
@@ -47,20 +50,22 @@ publications:
     with: "Dan Boneh, Darren Glass, Kristin Lauter, Shahed Sharif, Alice Silverberg,
     Mehdi Tibouchi and Mark Zhandry"
     publication_year: 2020
-    status: "publication"
     pubinfo: "Vol. 14, no. 1"
     doi: "10.1515/jmc-2015-0047"
     in: "in the Journal of Mathematical Cryptology"
+    status: "publication"
 
   -
     title: "Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields"
     arxiv: "1710.03173"
     authors: "Jean-Louis Colliot-Th\\'el\\`ene, David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala and V. Suresh"
+    unicode-authors: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala and V. Suresh"
     with: "Jean-Louis Colliot-Th\\'el\\`ene, David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
+    unicode-with: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
     type: "research paper"
-    status: "publication"
-    in: "Trans. Amer. Math. Soc."
+    in: "Transactions of the American Mathematical Society"
     pubinfo: "372 (2019),  no.  8, 5263--5286"
+    status: "publication"
 
   -
     arxiv: "1704.05489"
@@ -72,27 +77,27 @@ publications:
     pubinfo: "216 (2019), no. 2, 301-335"
     MR: "MR3581296"
     status: "publication"
-    
+
   -
     title: "Local-global Galois theory of arithmetic function fields"
     authors: "David Harbater, Julia Hartmann, Daniel Krashen, R. Parimala, V. Suresh"
     with: "David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
     arxiv: "1710.03635"
-    status: "publication"
     type: "research paper"
     doi: "10.1007/s11856-019-1889-z"
     in: "Israel Journal of Mathematics"
     pubinfo: "vol. 232, no. 2 (2019), 849-882"
     publication_year: 2019
+    status: "publication"
 
   -
     arxiv: "1409.2580"
     title: "Derived categories for torsors for Abelian schemes"
     with: "Benjamin Antieau and Matthew Ward"
-    status: "publication"
     publication_year: 2017
     in: "Advances in Mathematics"
     pubinfo: "306 (2017), 1-23"
+    status: "publication"
     type: "research paper"
     MR: "MR3581296"
 
@@ -101,12 +106,12 @@ publications:
     arxiv: "1305.5217"
     title: "Period and index, symbol lengths, and generic splittings in Galois cohomology"
     arxiv_year: 2013
+    status: "publication"
     revision_year: 2014
     type: "research paper"
     in: "Bulletin of the London Mathematical Society"
     pubinfo: "48 (2016), no. 6, 985-1000"
     publication_year: 2016
-    status: "publication"
 
 
   -
@@ -115,8 +120,8 @@ publications:
     in: "American Journal of Mathematics"
     pubinfo: "137 (2015), no. 6, 1559--1612"
     type: "research paper"
-    publication_year: 2015
     status: "publication"
+    publication_year: 2015
     arxiv: "1108.3323"
     MR: "MR3432268"
 
@@ -124,12 +129,12 @@ publications:
     arxiv: "1305.5295"
     in: "Proceedings of the AMS"
     pubinfo: "143 (2015), no. 7, 2779--2788"
+    status: "publication"
     title: "Diophantine and cohomological dimensions"
     publication_year: 2015
     with: "Eliyahu Matzri"
     MR: "MR3336603"
     type: "research paper"
-    status: "publication"
 
   -
     arxiv: "1409.1888"
@@ -145,50 +150,50 @@ publications:
     with: "David Harbater and Julia Hartmann"
     year: 2014
     arxiv_year: 2014
+    status: "publication"
     publication_year: 2015
     revision_year: 2014
     type: "research paper"
     in: "International Math. Research Notices"
     pubinfo: "doi: 10.1093/imrn/rnu278 (2015)"
     MR: "MR3455871"
-    status: "publication"
 
   -
     MR: "MR3177913"
     arxiv: "1208.6359"
-    in: "Comment. Math. Helv."
+    in: "Commentarii Mathematici Helvetici"
     pubinfo: "89 (2014),  no. 1, 215--253"
     type: "research paper"
+    status: "publication"
     title: "Local-global principles for Galois cohomology"
     with: "David Harbater and Julia Hartmann"
     year: 2014
     publication_year: 2014
     arxiv_year: 2012
-    status: "publication"
 
   -
     MR: "MR3072806"
     arxiv: "1109.6362"
-    in: "Math. Ann."
+    in: "Mathematische Annalen"
     pubinfo: "356 (2013),  no. 4, 1405--1424"
+    status: "publication"
     type: "research paper"
     title: "Weierstrass preparation and algebraic invariants"
     with: "David Harbater and Julia Hartmann"
     publication_year: 2013
     arxiv_year: 2011
-    status: "publication"
 
 
 
   -
     MR: "MR3009747"
     arxiv: "math/0701614"
-    in: "Israel J. Math."
+    in: "Israel Journal of Mathematics"
     pubinfo: "192 (2012),  no. 2, 921--949"
     title: "Relative Brauer groups of genus 1 curves"
+    status: "publication"
     type: "research paper"
     with: "Mirela Ciperiani"
-    status: "publication"
     publication_year: 2012
     arvix_year: 2007
 
@@ -196,58 +201,59 @@ publications:
     MR: "MR2837009"
     arxiv: "math/0702240"
     by: "Max Lieblich"
-    in: "J. Reine Angew. Math."
+    in: "Journal f\\\"ur die reine und angewandte Mathematik"
+    unicode-in: "Journal für die reine und angewandte Mathematik"
     type: "research paper"
+    status: "publication"
     pubinfo: "659 (2011), 1--41"
     title: "Appendix to: Period and index in the Brauer group of an arithmetic surface"
     publication_year: 2011
     arxiv_year: 2007
-    status: "publication"
 
   -
     MR: "MR2775810"
     arxiv: "0904.1594"
-    in: "Trans. Amer. Math. Soc."
+    in: "Transactions of the American Mathematical Society"
     pubinfo: "363 (2011),  no.  6, 3335--3349"
     title: "Patching subfields of division algebras"
     type: "research paper"
+    status: "publication"
     with: "David Harbater and Julia Hartmann"
     arxiv_year: 2009
     publication_year: 2011
-    status: "publication"
 
   -
     MR: "MR2745259"
     arxiv: "1001.3685"
-    in: "Manuscripta Math."
+    in: "Manuscripta Mathematica"
     pubinfo: "134 (2011), no. 1-2, 171--182"
     title: "Distinguishing division algebras by finite splitting fields"
     type: "research paper"
+    status: "publication"
     with: "Kelly McKinnie"
     publication_year: 2011
-    status: "publication"
 
   -
     MR: "MR2648720"
     arxiv: "0909.3115"
     in: "Quadratic forms, linear algebraic groups, and cohomology"
     type: "research paper"
+    status: "publication"
     pubinfo: "57--82, Dev. Math., 18, Springer, New York, 2010"
     title: "Field patching, factorization, and local-global principles"
     arxiv_year: 2009
     publication_year: 2010
-    status: "publication"
 
   -
     MR: "MR2645050"
     arxiv: "0704.3443"
-    in: "Trans. Amer. Math. Soc."
+    in: "Transactions of the American Mathematical Society"
     pubinfo: "362 (2010), no. 9, 4781--4792"
     title: "Corestrictions of algebras and splitting fields"
     type: "research paper"
     publication_year: 2010
-    arxiv_year: 2007
     status: "publication"
+    arxiv_year: 2007
 
   -
     MR: "MR2601007"
@@ -255,10 +261,10 @@ publications:
     in: "Adv. Math."
     pubinfo: "223 (2010), no. 6, 2022--2048"
     type: "research paper"
+    status: "publication"
     title: "Zero cycles on homogeneous varieties"
     publication_year: 2010
     arxiv_year: 2005
-    status: "publication"
 
   -
     MR: "MR2545681"
@@ -267,8 +273,8 @@ publications:
     type: "research paper"
     pubinfo: "178 (2010), no.  2, 231--263"
     title: "Applications of patching to quadratic forms and central simple algebras"
-    with: "David Harbater and Julia Hartmann"
     status: "publication"
+    with: "David Harbater and Julia Hartmann"
     arxiv_year: 2008
     publication_year: 2009
 
@@ -279,8 +285,8 @@ publications:
     pubinfo: "18 (2009), no.  3, 477--509"
     title: "Pointed trees of projective spaces."
     with: "Linda Chen and Angela Gibney"
-    type: "research paper"
     status: "publication"
+    type: "research paper"
     publication_year: 2009
 
   -
@@ -291,8 +297,8 @@ publications:
     title: "Index reduction for Brauer classes via stable sheaves"
     with: "Max Lieblich"
     publication_year: 2008
-    status: "publication"
     type: "research paper"
+    status: "publication"
     arxiv_year: 2007
 
   -
@@ -303,8 +309,8 @@ publications:
     title: "Birational maps between generalized Severi-Brauer varieties"
     publication_year: 2008
     arxiv_year: 2002
-    type: "research paper"
     status: "publication"
+    type: "research paper"
 
   -
     MR: "MR2363128"
@@ -312,10 +318,10 @@ publications:
     in: "J. Algebra"
     pubinfo: "318 (2007), no.  1, 135--139"
     title: "Motives of unitary and orthogonal homogeneous varieties"
+    status: "publication"
     type: "research paper"
     publication_year: 2007
     arxiv_year: 2006
-    status: "publication"
 
   -
     MR: "MR2090670"
@@ -323,9 +329,9 @@ publications:
     pubinfo: "59--70, Encyclopaedia Math.  Sci., 132, Springer, Berlin, 2004"
     title: "Severi-Brauer varieties and symmetric powers"
     with: "David J. Saltman"
+    status: "publication"
     type: "research paper"
     publication_year: 2004
-    status: "publication"
 
   -
     arxiv: "0411529"
@@ -339,9 +345,7 @@ publications:
     in: "Doc. Math."
     pubinfo: "8 (2003), 527--546 (electronic)"
     title: "Severi-Brauer varieties of semidirect product algebras"
+    status: "publication"
     publication_year: 2003
     type: "research paper"
-    status: "publication"
     arxiv_year: 2002
-
-
