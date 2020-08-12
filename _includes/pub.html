@@ -1,8 +1,9 @@
 <div class="row well well-sm">
 	<div class="col-md-9">
-	<b>{{ include.p.title }}</b>{% if include.p.by %}
-		By {{ include.p.by }},
-	{% endif %}{% if include.p.with %}, with {{ include.p.with }}{% endif %}{% if include.p.in %},
+	<b>{{ include.p.title }}</b>{% if include.p.by %},
+		by 
+    {{ include.p.by }}{% endif %}{% if include.p.with %}, 
+    with {{ include.p.with }}{% endif %}{% if include.p.in %},
 	{{ include.p.in }}{% if include.p.pubinfo %}, {{ include.p.pubinfo }}{% endif %}{% endif %}
 	</div>
 	<div class="col-md-3">
