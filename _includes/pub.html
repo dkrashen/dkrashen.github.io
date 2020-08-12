@@ -2,8 +2,7 @@
 	<div class="col-md-9">
 	<b>{{ include.p.title }}</b>{% if include.p.by %},
 			by {{ include.p.by }}{% endif %}{% if include.p.unicode-with %},
-		  with {{ include.p.unicode-with }}
-		{% else %}{% if include.p.with %},
+		  with {{ include.p.unicode-with }}{% else %}{% if include.p.with %},
     		with {{ include.p.with }}{% endif %}{% endif %}{% if include.p.unicode-in %},
 			{{ include.p.unicode-in }}{% else %}{% if include.p.in %},
 				{{ include.p.in }}{% endif %}{% endif %}{% if include.p.pubinfo %},
