@@ -1,5 +1,11 @@
 ---
 
+  - title: "MATH 451: Abstract Algebra"
+    url: "http://dkrashen.github.io/abstractalgebra/"
+    schedule: "Synchronous Remote"
+    location: "The Interwebs"
+    semester: "Fall 2020"
+
   - title: "MATH 481: Mathematical Statistics"
     url: "http://dkrashen.github.io/mathstats/"
     schedule: "Asynchronous Remote"

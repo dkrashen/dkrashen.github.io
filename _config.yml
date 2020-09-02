@@ -22,6 +22,4 @@ soundcloud_username: dkrashen
 # Build settings
 markdown: kramdown
 permalink: pretty
-analytics_id: "UA-74515307-1"
 analytics: "true"
-#analytics: "false"
