@@ -8,6 +8,14 @@ title: teaching
 
 <div class="row well well-sm">
 	<div class="col-md-12">
+		<h3> Seminars </h3>
+  			{% for s in site.data.seminars %}
+				{% include course.html c=s %}
+  			{% endfor %}
+	</div>
+</div>
+<div class="row well well-sm">
+	<div class="col-md-12">
 		<h3> Courses at Rutgers </h3>
   			{% for c in site.data.courses-rutgers %}
 				{% include course.html c=c %}
