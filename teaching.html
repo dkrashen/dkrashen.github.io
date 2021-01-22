@@ -6,6 +6,8 @@ title: teaching
 <div class="navigation" active_link="teaching_link">
 </div>
 
+
+{% if site.data.seminars %}
 <div class="row well well-sm">
 	<div class="col-md-12">
 		<h3> Seminars </h3>
@@ -14,6 +16,8 @@ title: teaching
   			{% endfor %}
 	</div>
 </div>
+{% endif %}
+
 <div class="row well well-sm">
 	<div class="col-md-12">
 		<h3> Courses at Rutgers </h3>
