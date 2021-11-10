@@ -1,6 +1,12 @@
 
 publications:
-
+  -
+    arxiv: "2004.11933"
+    title: "A Tannakian approach to patching"
+    with: "Bastian Haase and Max Lieblich"
+    arxiv_year: 2020
+    status: "preprint"
+    type: "research paper"
   -
     arxiv: "1704.08687"
     title: "Schubert cycles and subvarieties of generalized Severi-Brauer
@@ -16,18 +22,29 @@ publications:
     title: "The Clifford algebra of a finite morphism"
     with: "Max Lieblich"
     arxiv_year: 2015
-    status: "in submission"
+    publication_year: "2020"
+    in: "in revision for the Journal of Algebra"
     type: "research paper"
+
+  -
+    title: "Division algebras with common subfields"
+    with: "Eliyahu Matzri, Andre Rapinchuk, Louis Rowen and David Saltman"
+    arxiv_year: 2015
+    publication_year: "2020"
+    in: "to appear in Manuscripta Mathematica"
+    type: "research paper"
+
 
   -
     title: "Local-Global Principles for Curves over Semi-Global Fields"
     arxiv: "2001.05429"
     authors: "David Harbater, Daniel Krashen and Alena Pirutka"
     with: "David Harbater and Alena Pirutka"
-    in: "to appear in the Bulletin of the London Mathematical Society"
+    in: "Bulletin of the London Mathematical Society"
     publication_year: "2020"
     type: "research paper"
     status: "publication"
+    pubinfo: "53 (1), Feb. 2021, 177--193"
 
   -
     title: "Local-Global Principles for Tori over Arithmetic Curves"
@@ -38,10 +55,11 @@ publications:
     unicode-with: "Jean-Louis Colliot-Thélène, David Harbater, Julia Hartmann, R. Parimala and V. Suresh"
     type: "research paper"
     in: "Algebraic Geometry"
-    pubinfo: "7 (5) (2020) 607–633"
+    pubinfo: "7 (5) (2020) 607--633"
     publication_year: 2020
     doi: "10.14231/AG-2020-022"
     status: "publication"
+    publication_year: "2020"
 
   -
     arxiv: "1807.03038"
@@ -50,11 +68,12 @@ publications:
     with: "Dan Boneh, Darren Glass, Kristin Lauter, Shahed Sharif, Alice Silverberg,
     Mehdi Tibouchi and Mark Zhandry"
     publication_year: 2020
-    pubinfo: "Vol. 14, no. 1"
+    pubinfo: "Vol. 14, no. 1 (2020)"
     doi: "10.1515/jmc-2015-0047"
     in: "in the Journal of Mathematical Cryptology"
     status: "publication"
     MR: "MR4113747"
+    publication_year: 2020
 
   -
     title: "Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields"
@@ -67,6 +86,8 @@ publications:
     in: "Transactions of the American Mathematical Society"
     pubinfo: "372 (2019),  no.  8, 5263--5286"
     status: "publication"
+    publication_year: 2019
+
 
   -
     arxiv: "1704.05489"
