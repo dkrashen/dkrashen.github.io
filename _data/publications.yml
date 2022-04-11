@@ -1,6 +1,27 @@
 
 publications:
   -
+    title: "Local-Global Principles for Constant Reductive Groups over Semi-Global Fields"
+    with: "J.-L. Colliot-Thelene, D. Harbater, J. Hartmann, R. Parimala, & V. Suresh"
+    publication_year: "2022"
+    in: "to appear in the Michigan Mathematical Journal"
+    type: "research paper"
+    status: "publication"
+  -
+    title: "Transcendental splitting fields of division algebras"
+    with: "Max Lieblich"
+    arxiv_year: 2022
+    status: preprint
+    type: "research paper"
+    arxiv: "2203.15951"
+  -
+    arxiv: "2203.06770"
+    title: "Bounding cohomology classes over semiglobal fields"
+    with: "David Harbater and Julia Hartmann"
+    arxiv_year: 2022
+    status: preprint
+    type: "research paper"
+  -
     arxiv: "2004.11933"
     title: "A Tannakian approach to patching"
     with: "Bastian Haase and Max Lieblich"
@@ -33,6 +54,7 @@ publications:
     publication_year: "2020"
     in: "to appear in Manuscripta Mathematica"
     type: "research paper"
+    status: "publication"
 
 
   -

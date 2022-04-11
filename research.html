@@ -44,6 +44,18 @@ tag: "Using shapes to understand the arithmetic of algebraic structures."
 	</div><!--/col-->
 </div><!--/row-->
 
+<div class="row well">
+<div class="col-md-12">
+<h2 id="manuscripts"> Preprints </h2>
+<br/>
+<br/>
+{% for p in site.data.publications.publications %}
+{% if p.status == "preprint" %}
+{% include pub.html p=p %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
 
 <div class="row well">
 <div class="col-md-12">
@@ -58,18 +70,6 @@ tag: "Using shapes to understand the arithmetic of algebraic structures."
 </div>
 </div>
 
-<div class="row well">
-<div class="col-md-12">
-<h2 id="manuscripts"> Preprints </h2>
-<br/>
-<br/>
-{% for p in site.data.publications.publications %}
-{% if p.status == "preprint" %}
-{% include pub.html p=p %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
 
 <div class="row well">
 <div class="col-md-12">
