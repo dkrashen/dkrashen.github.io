@@ -2,7 +2,7 @@
 publications:
   -
     title: "Local-Global Principles for Constant Reductive Groups over Semi-Global Fields"
-    with: "J.-L. Colliot-Thelene, D. Harbater, J. Hartmann, R. Parimala, & V. Suresh"
+    with: "J.-L. Colliot-Thelene, D. Harbater, J. Hartmann, R. Parimala and V. Suresh"
     publication_year: "2022"
     in: "to appear in the Michigan Mathematical Journal"
     type: "research paper"
@@ -51,10 +51,9 @@ publications:
     title: "Division algebras with common subfields"
     with: "Eliyahu Matzri, Andre Rapinchuk, Louis Rowen and David Saltman"
     arxiv_year: 2015
-    publication_year: "2020"
+    publication_year: "2021"
     in: "to appear in Manuscripta Mathematica"
     type: "research paper"
-    status: "publication"
 
 
   -
