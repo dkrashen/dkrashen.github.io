@@ -1,5 +1,13 @@
 
 publications:
+
+  -
+    title: "Factorization Presentations"
+    with: "Chiara Damiolini and Angela Gibney"
+    status: preprint
+    type: "research paper"
+    filename: "Factorization_Resolution.pdf"
+    
   -
     title: "Local-Global Principles for Constant Reductive Groups over Semi-Global Fields"
     with: "J.-L. Colliot-Thelene, D. Harbater, J. Hartmann, R. Parimala and V. Suresh"
@@ -22,6 +30,29 @@ publications:
     status: preprint
     type: "research paper"
   -
+    title: "Organize a Laid-Back Conference in the Rocky Mountains that Participants Want to Return to Year after Year"
+    with: "Kelly McKinnie"
+    publication_year: "2020"
+    in: "Notices of the American Mathematical Society, Early Career"
+    pubinfo: "Volume 67, No. 11, December 2020"
+    status: "publication"
+    type: "other"
+  -
+    title: 'Response to ``Letter to AMS Notices: Boycott collaboration with police"'
+    in: "Notices of the American Mathematical Society, Letters to the Editor"
+    status: "publication"
+    type: "other"
+    pubinfo: "Volume 67, No. 9, October 2020"
+    publication_year: 2020
+  -
+    title: "Open Algorithms, Social Justice, and Predictive Policing"
+    publication_year: "2020"
+    in: "Notices of the American Mathematical Society, Opinion"
+    status: "publication"
+    type: "other"
+    pubinfo: "Volume 67, No. 9, October 2020"
+    publication_year: 2020
+  -
     arxiv: "2004.11933"
     title: "A Tannakian approach to patching"
     with: "Bastian Haase and Max Lieblich"
@@ -36,17 +67,14 @@ publications:
     arxiv_year: 2017
     status: "preprint"
     type: "research paper"
-
-
   -
     arxiv: "1509.07195"
     title: "The Clifford algebra of a finite morphism"
     with: "Max Lieblich"
     arxiv_year: 2015
     publication_year: "2020"
-    in: "in revision for the Journal of Algebra"
+    status: "preprint"
     type: "research paper"
-
   -
     title: "Division algebras with common subfields"
     with: "Eliyahu Matzri, Andre Rapinchuk, Louis Rowen and David Saltman"
@@ -54,8 +82,6 @@ publications:
     publication_year: "2021"
     in: "to appear in Manuscripta Mathematica"
     type: "research paper"
-
-
   -
     title: "Local-Global Principles for Curves over Semi-Global Fields"
     arxiv: "2001.05429"
@@ -95,7 +121,7 @@ publications:
     status: "publication"
     MR: "MR4113747"
     publication_year: 2020
-
+    type: "research paper"
   -
     title: "Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields"
     arxiv: "1710.03173"
@@ -108,8 +134,6 @@ publications:
     pubinfo: "372 (2019),  no.  8, 5263--5286"
     status: "publication"
     publication_year: 2019
-
-
   -
     arxiv: "1704.05489"
     title: "Period-index bounds for arithmetic threefolds"
