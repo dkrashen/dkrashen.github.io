@@ -20,5 +20,11 @@
     <button type="button" class="btn btn-lnk pull-right btn-spaced">arXiv</button>
 		</a>
 		{% endif %}
+		{% if include.p.filename %}
+		<a href="/resources/{{ include.p.filename }}">
+    <button type="button" class="btn btn-lnk pull-right btn-spaced">pdf</button>
+		</a>
+		{% endif %}
+
 	</div>
 </div>
