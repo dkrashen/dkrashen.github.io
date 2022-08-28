@@ -1,6 +1,6 @@
 ---
 
-  - title: "MATH MATH 536: Algebraic Geometry 2(&frac12;)"
+  - title: "MATH 536: Algebraic Geometry 2(&frac12;)"
     url: "http://dkrashen.github.io/schemes/"
     schedule: "Tuesday/Thursday 1:40pm-3:00pm"
     location: "Online"
@@ -57,4 +57,3 @@
     url: "http://dkrashen.github.io/stacks-reading/"
     semester: "Fall 2018"
     description: "Fibered categories, stacks and the theory of descent, algebraic spaces and algebraic stacks."
-
