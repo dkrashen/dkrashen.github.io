@@ -1,5 +1,12 @@
 ---
 
+
+  - title: "MATH 6250: Algebraic Geometry 2: The geometry of schemes"
+    url: "http://dkrashen.github.io/ag2/"
+    schedule: "Monday/Friday 1:45pm-3:15pm"
+    location: "TBD"
+    semester: "Spring 2023"
+
   - title: "MATH 7020: Topics in Algebra: Algebraic K-Theory and Algebraic Cycles"
     url: "http://dkrashen.github.io/kcycle/"
     schedule: "Tuesday/Thursday 12:00pm-1:30pm"
@@ -11,3 +18,4 @@
     schedule: "Tuesday/Thursday 3:30pm-5:00pm"
     location: "DRL 2C6"
     semester: "Fall 2022"
+
