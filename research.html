@@ -59,11 +59,11 @@ tag: "Using shapes to understand the arithmetic of algebraic structures."
 
 <div class="row well">
 <div class="col-md-12">
-<h2 id="manuscripts"> Publications </h2>
+<h2 id="manuscripts"> Research Publications </h2>
 <br/>
 <br/>
 {% for p in site.data.publications.publications %}
-{% if p.status == "publication" %}
+{% if p.status == "publication" and p.type == "research" %}
 {% include pub.html p=p %}
 {% endif %}
 {% endfor %}
@@ -73,22 +73,17 @@ tag: "Using shapes to understand the arithmetic of algebraic structures."
 
 <div class="row well">
 <div class="col-md-12">
-<h2 id="manuscripts"> Other writing </h2>
+<h2 id="manuscripts"> Other Writing </h2>
 <br/>
+<br/>
+{% for p in site.data.publications.publications %}
+{% if p.type == "other" %}
+{% include pub.html p=p %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
 
-<div class="row well well-sm">
-	<div class="col-md-9">
-		<b>Open algorithms, social justice, and predictive policing</b>, submitted as an opinion piece to the Notices
-of the AMS
-	</div>
-	<div class="col-md-3">
-		<a href="{{ "/resources/open_algorithms_social_justice.pdf" | prepend: site.baseurl}}">
-	    <button type="button" class="btn btn-lnk pull-right btn-spaced">pdf</button>
-		</a>
-	</div>
-</div>
-</div>
-</div>
 <div class="row well">
 	<div class="col-md-12">
 	<ul>
