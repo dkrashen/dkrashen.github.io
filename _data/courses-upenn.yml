@@ -1,10 +1,15 @@
 ---
 
+  - title: "MATH 1700: Ideas in Mathematics"
+    url: "http://torsor.org/ideas_in_math/"
+    schedule: "Tuesday/Thursday 3:30pm-5:00pm"
+    location: "DRL A1"
+    semester: "Fall 2023"
 
   - title: "MATH 6250: Algebraic Geometry 2: The geometry of schemes"
     url: "http://dkrashen.github.io/ag2/"
     schedule: "Monday/Friday 1:45pm-3:15pm"
-    location: "TBD"
+    location: "Various"
     semester: "Spring 2023"
 
   - title: "MATH 7020: Topics in Algebra: Algebraic K-Theory and Algebraic Cycles"
