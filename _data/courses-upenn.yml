@@ -1,9 +1,15 @@
 ---
 
+  - title: "MATH 6030: Graduate algebra 2"
+    url: "http://dkrashen.github.io/alg2s25/"
+    schedule: "Monday/Wednesday 10:15am-11:45am"
+    location: "CHEM 109"
+    semester: "Spring 2025"
+    
   - title: "MATH 6020: Graduate algebra 1"
     url: "http://dkrashen.github.io/alg1f24/"
     schedule: "Monday/Wednesday 10:15am-11:45am"
-    location: "TBA"
+    location: "DRL 3C8"
     semester: "Fall 2024"
 
   - title: "MATH 7250: Division algebras"
