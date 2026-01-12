@@ -1,5 +1,11 @@
 ---
 
+  - title: "MATH 3210: Linear algebra"
+    url: "http://dkrashen.github.io/lalg/"
+    schedule: "Monday/Wednesday 1:45pm-3:15pm"
+    location: "LRSM AUD"
+    semester: "Spring 2026"
+
   - title: "MATH 7240: Linear algebraic groups over fields"
     url: "http://dkrashen.github.io/lag/"
     schedule: "Monday/Wednesday 8:30am-10:00am"
