@@ -8,3 +8,8 @@ todo.txt
 Icon*
 
 .jekyll-cache/*
+.astro
+design-ideas
+dist
+node_modules
+package-lock.json
