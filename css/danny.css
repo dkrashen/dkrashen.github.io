@@ -56,3 +56,19 @@ div.news {
   padding-left:10%;
   padding-right:10%;
 }
+
+div#highlights {
+  padding-bottom: 60px; }
+
+div#highlights p {
+  display: table;
+  font-size: 1.15em;
+  margin: 0 0 10px 0;
+  padding: 8px 14px;
+  background-color: #d0d7df; }
+
+div#highlights p a {
+  text-decoration: underline; }
+
+div#highlights p a:hover {
+  color: #33414f; }
