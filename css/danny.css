@@ -18,7 +18,7 @@ div#topmatter {padding-top:30px; padding-bottom:30px;}
 div#header-row {padding-bottom:30px;}
 p#about {font-size:2em; margin-top: 20px; margin-left: 30px;}
 p#cv {font-size:1.5em; margin-left: 30px;}
-div#gallery {padding-bottom:50px;}
+div#gallery {padding-bottom:36px;}
 
 img#portrait {
   max-height: 150px; }
@@ -57,18 +57,48 @@ div.news {
   padding-right:10%;
 }
 
-div#highlights {
+#current-work {
   padding-bottom: 60px; }
 
-div#highlights p {
-  display: table;
-  font-size: 1.15em;
-  margin: 0 0 10px 0;
-  padding: 8px 14px;
-  background-color: #d0d7df; }
+.current-work-inner {
+  display: flex;
+  align-items: baseline;
+  gap: 32px;
+  border-top: 1px solid #d0d7df;
+  padding-top: 22px; }
 
-div#highlights p a {
+#current-work-title {
+  flex: 0 0 170px;
+  margin: 0;
+  color: #66727e;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase; }
+
+.current-work-link {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 14px;
+  text-decoration: none; }
+
+.current-work-name {
+  color: #428bca;
+  font-size: 20px; }
+
+.current-work-description {
+  color: #52606d;
+  font-size: 15px; }
+
+.current-work-link:hover .current-work-name,
+.current-work-link:focus .current-work-name {
   text-decoration: underline; }
 
-div#highlights p a:hover {
-  color: #33414f; }
+@media (max-width: 600px) {
+  .current-work-inner {
+    display: block; }
+
+  #current-work-title {
+    margin-bottom: 10px; }
+}
