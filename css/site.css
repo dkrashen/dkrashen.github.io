@@ -94,12 +94,8 @@ main.page { padding-block: 48px; }
 }
 .tile:hover { box-shadow: var(--shadow); border-color: var(--violet-light); color: inherit; }
 .tile__art { height: 130px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; }
-.tile__art img { max-height: 130px; width: auto; mix-blend-mode: multiply; }
-.tile__art--empty {
-  border: 1px dashed var(--violet-light); border-radius: var(--radius);
-  font-family: var(--font-mono); font-size: 11px; letter-spacing: 1.5px; color: var(--faint);
-  text-transform: uppercase;
-}
+.tile__glyph { height: 110px; width: auto; transition: transform .2s; }
+.tile:hover .tile__glyph { transform: translateY(-2px); }
 .tile h2 { font-size: 20px; margin: 0 0 4px; }
 .tile p { font-size: 15px; color: var(--muted); margin: 0; }
 .tile--external h2::after { content: " ↗"; color: var(--violet); }

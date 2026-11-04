@@ -3,26 +3,28 @@ layout: default
 unreleased: true
 tiles:
   - name: mathematics
+    art: mathematics
     url: /research/
-    img: /images/research.png
     line: algebra and arithmetic geometry
   - name: projects
+    art: projects
     url: /projects/
     line: AI, education, language, systems
   - name: writing
+    art: writing
     url: /writing/
     line: essays on AI and mathematics
   - name: talks & activity
+    art: talks
     url: /talks/
-    img: /images/videos.png
     line: talks, videos, organizing
   - name: teaching
+    art: teaching
     url: /teaching/
-    img: /images/teaching.png
     line: courses at Penn and before
   - name: tools
+    art: tools
     url: https://lab.torsor.org
-    img: /images/computation.png
     external: true
     line: code at torsorlab
 ---
@@ -39,7 +41,7 @@ tiles:
 <nav class="tiles" aria-label="sections">
   {% for t in page.tiles %}
   <a class="tile{% if t.external %} tile--external{% endif %}" href="{{ t.url }}">
-    {% if t.img %}<div class="tile__art"><img src="{{ t.img }}" alt=""></div>{% else %}<div class="tile__art tile__art--empty">drawing to come</div>{% endif %}
+    <div class="tile__art">{% include tile-art.html art=t.art %}</div>
     <h2>{{ t.name }}</h2>
     <p>{{ t.line }}</p>
   </a>

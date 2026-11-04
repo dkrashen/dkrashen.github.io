@@ -1,0 +1,46 @@
+{%- comment -%}
+  Stand-in tile glyphs, in the lab's card-glyph style (violet strokes, a
+  coral point), until new drawings replace them. include.art picks one.
+{%- endcomment -%}
+<svg class="tile__glyph" viewBox="0 0 120 90" aria-hidden="true" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+{%- case include.art -%}
+{%- when "mathematics" -%}
+  <!-- a square that need not commute -->
+  <path d="M34 22 H84 M30 26 V64 M88 26 V64 M34 68 H84" stroke="var(--violet)"/>
+  <path d="M80 18 l5 4 -5 4 M26 60 l4 5 4 -5 M84 60 l4 5 4 -5 M80 64 l5 4 -5 4" stroke="var(--violet)"/>
+  <path d="M36 28 Q60 34 82 62" stroke="var(--violet-light)" stroke-dasharray="3 4"/>
+  <circle cx="30" cy="22" r="3.5" fill="var(--coral)" stroke="none"/>
+  <circle cx="88" cy="22" r="2.5" fill="var(--violet)" stroke="none"/>
+  <circle cx="30" cy="68" r="2.5" fill="var(--violet)" stroke="none"/>
+  <circle cx="88" cy="68" r="2.5" fill="var(--violet)" stroke="none"/>
+{%- when "projects" -%}
+  <!-- strands that meet -->
+  <circle cx="48" cy="38" r="20" stroke="var(--violet)"/>
+  <circle cx="72" cy="38" r="20" stroke="var(--violet-light)"/>
+  <circle cx="60" cy="58" r="20" stroke="var(--violet)"/>
+  <circle cx="60" cy="45" r="3.5" fill="var(--coral)" stroke="none"/>
+{%- when "writing" -%}
+  <!-- a page -->
+  <path d="M38 12 H74 L86 24 V78 H38 Z M74 12 V24 H86" stroke="var(--violet)"/>
+  <path d="M46 34 H78 M46 44 H78 M46 54 H70 M46 64 H62" stroke="var(--violet-light)"/>
+  <circle cx="66" cy="64" r="3" fill="var(--coral)" stroke="none"/>
+{%- when "talks" -%}
+  <!-- a screen with play -->
+  <rect x="26" y="16" width="68" height="46" rx="4" stroke="var(--violet)"/>
+  <path d="M54 30 L68 39 L54 48 Z" stroke="var(--violet-light)"/>
+  <path d="M60 62 V74 M46 76 H74" stroke="var(--violet)"/>
+  <circle cx="86" cy="24" r="3.5" fill="var(--coral)" stroke="none"/>
+{%- when "teaching" -%}
+  <!-- a board with a curve -->
+  <rect x="22" y="14" width="76" height="50" rx="3" stroke="var(--violet)"/>
+  <path d="M32 52 C46 52 48 24 60 24 S76 52 88 52" stroke="var(--violet-light)"/>
+  <path d="M32 54 H88" stroke="var(--violet-light)"/>
+  <path d="M40 64 L34 78 M80 64 L86 78" stroke="var(--violet)"/>
+  <circle cx="60" cy="24" r="3.5" fill="var(--coral)" stroke="none"/>
+{%- when "tools" -%}
+  <!-- code -->
+  <path d="M42 26 L24 45 L42 64 M78 26 L96 45 L78 64" stroke="var(--violet)"/>
+  <path d="M66 20 L54 70" stroke="var(--violet-light)"/>
+  <circle cx="60" cy="45" r="3.5" fill="var(--coral)" stroke="none"/>
+{%- endcase -%}
+</svg>
