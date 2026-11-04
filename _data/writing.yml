@@ -1,4 +1,12 @@
 # Essays, opinion, and slides. Newest first. `released: false` = preview only.
+- date: 2026-11-04
+  kind: essay, slides
+  title: "torsorlab: a mathematical ecosystem"
+  line: people, agents, tools together
+  links:
+    - {label: essay, url: "https://lab.torsor.org/essays/torsorlab-ecosystem.pdf"}
+    - {label: slides, url: "https://lab.torsor.org/essays/torsorlab-ecosystem-slides.pdf"}
+
 - date: 2026-11-01
   kind: essays
   title: AI and the evolving shape of mathematical research
