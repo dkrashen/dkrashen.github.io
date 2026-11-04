@@ -1,92 +1,14 @@
 view: publications
 title: Publications (dkrashen.org research page)
-generated: '2026-11-03T19:03:03'
-as_of: '2026-11-03'
-record: ff91977
+generated: '2026-11-04T10:32:02'
+as_of: '2026-11-04'
+record: b6e93d1
 sections:
 - key: preprints
   heading: Preprints
   kind: records
-  count: 9
+  count: 7
   items:
-  - id: pub-looming-phantoms
-    title:
-      tex: A Looming of phantoms
-      text: A Looming of phantoms
-    authors:
-    - id: kemboi
-      name: Kimoi Kemboi
-      sort_name: Kemboi, Kimoi
-      me: false
-    - id: krashen
-      name: Daniel Krashen
-      sort_name: Krashen, Daniel
-      me: true
-    - id: liu-t
-      name: Tianle Liu
-      sort_name: Liu, Tianle
-      me: false
-    - id: liu-y
-      name: Yeqin Liu
-      sort_name: Liu, Yeqin
-      me: false
-    - id: mackall
-      name: Eoin Mackall
-      sort_name: Mackall, Eoin
-      me: false
-    - id: makarova
-      name: Svetlana Makarova
-      sort_name: Makarova, Svetlana
-      me: false
-    - id: perry
-      name: Alexander Perry
-      sort_name: Perry, Alexander
-      me: false
-    - id: robotis
-      name: Antonios-Alexandros Robotis
-      sort_name: Robotis, Antonios-Alexandros
-      me: false
-    - id: venkatesh
-      name: Sridhar Venkatesh
-      sort_name: Venkatesh, Sridhar
-      me: false
-    with:
-    - id: kemboi
-      name: Kimoi Kemboi
-      sort_name: Kemboi, Kimoi
-      me: false
-    - id: liu-t
-      name: Tianle Liu
-      sort_name: Liu, Tianle
-      me: false
-    - id: liu-y
-      name: Yeqin Liu
-      sort_name: Liu, Yeqin
-      me: false
-    - id: mackall
-      name: Eoin Mackall
-      sort_name: Mackall, Eoin
-      me: false
-    - id: makarova
-      name: Svetlana Makarova
-      sort_name: Makarova, Svetlana
-      me: false
-    - id: perry
-      name: Alexander Perry
-      sort_name: Perry, Alexander
-      me: false
-    - id: robotis
-      name: Antonios-Alexandros Robotis
-      sort_name: Robotis, Antonios-Alexandros
-      me: false
-    - id: venkatesh
-      name: Sridhar Venkatesh
-      sort_name: Venkatesh, Sridhar
-      me: false
-    year: 2025
-    stage: preprint
-    ids:
-      arxiv: '2511.05381'
   - id: pub-rational-connectedness-parametrization-finite
     title:
       tex: On rational connectedness and parametrization of finite Galois extensions
@@ -96,15 +18,31 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: neftin
       name: Danny Neftin
       sort_name: Neftin, Danny
       me: false
+      ids:
+        mr_author: '911705'
+        mgp: '157197'
+        wikidata: Q102388676
     with:
     - id: neftin
       name: Danny Neftin
       sort_name: Neftin, Danny
       me: false
+      ids:
+        mr_author: '911705'
+        mgp: '157197'
+        wikidata: Q102388676
     year: 2025
     stage: preprint
     ids:
@@ -118,57 +56,55 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     year: 2025
     stage: preprint
     ids:
       arxiv: '2502.01504'
-  - id: pub-classes-lower-exponent
-    title:
-      tex: Classes in $H^{n+1}_{p^m}(F)$ of lower exponent
-      text: Classes in H^(n+1)_(p^m)(F) of lower exponent
-    authors:
-    - id: chapman
-      name: Adam Chapman
-      sort_name: Chapman, Adam
-      me: false
-    - id: krashen
-      name: Daniel Krashen
-      sort_name: Krashen, Daniel
-      me: true
-    - id: mckinnie
-      name: Kelly McKinnie
-      sort_name: McKinnie, Kelly
-      me: false
-    with:
-    - id: chapman
-      name: Adam Chapman
-      sort_name: Chapman, Adam
-      me: false
-    - id: mckinnie
-      name: Kelly McKinnie
-      sort_name: McKinnie, Kelly
-      me: false
-    year: 2024
-    stage: preprint
-    ids:
-      arxiv: '2409.16447'
   - id: pub-morita-equivalences-zhus-associative
     title:
       tex: Morita equivalences for Zhu's associative algebra and mode transition algebras
@@ -178,23 +114,47 @@ sections:
       name: Chiara Damiolini
       sort_name: Damiolini, Chiara
       me: false
+      ids:
+        openalex: A5071009087
+        orcid: 0000-0003-4102-4212
+        zbmath: damiolini.chiara
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: damiolini
       name: Chiara Damiolini
       sort_name: Damiolini, Chiara
       me: false
+      ids:
+        openalex: A5071009087
+        orcid: 0000-0003-4102-4212
+        zbmath: damiolini.chiara
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     year: 2024
     stage: preprint
     ids:
@@ -208,23 +168,51 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     - id: shin-m
       name: Minseon Shin
       sort_name: Shin, Minseon
       me: false
+      ids:
+        mgp: '250817'
+        wikidata: Q103178359
     with:
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     - id: shin-m
       name: Minseon Shin
       sort_name: Shin, Minseon
       me: false
+      ids:
+        mgp: '250817'
+        wikidata: Q103178359
     year: 2023
     stage: preprint
     ids:
@@ -238,23 +226,49 @@ sections:
       name: Bastian Haase
       sort_name: Haase, Bastian
       me: false
+      ids:
+        zbmath: haase.bastian
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     with:
     - id: haase
       name: Bastian Haase
       sort_name: Haase, Bastian
       me: false
+      ids:
+        zbmath: haase.bastian
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     year: 2020
     stage: preprint
     ids:
@@ -268,23 +282,47 @@ sections:
       name: Caroline Junkins
       sort_name: Junkins, Caroline
       me: false
+      ids:
+        mr_author: '1007210'
+        mgp: '186559'
+        wikidata: Q102425382
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lemire
       name: Nicole Lemire
       sort_name: Lemire, Nicole
       me: false
+      ids:
+        mr_author: '669455'
+        mgp: '44759'
+        wikidata: Q102201101
     with:
     - id: junkins
       name: Caroline Junkins
       sort_name: Junkins, Caroline
       me: false
+      ids:
+        mr_author: '1007210'
+        mgp: '186559'
+        wikidata: Q102425382
     - id: lemire
       name: Nicole Lemire
       sort_name: Lemire, Nicole
       me: false
+      ids:
+        mr_author: '669455'
+        mgp: '44759'
+        wikidata: Q102201101
     year: 2017
     stage: preprint
     ids:
@@ -298,15 +336,37 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     with:
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     year: 2015
     stage: preprint
     ids:
@@ -314,8 +374,188 @@ sections:
 - key: publications
   heading: Research Publications
   kind: records
-  count: 33
+  count: 35
   items:
+  - id: pub-looming-phantoms
+    title:
+      tex: A Looming of phantoms
+      text: A Looming of phantoms
+    authors:
+    - id: kemboi
+      name: Kimoi Kemboi
+      sort_name: Kemboi, Kimoi
+      me: false
+      ids:
+        openalex: A5008954823
+        orcid: 0000-0002-4058-9230
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
+    - id: liu-t
+      name: Tianle Liu
+      sort_name: Liu, Tianle
+      me: false
+    - id: liu-y
+      name: Yeqin Liu
+      sort_name: Liu, Yeqin
+      me: false
+      ids:
+        zbmath: liu.yeqin
+    - id: mackall
+      name: Eoin Mackall
+      sort_name: Mackall, Eoin
+      me: false
+      ids:
+        openalex: A5120356375
+    - id: makarova
+      name: Svetlana Makarova
+      sort_name: Makarova, Svetlana
+      me: false
+      ids:
+        openalex: A5112149697
+        orcid: 0000-0003-4759-3563
+    - id: perry
+      name: Alexander Perry
+      sort_name: Perry, Alexander
+      me: false
+      ids:
+        openalex: A5120452186
+    - id: robotis
+      name: Antonios-Alexandros Robotis
+      sort_name: Robotis, Antonios-Alexandros
+      me: false
+      ids:
+        openalex: A5093487591
+        orcid: 0009-0009-3071-7727
+    - id: venkatesh
+      name: Sridhar Venkatesh
+      sort_name: Venkatesh, Sridhar
+      me: false
+      ids:
+        openalex: A5120452187
+    with:
+    - id: kemboi
+      name: Kimoi Kemboi
+      sort_name: Kemboi, Kimoi
+      me: false
+      ids:
+        openalex: A5008954823
+        orcid: 0000-0002-4058-9230
+    - id: liu-t
+      name: Tianle Liu
+      sort_name: Liu, Tianle
+      me: false
+    - id: liu-y
+      name: Yeqin Liu
+      sort_name: Liu, Yeqin
+      me: false
+      ids:
+        zbmath: liu.yeqin
+    - id: mackall
+      name: Eoin Mackall
+      sort_name: Mackall, Eoin
+      me: false
+      ids:
+        openalex: A5120356375
+    - id: makarova
+      name: Svetlana Makarova
+      sort_name: Makarova, Svetlana
+      me: false
+      ids:
+        openalex: A5112149697
+        orcid: 0000-0003-4759-3563
+    - id: perry
+      name: Alexander Perry
+      sort_name: Perry, Alexander
+      me: false
+      ids:
+        openalex: A5120452186
+    - id: robotis
+      name: Antonios-Alexandros Robotis
+      sort_name: Robotis, Antonios-Alexandros
+      me: false
+      ids:
+        openalex: A5093487591
+        orcid: 0009-0009-3071-7727
+    - id: venkatesh
+      name: Sridhar Venkatesh
+      sort_name: Venkatesh, Sridhar
+      me: false
+      ids:
+        openalex: A5120452187
+    venue: Advances in Mathematics
+    pubinfo: 499 (2026), Paper No. 111046
+    year: 2026
+    stage: published
+    ids:
+      arxiv: '2511.05381'
+      doi: 10.1016/j.aim.2026.111046
+      openalex: W4416273055
+  - id: pub-classes-lower-exponent
+    title:
+      tex: Classes in $H^{n+1}_{p^m}(F)$ of lower exponent
+      text: Classes in H^(n+1)_(p^m)(F) of lower exponent
+    authors:
+    - id: chapman
+      name: Adam Chapman
+      sort_name: Chapman, Adam
+      me: false
+      ids:
+        openalex: A5085836470
+        orcid: 0000-0001-6968-8139
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
+    - id: mckinnie
+      name: Kelly McKinnie
+      sort_name: McKinnie, Kelly
+      me: false
+      ids:
+        openalex: A5039007121
+        orcid: 0000-0002-8250-5760
+        zbmath: mckinnie.kelly
+    with:
+    - id: chapman
+      name: Adam Chapman
+      sort_name: Chapman, Adam
+      me: false
+      ids:
+        openalex: A5085836470
+        orcid: 0000-0001-6968-8139
+    - id: mckinnie
+      name: Kelly McKinnie
+      sort_name: McKinnie, Kelly
+      me: false
+      ids:
+        openalex: A5039007121
+        orcid: 0000-0002-8250-5760
+        zbmath: mckinnie.kelly
+    venue: Annals of K-Theory
+    pubinfo: 11 (2026), no. 1, 37--46
+    year: 2026
+    stage: published
+    ids:
+      arxiv: '2409.16447'
+      doi: 10.2140/akt.2026.11.37
+      openalex: W4403789169
   - id: pub-conformal-blocks-smoothings-mode
     title:
       tex: Conformal blocks on smoothings via mode transition algebras
@@ -325,52 +565,57 @@ sections:
       name: Chiara Damiolini
       sort_name: Damiolini, Chiara
       me: false
+      ids:
+        openalex: A5071009087
+        orcid: 0000-0003-4102-4212
+        zbmath: damiolini.chiara
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: damiolini
       name: Chiara Damiolini
       sort_name: Damiolini, Chiara
       me: false
+      ids:
+        openalex: A5071009087
+        orcid: 0000-0003-4102-4212
+        zbmath: damiolini.chiara
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     venue: Communications in Mathematical Physics
-    year: 2024
-    stage: accepted
-    ids:
-      arxiv: '2307.03767'
-  - id: pub-transcendental-splitting-fields-division
-    title:
-      tex: Transcendental splitting fields of division algebras
-      text: Transcendental splitting fields of division algebras
-    authors:
-    - id: krashen
-      name: Daniel Krashen
-      sort_name: Krashen, Daniel
-      me: true
-    - id: lieblich
-      name: Max Lieblich
-      sort_name: Lieblich, Max
-      me: false
-    with:
-    - id: lieblich
-      name: Max Lieblich
-      sort_name: Lieblich, Max
-      me: false
-    venue: Contemporary Mathematics
-    pubinfo: Vol. 800 (2024)
-    year: 2024
+    pubinfo: 406 (2025), no. 6, Paper No. 131
+    year: 2025
     stage: published
     ids:
-      arxiv: '2203.15951'
+      arxiv: '2307.03767'
+      doi: 10.1007/s00220-025-05237-1
+      zbl: '1573.17049'
+      openalex: W4410167609
+      mr: MR4902852
   - id: pub-factorization-presentations
     title:
       tex: Factorization Presentations
@@ -380,30 +625,108 @@ sections:
       name: Chiara Damiolini
       sort_name: Damiolini, Chiara
       me: false
+      ids:
+        openalex: A5071009087
+        orcid: 0000-0003-4102-4212
+        zbmath: damiolini.chiara
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: damiolini
       name: Chiara Damiolini
       sort_name: Damiolini, Chiara
       me: false
+      ids:
+        openalex: A5071009087
+        orcid: 0000-0003-4102-4212
+        zbmath: damiolini.chiara
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     venue: Higher dimensional algebraic geometry -- a volume in honor of V. V. Shokurov. London Math. Soc. Lecture Note Ser.
     pubinfo: Vol. 489 (2025), 163-191
-    year: 2023
+    year: 2025
     stage: published
     ids:
       arxiv: '2207.05110'
+      doi: 10.1017/9781009396233.012
+      zbl: '1575.14063'
+      openalex: W4405042720
+      mr: MR4844631
     file: Factorization_Resolution.pdf
+  - id: pub-transcendental-splitting-fields-division
+    title:
+      tex: Transcendental splitting fields of division algebras
+      text: Transcendental splitting fields of division algebras
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
+    with:
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
+    venue: Contemporary Mathematics
+    pubinfo: Vol. 800 (2024)
+    year: 2024
+    stage: published
+    ids:
+      arxiv: '2203.15951'
+      doi: 10.1090/conm/800/16056
+      zbl: '1569.12002'
+      openalex: W4396555336
+      mr: MR4740849
   - id: pub-bounding-cohomology-classes-semiglobal
     title:
       tex: Bounding cohomology classes over semiglobal fields
@@ -413,28 +736,60 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: Israel Journal of Mathematics
     pubinfo: Vol. 257 (2023), 353-387
     year: 2023
     stage: published
-    ids: {}
+    ids:
+      doi: 10.1007/s11856-023-2549-x
+      zbl: '1555.11028'
+      openalex: W4221142571
+      mr: MR4682921
   - id: pub-local-global-principles-constant
     title:
       tex: Local-Global Principles for Constant Reductive Groups over Semi-Global Fields
@@ -444,52 +799,125 @@ sections:
       name: Jean-Louis Colliot-Thélène
       sort_name: Colliot-Thélène, Jean-Louis
       me: false
+      ids:
+        openalex: A5058884818
+        orcid: 0000-0002-0387-1982
+        zbmath: colliot-thelene.jean-louis
+        mr_author: '50705'
+        mgp: '64090'
+        wikidata: Q1247766
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     with:
     - id: colliot-thelene
       name: Jean-Louis Colliot-Thélène
       sort_name: Colliot-Thélène, Jean-Louis
       me: false
+      ids:
+        openalex: A5058884818
+        orcid: 0000-0002-0387-1982
+        zbmath: colliot-thelene.jean-louis
+        mr_author: '50705'
+        mgp: '64090'
+        wikidata: Q1247766
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     venue: Michigan Math. Journal.
     pubinfo: Vol. 72 (2022), 77-144
     year: 2022
     stage: published
-    ids: {}
+    ids:
+      arxiv: '2108.12349'
+      doi: 10.1307/mmj/20217219
+      zbl: '1502.14059'
+      openalex: W3197217802
+      mr: MR4460250
   - id: pub-division-algebras-common-subfields
     title:
       tex: Division algebras with common subfields
@@ -499,44 +927,102 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: matzri
       name: Eliyahu Matzri
       sort_name: Matzri, Eliyahu
       me: false
+      ids:
+        openalex: A5037860876
+        orcid: 0000-0001-6154-2653
+        zbmath: matzri.eliyahu
     - id: rapinchuk
       name: Andre Rapinchuk
       sort_name: Rapinchuk, Andre
       me: false
+      ids:
+        openalex: A5045087097
+        orcid: 0000-0003-2440-1485
+        zbmath: rapinchuk.andrei-s
+        mgp: '54183'
+        wikidata: Q95216077
     - id: rowen
       name: Louis Rowen
       sort_name: Rowen, Louis
       me: false
+      ids:
+        openalex: A5033661144
+        orcid: 0000-0003-4540-9574
+        zbmath: rowen.louis-halle
+        mr_author: '151270'
+        mgp: '9415'
+        wikidata: Q102116250
     - id: saltman
       name: David J. Saltman
       sort_name: Saltman, David J.
       me: false
+      ids:
+        openalex: A5081831464
+        zbmath: saltman.david-j
+        mr_author: '153620'
+        mgp: '7980'
+        wikidata: Q102156690
     with:
     - id: matzri
       name: Eliyahu Matzri
       sort_name: Matzri, Eliyahu
       me: false
+      ids:
+        openalex: A5037860876
+        orcid: 0000-0001-6154-2653
+        zbmath: matzri.eliyahu
     - id: rapinchuk
       name: Andre Rapinchuk
       sort_name: Rapinchuk, Andre
       me: false
+      ids:
+        openalex: A5045087097
+        orcid: 0000-0003-2440-1485
+        zbmath: rapinchuk.andrei-s
+        mgp: '54183'
+        wikidata: Q95216077
     - id: rowen
       name: Louis Rowen
       sort_name: Rowen, Louis
       me: false
+      ids:
+        openalex: A5033661144
+        orcid: 0000-0003-4540-9574
+        zbmath: rowen.louis-halle
+        mr_author: '151270'
+        mgp: '9415'
+        wikidata: Q102116250
     - id: saltman
       name: David J. Saltman
       sort_name: Saltman, David J.
       me: false
+      ids:
+        openalex: A5081831464
+        zbmath: saltman.david-j
+        mr_author: '153620'
+        mgp: '7980'
+        wikidata: Q102156690
     venue: Manuscripta Math.
     pubinfo: Vol. 169 (2022), no.1-2, 209–249.
     year: 2021
     stage: published
-    ids: {}
+    ids:
+      doi: 10.1007/s00229-021-01315-5
+      zbl: '1532.16015'
+      openalex: W3180475431
+      mr: MR4462663
   - id: pub-local-global-principles-curves
     title:
       tex: Local-Global Principles for Curves over Semi-Global Fields
@@ -546,29 +1032,61 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: pirutka
       name: Alena Pirutka
       sort_name: Pirutka, Alena
       me: false
+      ids:
+        openalex: A5060472537
+        orcid: 0009-0005-9353-1410
+        zbmath: pirutka.alena
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: pirutka
       name: Alena Pirutka
       sort_name: Pirutka, Alena
       me: false
+      ids:
+        openalex: A5060472537
+        orcid: 0009-0005-9353-1410
+        zbmath: pirutka.alena
     venue: Bulletin of the London Mathematical Society
     pubinfo: 53 (1), Feb. 2021, 177--193
     year: 2020
     stage: published
     ids:
       arxiv: '2001.05429'
+      doi: 10.1112/blms.12409
+      zbl: '1478.11060'
+      openalex: W2999664093
+      mr: MR4224521
   - id: pub-local-global-principles-tori
     title:
       tex: Local-Global Principles for Tori over Arithmetic Curves
@@ -578,47 +1096,115 @@ sections:
       name: Jean-Louis Colliot-Thélène
       sort_name: Colliot-Thélène, Jean-Louis
       me: false
+      ids:
+        openalex: A5058884818
+        orcid: 0000-0002-0387-1982
+        zbmath: colliot-thelene.jean-louis
+        mr_author: '50705'
+        mgp: '64090'
+        wikidata: Q1247766
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     with:
     - id: colliot-thelene
       name: Jean-Louis Colliot-Thélène
       sort_name: Colliot-Thélène, Jean-Louis
       me: false
+      ids:
+        openalex: A5058884818
+        orcid: 0000-0002-0387-1982
+        zbmath: colliot-thelene.jean-louis
+        mr_author: '50705'
+        mgp: '64090'
+        wikidata: Q1247766
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     venue: Algebraic Geometry
     pubinfo: 7 (5) (2020) 607--633
     year: 2020
@@ -626,6 +1212,9 @@ sections:
     ids:
       arxiv: '1906.10672'
       doi: 10.14231/AG-2020-022
+      zbl: '1468.11097'
+      openalex: W2952209592
+      mr: MR4156420
   - id: pub-multiparty-non-interactive-key
     title:
       tex: Multiparty Non-Interactive Key Exchange and More From Isogenies on Elliptic Curves
@@ -635,63 +1224,147 @@ sections:
       name: Dan Boneh
       sort_name: Boneh, Dan
       me: false
+      ids:
+        openalex: A5027798962
+        orcid: 0000-0003-0820-0421
+        zbmath: boneh.dan
+        mr_author: '610716'
+        mgp: '70975'
+        wikidata: Q2896470
     - id: glass
       name: Darren Glass
       sort_name: Glass, Darren
       me: false
+      ids:
+        openalex: A5064447554
+        zbmath: glass.darren-b
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lauter
       name: Kristin Lauter
       sort_name: Lauter, Kristin
       me: false
+      ids:
+        openalex: A5002850656
+        orcid: 0000-0002-1320-696X
+        zbmath: lauter.kristin-e
+        mr_author: '619019'
+        mgp: '77976'
+        wikidata: Q6438154
     - id: sharif
       name: Shahed Sharif
       sort_name: Sharif, Shahed
       me: false
+      ids:
+        openalex: A5011971905
+        zbmath: sharif.shahed
     - id: silverberg
       name: Alice Silverberg
       sort_name: Silverberg, Alice
       me: false
+      ids:
+        openalex: A5027554803
+        orcid: 0000-0001-8338-7930
+        zbmath: silverberg.alice
+        mr_author: '213982'
+        mgp: '41540'
+        wikidata: Q18706051
     - id: tibouchi
       name: Mehdi Tibouchi
       sort_name: Tibouchi, Mehdi
       me: false
+      ids:
+        openalex: A5082427466
+        orcid: 0000-0002-2736-2963
+        zbmath: tibouchi.mehdi
+        mr_author: '893634'
+        mgp: '177481'
+        wikidata: Q28002947
     - id: zhandry
       name: Mark Zhandry
       sort_name: Zhandry, Mark
       me: false
+      ids:
+        openalex: A5024874638
+        orcid: 0000-0001-7071-6272
+        zbmath: zhandry.mark
     with:
     - id: boneh
       name: Dan Boneh
       sort_name: Boneh, Dan
       me: false
+      ids:
+        openalex: A5027798962
+        orcid: 0000-0003-0820-0421
+        zbmath: boneh.dan
+        mr_author: '610716'
+        mgp: '70975'
+        wikidata: Q2896470
     - id: glass
       name: Darren Glass
       sort_name: Glass, Darren
       me: false
+      ids:
+        openalex: A5064447554
+        zbmath: glass.darren-b
     - id: lauter
       name: Kristin Lauter
       sort_name: Lauter, Kristin
       me: false
+      ids:
+        openalex: A5002850656
+        orcid: 0000-0002-1320-696X
+        zbmath: lauter.kristin-e
+        mr_author: '619019'
+        mgp: '77976'
+        wikidata: Q6438154
     - id: sharif
       name: Shahed Sharif
       sort_name: Sharif, Shahed
       me: false
+      ids:
+        openalex: A5011971905
+        zbmath: sharif.shahed
     - id: silverberg
       name: Alice Silverberg
       sort_name: Silverberg, Alice
       me: false
+      ids:
+        openalex: A5027554803
+        orcid: 0000-0001-8338-7930
+        zbmath: silverberg.alice
+        mr_author: '213982'
+        mgp: '41540'
+        wikidata: Q18706051
     - id: tibouchi
       name: Mehdi Tibouchi
       sort_name: Tibouchi, Mehdi
       me: false
+      ids:
+        openalex: A5082427466
+        orcid: 0000-0002-2736-2963
+        zbmath: tibouchi.mehdi
+        mr_author: '893634'
+        mgp: '177481'
+        wikidata: Q28002947
     - id: zhandry
       name: Mark Zhandry
       sort_name: Zhandry, Mark
       me: false
+      ids:
+        openalex: A5024874638
+        orcid: 0000-0001-7071-6272
+        zbmath: zhandry.mark
     venue: Journal of Mathematical Cryptology
     pubinfo: Vol. 14, no. 1 (2020)
     year: 2020
@@ -700,6 +1373,8 @@ sections:
       arxiv: '1807.03038'
       doi: 10.1515/jmc-2015-0047
       mr: MR4113747
+      zbl: '1445.14043'
+      openalex: W2871359882
   - id: pub-local-global-principles-zero
     title:
       tex: Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields
@@ -709,53 +1384,125 @@ sections:
       name: Jean-Louis Colliot-Thélène
       sort_name: Colliot-Thélène, Jean-Louis
       me: false
+      ids:
+        openalex: A5058884818
+        orcid: 0000-0002-0387-1982
+        zbmath: colliot-thelene.jean-louis
+        mr_author: '50705'
+        mgp: '64090'
+        wikidata: Q1247766
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     with:
     - id: colliot-thelene
       name: Jean-Louis Colliot-Thélène
       sort_name: Colliot-Thélène, Jean-Louis
       me: false
+      ids:
+        openalex: A5058884818
+        orcid: 0000-0002-0387-1982
+        zbmath: colliot-thelene.jean-louis
+        mr_author: '50705'
+        mgp: '64090'
+        wikidata: Q1247766
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     venue: Transactions of the American Mathematical Society
     pubinfo: 372 (2019), no. 8, 5263--5286
     year: 2019
     stage: published
     ids:
       arxiv: '1710.03173'
+      doi: 10.1090/tran/7911
+      zbl: '1440.14035'
+      openalex: W2963970193
+      mr: MR4014276
   - id: pub-period-index-bounds-arithmetic
     title:
       tex: Period-index bounds for arithmetic threefolds
@@ -765,45 +1512,99 @@ sections:
       name: Benjamin Antieau
       sort_name: Antieau, Benjamin
       me: false
+      ids:
+        openalex: A5056527815
+        orcid: 0000-0002-5296-187X
+        zbmath: antieau.benjamin
+        mr_author: '924946'
+        mgp: '151817'
+        wikidata: Q102373297
     - id: auel
       name: Asher Auel
       sort_name: Auel, Asher
       me: false
+      ids:
+        zbmath: auel.asher
     - id: ingalls
       name: Colin Ingalls
       sort_name: Ingalls, Colin
       me: false
+      ids:
+        zbmath: ingalls.colin
+        mr_author: '350601'
+        mgp: '37001'
+        wikidata: Q102192466
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     with:
     - id: antieau
       name: Benjamin Antieau
       sort_name: Antieau, Benjamin
       me: false
+      ids:
+        openalex: A5056527815
+        orcid: 0000-0002-5296-187X
+        zbmath: antieau.benjamin
+        mr_author: '924946'
+        mgp: '151817'
+        wikidata: Q102373297
     - id: auel
       name: Asher Auel
       sort_name: Auel, Asher
       me: false
+      ids:
+        zbmath: auel.asher
     - id: ingalls
       name: Colin Ingalls
       sort_name: Ingalls, Colin
       me: false
+      ids:
+        zbmath: ingalls.colin
+        mr_author: '350601'
+        mgp: '37001'
+        wikidata: Q102192466
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     venue: Inventiones Mathematicae
     pubinfo: 216 (2019), no. 2, 301-335
     year: 2019
     stage: published
     ids:
       arxiv: '1704.05489'
+      doi: 10.1007/s00222-019-00860-x
+      zbl: '1436.14040'
+      openalex: W2950857684
+      mr: MR3953504
   - id: pub-local-global-galois-theory
     title:
       tex: Local-global Galois theory of arithmetic function fields
@@ -813,39 +1614,93 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
       me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
       me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
     venue: Israel Journal of Mathematics
     pubinfo: vol. 232, no. 2 (2019), 849-882
     year: 2019
@@ -853,6 +1708,9 @@ sections:
     ids:
       arxiv: '1710.03635'
       doi: 10.1007/s11856-019-1889-z
+      zbl: '1451.11126'
+      openalex: W2963202025
+      mr: MR3990961
   - id: pub-derived-categories-torsors-abelian
     title:
       tex: Derived categories for torsors for Abelian schemes
@@ -862,29 +1720,61 @@ sections:
       name: Benjamin Antieau
       sort_name: Antieau, Benjamin
       me: false
+      ids:
+        openalex: A5056527815
+        orcid: 0000-0002-5296-187X
+        zbmath: antieau.benjamin
+        mr_author: '924946'
+        mgp: '151817'
+        wikidata: Q102373297
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: ward
       name: Matthew Ward
       sort_name: Ward, Matthew
       me: false
+      ids:
+        openalex: A5069809843
+        zbmath: ward.matthew-d
     with:
     - id: antieau
       name: Benjamin Antieau
       sort_name: Antieau, Benjamin
       me: false
+      ids:
+        openalex: A5056527815
+        orcid: 0000-0002-5296-187X
+        zbmath: antieau.benjamin
+        mr_author: '924946'
+        mgp: '151817'
+        wikidata: Q102373297
     - id: ward
       name: Matthew Ward
       sort_name: Ward, Matthew
       me: false
+      ids:
+        openalex: A5069809843
+        zbmath: ward.matthew-d
     venue: Advances in Mathematics
     pubinfo: 306 (2017), 1-23
     year: 2017
     stage: published
     ids:
       arxiv: '1409.2580'
+      doi: 10.1016/j.aim.2016.09.037
+      zbl: '1388.14060'
+      openalex: W76526463
+      mr: MR3581296
   - id: pub-period-index-symbol-lengths
     title:
       tex: Period and index, symbol lengths, and generic splittings in Galois cohomology
@@ -894,6 +1784,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Bulletin of the London Mathematical Society
     pubinfo: 48 (2016), no. 6, 985-1000
@@ -901,6 +1799,10 @@ sections:
     stage: published
     ids:
       arxiv: '1305.5217'
+      doi: 10.1112/blms/bdw060
+      zbl: '1405.11039'
+      openalex: W1524969331
+      mr: MR3608943
   - id: pub-local-global-principles-torsors
     title:
       tex: Local-global principles for torsors over arithmetic curves
@@ -910,23 +1812,51 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: American Journal of Mathematics
     pubinfo: 137 (2015), no. 6, 1559--1612
     year: 2015
@@ -934,6 +1864,9 @@ sections:
     ids:
       arxiv: '1108.3323'
       mr: MR3432268
+      doi: 10.1353/ajm.2015.0039
+      zbl: '1348.11036'
+      openalex: W2142239820
   - id: pub-diophantine-cohomological-dimensions
     title:
       tex: Diophantine and cohomological dimensions
@@ -943,15 +1876,31 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: matzri
       name: Eliyahu Matzri
       sort_name: Matzri, Eliyahu
       me: false
+      ids:
+        openalex: A5037860876
+        orcid: 0000-0001-6154-2653
+        zbmath: matzri.eliyahu
     with:
     - id: matzri
       name: Eliyahu Matzri
       sort_name: Matzri, Eliyahu
       me: false
+      ids:
+        openalex: A5037860876
+        orcid: 0000-0001-6154-2653
+        zbmath: matzri.eliyahu
     venue: Proceedings of the AMS
     pubinfo: 143 (2015), no. 7, 2779--2788
     year: 2015
@@ -959,6 +1908,9 @@ sections:
     ids:
       arxiv: '1305.5295'
       mr: MR3336603
+      doi: 10.1090/s0002-9939-2015-12461-6
+      zbl: '1329.12003'
+      openalex: W2048212897
   - id: pub-refinements-patching-applications-field
     title:
       tex: Refinements to patching and applications to field invariants
@@ -968,23 +1920,51 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: International Math. Research Notices
     pubinfo: 'doi: 10.1093/imrn/rnu278 (2015)'
     year: 2015
@@ -992,6 +1972,9 @@ sections:
     ids:
       arxiv: '1404.4349'
       mr: MR3455871
+      doi: 10.1093/imrn/rnu278
+      zbl: '1386.14101'
+      openalex: W2130746220
   - id: pub-local-global-principles-galois
     title:
       tex: Local-global principles for Galois cohomology
@@ -1001,23 +1984,51 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: Commentarii Mathematici Helvetici
     pubinfo: 89 (2014), no. 1, 215--253
     year: 2014
@@ -1025,6 +2036,9 @@ sections:
     ids:
       arxiv: '1208.6359'
       mr: MR3177913
+      doi: 10.4171/cmh/317
+      zbl: '1332.11046'
+      openalex: W2045155198
   - id: pub-weierstrass-preparation-algebraic-invariants
     title:
       tex: Weierstrass preparation and algebraic invariants
@@ -1034,23 +2048,51 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: Mathematische Annalen
     pubinfo: 356 (2013), no. 4, 1405--1424
     year: 2013
@@ -1058,6 +2100,9 @@ sections:
     ids:
       arxiv: '1109.6362'
       mr: MR3072806
+      doi: 10.1007/s00208-012-0888-8
+      zbl: '1300.13019'
+      openalex: W2171931383
   - id: pub-relative-brauer-groups-genus
     title:
       tex: Relative Brauer groups of genus 1 curves
@@ -1067,15 +2112,35 @@ sections:
       name: Mirela Ciperiani
       sort_name: Ciperiani, Mirela
       me: false
+      ids:
+        openalex: A5021559712
+        zbmath: ciperiani.mirela
+        mr_author: '838646'
+        mgp: '109401'
+        wikidata: Q102309116
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: ciperiani
       name: Mirela Ciperiani
       sort_name: Ciperiani, Mirela
       me: false
+      ids:
+        openalex: A5021559712
+        zbmath: ciperiani.mirela
+        mr_author: '838646'
+        mgp: '109401'
+        wikidata: Q102309116
     venue: Israel Journal of Mathematics
     pubinfo: 192 (2012), no. 2, 921--949
     year: 2012
@@ -1083,6 +2148,9 @@ sections:
     ids:
       arxiv: math/0701614
       mr: MR3009747
+      doi: 10.1007/s11856-012-0057-5
+      zbl: '1259.14020'
+      openalex: W1991615402
   - id: pub-appendix-period-index-brauer
     title:
       tex: 'Appendix to: Period and index in the Brauer group of an arithmetic surface'
@@ -1092,6 +2160,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Journal für die reine und angewandte Mathematik
     pubinfo: 659 (2011), 1--41
@@ -1100,6 +2176,9 @@ sections:
     ids:
       arxiv: math/0702240
       mr: MR2837009
+      doi: 10.1515/CRELLE.2011.059
+      zbl: '1230.14021'
+      openalex: W2323046167
   - id: pub-patching-subfields-division-algebras
     title:
       tex: Patching subfields of division algebras
@@ -1109,23 +2188,51 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: Transactions of the American Mathematical Society
     pubinfo: 363 (2011), no. 6, 3335--3349
     year: 2011
@@ -1133,6 +2240,9 @@ sections:
     ids:
       arxiv: '0904.1594'
       mr: MR2775810
+      doi: 10.1090/s0002-9947-2010-05229-8
+      zbl: '1228.12004'
+      openalex: W2963983294
   - id: pub-distinguishing-division-algebras-finite
     title:
       tex: Distinguishing division algebras by finite splitting fields
@@ -1142,15 +2252,31 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: mckinnie
       name: Kelly McKinnie
       sort_name: McKinnie, Kelly
       me: false
+      ids:
+        openalex: A5039007121
+        orcid: 0000-0002-8250-5760
+        zbmath: mckinnie.kelly
     with:
     - id: mckinnie
       name: Kelly McKinnie
       sort_name: McKinnie, Kelly
       me: false
+      ids:
+        openalex: A5039007121
+        orcid: 0000-0002-8250-5760
+        zbmath: mckinnie.kelly
     venue: Manuscripta Mathematica
     pubinfo: 134 (2011), no. 1-2, 171--182
     year: 2011
@@ -1158,6 +2284,9 @@ sections:
     ids:
       arxiv: '1001.3685'
       mr: MR2745259
+      doi: 10.1007/s00229-010-0390-0
+      zbl: '1221.16016'
+      openalex: W2119787149
   - id: pub-field-patching-factorization-local
     title:
       tex: Field patching, factorization, and local-global principles
@@ -1167,6 +2296,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Quadratic forms, linear algebraic groups, and cohomology
     pubinfo: 57--82, Dev. Math., 18, Springer, New York, 2010
@@ -1175,6 +2312,9 @@ sections:
     ids:
       arxiv: '0909.3115'
       mr: MR2648720
+      doi: 10.1007/978-1-4419-6211-9_4
+      zbl: '1251.12007'
+      openalex: W1575186435
   - id: pub-corestrictions-algebras-splitting-fields
     title:
       tex: Corestrictions of algebras and splitting fields
@@ -1184,6 +2324,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Transactions of the American Mathematical Society
     pubinfo: 362 (2010), no. 9, 4781--4792
@@ -1192,6 +2340,9 @@ sections:
     ids:
       arxiv: '0704.3443'
       mr: MR2645050
+      doi: 10.1090/s0002-9947-10-04967-6
+      zbl: '1211.16015'
+      openalex: W2082008951
   - id: pub-zero-cycles-homogeneous-varieties
     title:
       tex: Zero cycles on homogeneous varieties
@@ -1201,6 +2352,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Advances in Mathematics
     pubinfo: 223 (2010), no. 6, 2022--2048
@@ -1209,6 +2368,9 @@ sections:
     ids:
       arxiv: math/0501399
       mr: MR2601007
+      doi: 10.1016/j.aim.2009.10.016
+      zbl: '1192.14034'
+      openalex: W2034193220
   - id: pub-applications-patching-quadratic-forms
     title:
       tex: Applications of patching to quadratic forms and central simple algebras
@@ -1218,30 +2380,61 @@ sections:
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
       me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
       me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
     venue: Inventiones Mathematicae
-    pubinfo: 178 (2010), no. 2, 231--263
+    pubinfo: 178 (2009), no. 2, 231--263
     year: 2009
     stage: published
     ids:
       arxiv: '0809.4481'
       mr: MR2545681
+      doi: 10.1007/s00222-009-0195-5
+      zbl: '1259.12003'
+      openalex: W2077359181
   - id: pub-pointed-trees-projective-spaces
     title:
       tex: Pointed trees of projective spaces.
@@ -1251,23 +2444,43 @@ sections:
       name: Linda Chen
       sort_name: Chen, Linda
       me: false
+      ids:
+        zbmath: chen.linda
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with:
     - id: chen
       name: Linda Chen
       sort_name: Chen, Linda
       me: false
+      ids:
+        zbmath: chen.linda
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
       me: false
+      ids:
+        openalex: A5055718307
+        orcid: 0000-0003-0208-4140
+        zbmath: gibney.angela
     venue: Journal of Algebraic Geometry
     pubinfo: 18 (2009), no. 3, 477--509
     year: 2009
@@ -1275,6 +2488,9 @@ sections:
     ids:
       arxiv: math/0505296
       mr: MR2496455
+      doi: 10.1090/s1056-3911-08-00494-3
+      zbl: '1171.14009'
+      openalex: W1995375598
   - id: pub-index-reduction-brauer-classes
     title:
       tex: Index reduction for Brauer classes via stable sheaves
@@ -1284,15 +2500,37 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     with:
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
       me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
     venue: International Mathematics Research Notices
     pubinfo: no. 8 (2008), Art. ID rnn010, 31 pp
     year: 2008
@@ -1300,6 +2538,9 @@ sections:
     ids:
       arxiv: '0706.1072'
       mr: MR2428144
+      doi: 10.1093/imrn/rnn010
+      zbl: '1146.14011'
+      openalex: W2019777538
   - id: pub-birational-maps-between-generalized
     title:
       tex: Birational maps between generalized Severi-Brauer varieties
@@ -1309,6 +2550,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Journal of Pure Applied Algebra
     pubinfo: 212 (2008), no. 4, 689--703
@@ -1317,6 +2566,9 @@ sections:
     ids:
       arxiv: math/0203117
       mr: MR2363485
+      doi: 10.1016/j.jpaa.2007.06.021
+      zbl: '1133.14014'
+      openalex: W2004380102
   - id: pub-motives-unitary-orthogonal-homogeneous
     title:
       tex: Motives of unitary and orthogonal homogeneous varieties
@@ -1326,6 +2578,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Journal of Algebra
     pubinfo: 318 (2007), no. 1, 135--139
@@ -1334,6 +2594,9 @@ sections:
     ids:
       arxiv: math/0603389
       mr: MR2363128
+      doi: 10.1016/j.jalgebra.2007.07.008
+      zbl: '1133.14049'
+      openalex: W2067651062
   - id: pub-severi-brauer-varieties-symmetric
     title:
       tex: Severi-Brauer varieties and symmetric powers
@@ -1343,21 +2606,44 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     - id: saltman
       name: David J. Saltman
       sort_name: Saltman, David J.
       me: false
+      ids:
+        openalex: A5081831464
+        zbmath: saltman.david-j
+        mr_author: '153620'
+        mgp: '7980'
+        wikidata: Q102156690
     with:
     - id: saltman
       name: David J. Saltman
       sort_name: Saltman, David J.
       me: false
+      ids:
+        openalex: A5081831464
+        zbmath: saltman.david-j
+        mr_author: '153620'
+        mgp: '7980'
+        wikidata: Q102156690
     venue: Algebraic transformation groups and algebraic varieties
     pubinfo: 59--70, Encyclopaedia Math. Sci., 132, Springer, Berlin, 2004
     year: 2004
     stage: published
     ids:
       mr: MR2090670
+      doi: 10.1007/978-3-662-05652-3_5
+      zbl: '1068.14016'
+      openalex: W647293687
   - id: pub-severi-brauer-varieties-semidirect
     title:
       tex: Severi-Brauer varieties of semidirect product algebras
@@ -1367,6 +2653,14 @@ sections:
       name: Daniel Krashen
       sort_name: Krashen, Daniel
       me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
     with: []
     venue: Documenta Mathematica
     pubinfo: 8 (2003), 527--546 (electronic)
@@ -1375,3 +2669,6 @@ sections:
     ids:
       arxiv: math/0206154
       mr: MR2029172
+      doi: 10.4171/dm/149
+      zbl: '1047.16011'
+      openalex: W2137540784

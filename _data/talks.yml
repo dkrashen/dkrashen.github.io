@@ -1,12 +1,10 @@
 # Talks, panels, lectures. Newest first. kind: talk | panel | lecture | conversation
 # `date` is YYYY-MM-DD (use -01 when only the month is known; set `approx: true`).
 
-- date: 2026-10-27
-  approx: true
+- date: 2026-10-29
   kind: panel
-  title: AI panel
-  venue: Penn AI Fellows program
-  note: details to add
+  title: AI and mathematics lunch panel
+  venue: Penn AI Fellows, University of Pennsylvania
 
 - date: 2026-09-14
   kind: talk
