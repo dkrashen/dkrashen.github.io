@@ -8,6 +8,9 @@ heading: talks & activity
   Three tabs, no JavaScript: a radio input per tab, and CSS shows the panel
   whose input is checked. Talks is the default.
 {%- endcomment -%}
+{%- include released.html items=site.data.talks -%}{%- assign talks = shown -%}
+{%- include released.html items=site.data.videos -%}{%- assign videos = shown -%}
+{%- include released.html items=site.data.activity -%}{%- assign activity = shown -%}
 <div class="tabs">
   <input type="radio" name="tab" id="tab-talks" checked>
   <input type="radio" name="tab" id="tab-videos">
@@ -20,21 +23,21 @@ heading: talks & activity
 
   <section class="tabs__panel" id="panel-talks">
     <ul class="entries entries--compact">
-      {% for t in site.data.talks %}{% include talk.html t=t %}{% endfor %}
+      {% for t in talks %}{% include talk.html t=t %}{% endfor %}
     </ul>
     <p class="entry__meta" style="margin-top:12px">older talks are in the <a href="/vita.pdf">CV</a>.</p>
   </section>
 
   <section class="tabs__panel" id="panel-videos">
     <div class="video-grid">
-      {% for v in site.data.videos %}{% include video-card.html v=v %}{% endfor %}
+      {% for v in videos %}{% include video-card.html v=v %}{% endfor %}
     </div>
     <p class="entry__links"><a href="https://www.youtube.com/user/{{ site.youtube_username }}/playlists">all on YouTube →</a></p>
   </section>
 
   <section class="tabs__panel" id="panel-organizing">
     <ul class="entries entries--compact">
-      {% for a in site.data.activity %}
+      {% for a in activity %}
       <li class="entry">
         <div class="entry__date">{{ a.when }}</div>
         <div>
