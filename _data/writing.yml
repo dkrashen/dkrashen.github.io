@@ -7,10 +7,17 @@
     - {label: essay, url: "https://lab.torsor.org/essays/torsorlab-ecosystem.pdf"}
     - {label: slides, url: "https://lab.torsor.org/essays/torsorlab-ecosystem-slides.pdf"}
 
-- date: 2026-11-01
-  kind: essays
-  title: AI and the evolving shape of mathematical research
-  released: false
+- date: 2026-11-04
+  kind: essay
+  title: AI and the evolving shape of mathematics
+  line: proof, interpretation, and uptake
+  url: /essays/shape-of-math.pdf
+
+- date: 2026-11-04
+  kind: essay
+  title: personal perspectives on the mathematical endeavor
+  line: understanding, language, and agency
+  url: /essays/personal-perspectives.pdf
 
 - date: 2020-12-01
   kind: Notices, early career
