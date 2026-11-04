@@ -1,0 +1,8 @@
+profile: talks
+title: Talks (dkrashen.org talks page)
+sections:
+  - key: talks
+    heading: Talks
+    select: {kind: presentation, since: 2021-01}
+    order: date desc
+    fields: [title, subkind, venue, location, when, url, ids]
