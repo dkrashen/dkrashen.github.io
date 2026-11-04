@@ -5,5 +5,6 @@ RECORD ?= ../mycv/record
 data:   ## regenerate _data/record/ from the record's current commit
 	metavita -p $(RECORD) check
 	metavita -p $(RECORD) view _record/profiles/publications.yaml -o _data/record/publications.yml
+	metavita -p $(RECORD) view _record/profiles/talks.yaml -o _data/record/talks.yml
 
 .PHONY: data

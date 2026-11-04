@@ -1,0 +1,284 @@
+view: talks
+title: Talks (dkrashen.org talks page)
+generated: '2026-11-04T11:27:31'
+as_of: '2026-11-04'
+record: 5dfff70
+sections:
+- key: talks
+  heading: Talks
+  kind: records
+  count: 28
+  items:
+  - id: talk-2026-algebraic-perspectives-modules
+    title:
+      tex: Algebraic perspectives on modules over vertex operator algebras
+      text: Algebraic perspectives on modules over vertex operator algebras
+    subkind: invited
+    venue: Conference on Algebra, K-theory and Applications, Honoring the Works of Hyman Bass and Charles Weibel, Rutgers University
+    location: New Brunswick, NJ
+    when:
+      start: '2026-05-13'
+      end: '2026-05-13'
+  - id: talk-2026-behind-cv-conversation
+    title:
+      tex: 'Behind the CV: A Conversation with Prof. Daniel Krashen'
+      text: 'Behind the CV: A Conversation with Prof. Daniel Krashen'
+    subkind: outreach
+    venue: CURF (Center for Undergraduate Research and Fellowships) 'Behind the CV' series, University of Pennsylvania
+    location: College Hall G08/09, Philadelphia, PA
+    when:
+      start: '2026-03-26'
+      end: '2026-03-26'
+  - id: talk-lefschetz-hyperplane-theorems-brauer
+    title:
+      tex: Lefschetz hyperplane theorems and Brauer classes
+      text: Lefschetz hyperplane theorems and Brauer classes
+    subkind: invited
+    venue: Banff International Research Station, Workshop 25w5323 - Arithmetic Geometry and Algebraic Groups, Banff, Canada
+    when:
+      start: '2025-09-30'
+      end: '2025-09-30'
+    url: https://www.birs.ca/events/2025/5-day-workshops/25w5323/schedule
+  - id: talk-complexity-algebraic-objects-fields
+    title:
+      tex: Complexity of algebraic objects over fields and the period-index problem
+      text: Complexity of algebraic objects over fields and the period-index problem
+    subkind: invited
+    venue: Invited address at the Summer Research Institute in Algebraic Geometry, Week 3, Fort Collins, CO
+    when:
+      start: '2025-07-29'
+      end: '2025-07-29'
+    url: https://sites.google.com/view/2025summerinstitute/home
+  - id: talk-some-algebraic-perspectives-conformal
+    title:
+      tex: Some algebraic perspectives on conformal field theory
+      text: Some algebraic perspectives on conformal field theory
+    subkind: invited
+    venue: University of Pittsburgh Colloquium
+    when:
+      start: '2024-11-01'
+      end: '2024-11-01'
+    url: https://www.mathematics.pitt.edu/content/some-algebraic-perspectives-conformal-field-theory
+  - id: talk-2024-field-arithmetic-complexity
+    title:
+      tex: Field arithmetic and the complexity of Galois cohomology
+      text: Field arithmetic and the complexity of Galois cohomology
+    subkind: mini-course
+    venue: IAS/Park City Mathematics Institute (PCMI) 2024 Graduate Summer School on Motivic Homotopy Theory
+    location: Park City, UT
+    when:
+      start: 2024-07
+      end: 2024-07
+  - id: talk-symbol-length-problem-brauer
+    title:
+      tex: The symbol length problem for Brauer groups and Galois cohomology
+      text: The symbol length problem for Brauer groups and Galois cohomology
+    subkind: invited
+    venue: Casa Matemática Oaxaca conference on Algebraic K-theory and Brauer Groups
+    when:
+      start: '2024-06-25'
+      end: '2024-06-25'
+    url: https://stats.birs.ca/events/2024/5-day-workshops/24w5309/schedule
+  - id: talk-explorations-world-vertex-operator
+    title:
+      tex: Explorations in the world of Vertex Operator Algebras
+      text: Explorations in the world of Vertex Operator Algebras
+    subkind: invited
+    venue: Oberlin College Colloquium
+    when:
+      start: '2024-02-09'
+      end: '2024-02-09'
+  - id: talk-geometry-field-arithmetic-3
+    title:
+      tex: The Geometry of Field Arithmetic
+      text: The Geometry of Field Arithmetic
+    subkind: invited
+    venue: University of Pennsylvania Graduate Visitation Day
+    when:
+      start: 2023
+      end: 2023
+  - id: talk-period-index-problems-complexity
+    title:
+      tex: Period-index problems and the complexity of Galois cohomology
+      text: Period-index problems and the complexity of Galois cohomology
+    subkind: invited
+    venue: University of Michigan Algebraic Geometry seminar
+    when:
+      start: '2023-11-03'
+      end: '2023-11-03'
+  - id: talk-brauertsch-fields
+    title:
+      tex: Brauertsch fields
+      text: Brauertsch fields
+    subkind: invited
+    venue: Specializations in Number Theory and Algebra, Technion, Israel
+    when:
+      start: 2023-06
+      end: 2023-06
+  - id: talk-period-index-problem-galois
+    title:
+      tex: The period-index problem for Galois cohomology over semiglobal fields
+      text: The period-index problem for Galois cohomology over semiglobal fields
+    subkind: invited
+    venue: AMS Spring Central Sectional Meeting, Special Session on Brauer Groups in Algebraic Geometry and Arithmetic
+    when:
+      start: '2023-04-15'
+      end: '2023-04-15'
+  - id: talk-geometry-field-arithmetic
+    title:
+      tex: The Geometry of Field Arithmetic
+      text: The Geometry of Field Arithmetic
+    subkind: invited
+    venue: Rice University Colloquium
+    when:
+      start: '2023-03-09'
+      end: '2023-03-09'
+  - id: talk-perspectives-local-global-principles
+    title:
+      tex: Perspectives on local-global principles for the Brauer group
+      text: Perspectives on local-global principles for the Brauer group
+    subkind: invited
+    venue: Rutgers Algebra Seminar
+    when:
+      start: '2023-03-01'
+      end: '2023-03-01'
+  - id: talk-geometry-field-arithmetic-2
+    title:
+      tex: The Geometry of Field Arithmetic
+      text: The Geometry of Field Arithmetic
+    subkind: invited
+    venue: Bryn Mawr Colloquium
+    when:
+      start: '2023-02-13'
+      end: '2023-02-13'
+  - id: talk-field-patching-algebraic-structures
+    title:
+      tex: Field patching and algebraic structures
+      text: Field patching and algebraic structures
+    subkind: invited
+    venue: Invited address at the Joint Mathematics Meetings (virtual)
+    location: online
+    when:
+      start: '2022-04-06'
+      end: '2022-04-06'
+    url: https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_invspeakers
+  - id: talk-2022-algebraic-cycles-indecomposable
+    title:
+      tex: Algebraic cycles and indecomposable algebras
+      text: Algebraic cycles and indecomposable algebras
+    subkind: research
+    venue: University of Pennsylvania Algebra Seminar
+    location: Philadelphia, PA (DRL 2C4)
+    when:
+      start: '2022-03-18'
+      end: '2022-03-18'
+  - id: talk-2021-can-you-hear
+    title:
+      tex: Can you hear the shape of a division algebra?
+      text: Can you hear the shape of a division algebra?
+    subkind: colloquium
+    venue: Dartmouth Mathematics Colloquium (2021 Lahr Lectures, second lecture), Dartmouth College
+    location: Hanover, NH
+    when:
+      start: '2021-11-17'
+      end: '2021-11-17'
+  - id: talk-professional-empathy
+    title:
+      tex: Professional empathy
+      text: Professional empathy
+    subkind: invited
+    venue: the 2021 Lahr Lecture at Dartmouth
+    when:
+      start: '2021-11-16'
+      end: '2021-11-16'
+    url: https://hopper.dartmouth.edu/activities/lahr-lectures/2021/Krashen.php
+  - id: talk-hearing-shape-division-algebras
+    title:
+      tex: Hearing the shape of division algebras
+      text: Hearing the shape of division algebras
+    subkind: research
+    venue: the Ohio State University Algebra Seminar
+    when:
+      start: '2021-11-08'
+      end: '2021-11-08'
+    url: https://math.osu.edu/events/hearing-shape-division-algebras
+  - id: talk-splitting-fields-central-simple
+    title:
+      tex: Splitting fields of central simple algebras
+      text: Splitting fields of central simple algebras
+    subkind: research
+    venue: Amitsur Centennial Symposium
+    when:
+      start: '2021-11-04'
+      end: '2021-11-04'
+    url: https://iias.huji.ac.il/event/amitsur
+  - id: talk-algebraic-structures-algebraic-structures
+    title:
+      tex: Algebraic structures and the algebraic structures on which they live
+      text: Algebraic structures and the algebraic structures on which they live
+    subkind: invited
+    venue: the 2021 Kitao Lecture at Swarthmore
+    when:
+      start: '2021-10-26'
+      end: '2021-10-26'
+    url: https://www.swarthmore.edu/mathematics-statistics/2021-2022-schedule
+  - id: talk-algebraic-structures-algebraic-structures-2
+    title:
+      tex: Algebraic structures and the algebraic structures on which they live
+      text: Algebraic structures and the algebraic structures on which they live
+    subkind: outreach
+    venue: the Rutgers Undergraduate Math Association
+    when:
+      start: '2021-10-20'
+      end: '2021-10-20'
+    url: https://ruma.rutgers.edu/
+  - id: talk-field-arithmetic-complexity-algebraic
+    title:
+      tex: Field arithmetic and the complexity of algebraic objects
+      text: Field arithmetic and the complexity of algebraic objects
+    subkind: research
+    venue: Minicourse as part of the PCMI Graduate Summer Session on Motivic Homotopy Theory
+    location: online
+    when:
+      start: '2021-07-12'
+      end: '2021-07-13'
+    url: https://www.ias.edu/pcmi/pcmi-2021-summer-session
+  - id: talk-2021-hearing-shapes-division
+    title:
+      tex: Hearing the shapes of division algebras
+      text: Hearing the shapes of division algebras
+    subkind: invited
+    venue: "Algebraic groups and algebraic geometry: in honor of Zinovy Reichstein's 60th birthday (online conference)"
+    location: online
+    when:
+      start: '2021-06-28'
+      end: '2021-06-28'
+  - id: talk-descriptions-algebraic-structures-fields
+    title:
+      tex: Descriptions of algebraic structures over fields
+      text: Descriptions of algebraic structures over fields
+    subkind: research
+    venue: University of Pennsylvania Colloquium
+    when:
+      start: '2021-04-07'
+      end: '2021-04-07'
+    url: https://www.math.upenn.edu/events/descriptions-algebraic-structures-over-fields
+  - id: talk-local-global-principles-algebraic
+    title:
+      tex: Local-global principles for algebraic structures at the crossroads of topology and rationality
+      text: Local-global principles for algebraic structures at the crossroads of topology and rationality
+    subkind: research
+    venue: University of Texas at Austin Colloquium
+    when:
+      start: '2021-01-27'
+      end: '2021-01-27'
+  - id: talk-local-global-principles-reductive
+    title:
+      tex: Local-global principles for reductive groups over semiglobal fields
+      text: Local-global principles for reductive groups over semiglobal fields
+    subkind: research
+    venue: Special Session on Galois Cohomology in Arithmetic Geometry, Virtual Joint Mathematics Meetings
+    when:
+      start: '2021-01-07'
+      end: '2021-01-07'
+    url: https://www.jointmathematicsmeetings.org//meetings/national/jmm2021/2247_program_ss59.html
