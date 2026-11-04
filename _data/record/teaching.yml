@@ -1,0 +1,319 @@
+view: teaching
+title: Teaching (dkrashen.org teaching page)
+generated: '2026-11-04T13:06:36'
+as_of: '2026-11-04'
+record: c17a67c
+sections:
+- key: penn
+  heading: at Penn
+  kind: records
+  count: 10
+  items:
+  - id: course-2026-fall-math-1610
+    title: Honors Calculus 1
+    number: MATH 1610
+    subkind: undergraduate
+    terms:
+    - 2026-fall
+    url: http://dkrashen.github.io/honors-calculus-1610/
+  - id: course-2026-spring-math-3120
+    title: Linear algebra
+    number: MATH 3120
+    subkind: undergraduate
+    terms:
+    - 2026-spring
+    url: http://dkrashen.github.io/lalg-spring26/
+  - id: course-2025-fall-math-7240
+    title: Linear algebraic groups over fields
+    number: MATH 7240
+    subkind: graduate
+    terms:
+    - 2025-fall
+    url: http://dkrashen.github.io/lag/
+  - id: course-2025-spring-math-6030
+    title: Graduate algebra 2
+    number: MATH 6030
+    subkind: graduate
+    terms:
+    - 2025-spring
+    url: http://dkrashen.github.io/alg2s25/
+  - id: course-2024-fall-math-6020
+    title: Graduate algebra 1
+    number: MATH 6020
+    subkind: graduate
+    terms:
+    - 2024-fall
+    url: http://dkrashen.github.io/alg1f24/
+  - id: course-2024-spring-math-7250
+    title: Division algebras
+    number: MATH 7250
+    subkind: graduate
+    terms:
+    - 2024-spring
+    url: http://dkrashen.github.io/divalg/
+  - id: course-2023-fall-math-1700
+    title: Ideas in Mathematics
+    number: MATH 1700
+    subkind: undergraduate
+    terms:
+    - 2023-fall
+    url: http://torsor.org/ideas_in_math/
+  - id: course-2023-spring-math-6250
+    title: 'Algebraic Geometry 2: The geometry of schemes'
+    number: MATH 6250
+    subkind: graduate
+    terms:
+    - 2023-spring
+    url: http://dkrashen.github.io/ag2/
+  - id: course-2022-fall-math-7020
+    title: 'Topics in Algebra: Algebraic K-Theory and Algebraic Cycles'
+    number: MATH 7020
+    subkind: graduate
+    terms:
+    - 2022-fall
+    url: http://dkrashen.github.io/kcycle/
+  - id: course-2022-fall-math-3610
+    title: Advanced Calculus 2
+    number: MATH 3610
+    subkind: undergraduate
+    terms:
+    - 2022-fall
+    url: http://dkrashen.github.io/advancedcalc2/
+- key: rutgers
+  heading: at Rutgers
+  kind: records
+  count: 9
+  items:
+  - id: course-2021-spring-math-536
+    title: Algebraic Geometry 2(½)
+    number: MATH 536
+    subkind: graduate
+    terms:
+    - 2021-spring
+    url: http://dkrashen.github.io/schemes/
+  - id: course-2020-fall-etale-cohomology
+    title: Étale cohomology reading seminar
+    subkind: seminar
+    terms:
+    - 2020-fall
+    url: http://dkrashen.github.io/etale/
+    description:
+      tex: Distributed reading seminar in étale cohomology.
+      text: Distributed reading seminar in étale cohomology.
+  - id: course-2020-fall-math-451
+    title: Abstract Algebra
+    number: MATH 451
+    subkind: undergraduate
+    terms:
+    - 2020-fall
+    url: http://dkrashen.github.io/abstractalgebra/
+  - id: course-2020-fall-math-481
+    title: Mathematical Statistics
+    number: MATH 481
+    subkind: undergraduate
+    terms:
+    - 2020-fall
+    url: http://dkrashen.github.io/mathstats/
+  - id: course-2020-spring-math-357
+    title: Topics in Applied Algebra
+    number: MATH 357
+    subkind: undergraduate
+    terms:
+    - 2020-spring
+    url: http://dkrashen.github.io/appliedalgebra/
+  - id: course-2020-spring-math-428
+    title: Graph Theory
+    number: MATH 428
+    subkind: undergraduate
+    terms:
+    - 2020-spring
+    url: http://dkrashen.github.io/graphtheory/
+  - id: course-2019-fall-math-551
+    title: Graduate Abstract Algebra I
+    number: MATH 551
+    subkind: graduate
+    terms:
+    - 2019-fall
+    url: http://dkrashen.github.io/algebra1/
+  - id: course-2019-spring-math-447
+    title: Mathematical Theory of Probability
+    number: MATH 447
+    subkind: undergraduate
+    terms:
+    - 2019-spring
+    url: http://dkrashen.github.io/probability/
+  - id: course-2018-fall-math-560
+    title: Homological Algebra
+    number: MATH 560
+    subkind: graduate
+    terms:
+    - 2018-fall
+    url: http://dkrashen.github.io/homological-algebra/
+- key: uga
+  heading: at Georgia
+  kind: records
+  count: 25
+  items:
+  - id: course-2018-spring-math-8850
+    title: Computational Mathematics VRG
+    number: MATH 8850
+    subkind: graduate
+    terms:
+    - 2018-spring
+    url: http://compvrg.github.io/compvrg-spring-2018/
+  - id: course-2017-spring-math-8430
+    title: Field Arithmetic
+    number: MATH 8430
+    subkind: graduate
+    terms:
+    - 2017-spring
+    url: http://dkrashen.github.io/fa/
+  - id: course-2017-spring-math-2250
+    title: Calculus I - two sections
+    number: MATH 2250
+    subkind: undergraduate
+    terms:
+    - 2017-spring
+    url: http://dkrashen.github.io/calc1/
+  - id: course-2016-fall-math-4670
+    title: Combinatorics
+    number: MATH 4670/6670
+    subkind: undergraduate
+    terms:
+    - 2016-fall
+    url: http://dkrashen.github.io/combinatorics/
+  - id: course-2016-spring-math-cs
+    title: Graph Theory
+    number: MATH/CS 4690/6690
+    subkind: undergraduate
+    terms:
+    - 2016-spring
+    url: http://dkrashen.github.io/graphtheory-2016/
+  - id: course-2015-fall-math-2250
+    title: Calculus I - two sections
+    number: MATH 2250
+    subkind: undergraduate
+    terms:
+    - 2015-fall
+    url: http://dkrashen.github.io/calc1/
+  - id: course-2015-spring-math-8330
+    title: Central Simple Algebras
+    number: MATH 8330
+    subkind: graduate
+    terms:
+    - 2015-spring
+    url: http://dkrashen.github.io/csa/
+    description:
+      tex: An introduction to the theory of finite dimensional division algebras, the Brauer group, involutions and other things.
+      text: An introduction to the theory of finite dimensional division algebras, the Brauer group, involutions and other things.
+  - id: course-2014-fall-math-8330
+    title: Algebraic Stacks
+    number: MATH 8330
+    subkind: graduate
+    terms:
+    - 2014-fall
+    url: http://dkrashen.github.io/stacks/
+    description:
+      tex: An introductory course in the theory of Descent, Algebraic Spaces and Algebraic Stacks.
+      text: An introductory course in the theory of Descent, Algebraic Spaces and Algebraic Stacks.
+  - id: course-2014-fall-math-2260
+    title: Calculus II
+    number: MATH 2260 - two sections
+    subkind: undergraduate
+    terms:
+    - 2014-fall
+    url: http://dkrashen.github.io/calc2/
+  - id: course-2014-spring-math-2260
+    title: Calculus II
+    number: MATH 2260
+    subkind: undergraduate
+    terms:
+    - 2014-spring
+  - id: course-2014-spring-math-cs
+    title: Graph Theory
+    number: MATH/CS 4690/6690
+    subkind: undergraduate
+    terms:
+    - 2014-spring
+  - id: course-2013-fall-math-2250
+    title: Calculus I
+    number: MATH 2250
+    subkind: undergraduate
+    terms:
+    - 2013-fall
+  - id: course-2013-fall-math-8315
+    title: 'Algebraic Geometry: Cohomology'
+    number: MATH 8315
+    subkind: graduate
+    terms:
+    - 2013-fall
+  - id: course-2013-summer-reading-course
+    title: Reading course on Etale Cohomology (McFaddin, Varghese)
+    subkind: graduate
+    terms:
+    - 2013-summer
+  - id: course-2012-fall-math-4670
+    title: Combinatorics
+    number: MATH 4670/6670
+    subkind: undergraduate
+    terms:
+    - 2012-fall
+  - id: course-2012-fall-math-2250
+    title: Calculus I
+    number: MATH 2250
+    subkind: undergraduate
+    terms:
+    - 2012-fall
+  - id: course-2011-summer-reading-course
+    title: Reading course on Algebraic Geometry (McFaddin)
+    subkind: graduate
+    terms:
+    - 2011-summer
+  - id: course-2011-spring-quadratic-forms
+    title: Quadratic Forms
+    number: MATH 8030
+    subkind: graduate
+    terms:
+    - 2011-spring
+  - id: course-2011-spring-math-2250
+    title: Calculus I
+    number: MATH 2250
+    subkind: undergraduate
+    terms:
+    - 2011-spring
+  - id: course-2010-fall-math-8000
+    title: Graduate Algebra
+    number: MATH 8000
+    subkind: graduate
+    terms:
+    - 2010-fall
+  - id: course-2010-summer-math-8900
+    title: Spectral Sequences
+    number: MATH 8900
+    subkind: graduate
+    terms:
+    - 2010-summer
+  - id: course-2010-spring-math-4690
+    title: Graph Theory
+    number: MATH 4690/6690
+    subkind: undergraduate
+    terms:
+    - 2010-spring
+  - id: course-2009-fall-math-2200
+    title: Calculus (2 sections)
+    number: MATH 2200
+    subkind: undergraduate
+    terms:
+    - 2009-fall
+  - id: course-2009-spring-math-8310
+    title: 'Algebraic Geometry: Schemes'
+    number: MATH 8310
+    subkind: graduate
+    terms:
+    - 2009-spring
+  - id: course-2008-fall-math-3000
+    title: Linear Algebra
+    number: MATH 3000
+    subkind: undergraduate
+    terms:
+    - 2008-fall

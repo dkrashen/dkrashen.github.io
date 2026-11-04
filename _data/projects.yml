@@ -47,6 +47,7 @@
 
 - title: phantoms
   strand: math
+  released: false
   line: "(your 3–5 words)"
   with: Kemboi, Liu, Liu, Mackall, Makarova, Perry, Robotis and Venkatesh
   status: published
@@ -57,6 +58,7 @@
 
 - title: patching and field arithmetic
   strand: math
+  released: false
   line: local-global principles via patching
   with: David Harbater, Julia Hartmann and others
   status: ongoing

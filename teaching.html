@@ -3,19 +3,28 @@ layout: default
 title: teaching
 eyebrow: teaching
 heading: teaching
+lede: courses at Penn and before
 ---
-{% assign groups = "courses-upenn|at Penn,courses-rutgers|earlier, at Rutgers,courses-uga|earlier, at UGA" | split: "," %}
-{% for g in groups %}{% assign parts = g | split: "|" %}
-<h2>{{ parts[1] }}</h2>
-<ul class="entries">
-  {% for c in site.data[parts[0]] %}
+{%- comment -%}
+  From the CV record (_data/record/teaching.yml, profile teaching).
+  Reading courses are left out, since their titles can name students.
+{%- endcomment -%}
+<p class="entry__links"><a href="/talks/#tab-videos">lecture videos →</a></p>
+{% for s in site.data.record.teaching.sections %}
+{%- assign courses = s.items -%}
+{% if courses.size > 0 %}
+<h2>{{ s.heading }}</h2>
+<ul class="entries entries--compact">
+  {% for c in courses %}{% unless c.title contains "Reading course" %}
+  {%- assign term = c.terms.first | split: "-" -%}
   <li class="entry">
-    <div class="entry__date">{{ c.semester }}</div>
+    <div class="entry__date">{{ term[1] | capitalize }} {{ term[0] }}</div>
     <div>
       <div class="entry__title">{% if c.url %}<a href="{{ c.url }}">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}</div>
-      {% if c.schedule or c.description %}<div class="entry__meta">{% if c.schedule %}{{ c.schedule }}, {{ c.location }}{% endif %}{% if c.description %} {{ c.description }}{% endif %}</div>{% endif %}
+      {% if c.number %}<div class="entry__meta">{{ c.number }}</div>{% endif %}
     </div>
   </li>
-  {% endfor %}
+  {% endunless %}{% endfor %}
 </ul>
+{% endif %}
 {% endfor %}

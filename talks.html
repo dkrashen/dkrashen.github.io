@@ -50,3 +50,8 @@ katex: true
     </ul>
   </section>
 </div>
+<script>
+  // a link to /talks/#tab-videos (or #tab-organizing) opens that tab
+  (function () { var t = location.hash && document.getElementById(location.hash.slice(1));
+    if (t && t.type === "radio") t.checked = true; })();
+</script>

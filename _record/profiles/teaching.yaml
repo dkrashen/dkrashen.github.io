@@ -1,0 +1,19 @@
+profile: teaching
+title: Teaching (dkrashen.org teaching page)
+# Reading courses are left out: their titles can name students.
+sections:
+  - key: penn
+    heading: at Penn
+    select: {kind: course, institution: university-pennsylvania, subkind: [graduate, undergraduate, seminar]}
+    order: date desc
+    fields: [title, number, subkind, terms, url, description]
+  - key: rutgers
+    heading: at Rutgers
+    select: {kind: course, institution: rutgers-university, subkind: [graduate, undergraduate, seminar]}
+    order: date desc
+    fields: [title, number, subkind, terms, url, description]
+  - key: uga
+    heading: at Georgia
+    select: {kind: course, institution: university-georgia, subkind: [graduate, undergraduate, seminar]}
+    order: date desc
+    fields: [title, number, subkind, terms, url, description]
