@@ -1,0 +1,48 @@
+---
+layout: default
+title: talks & activity
+eyebrow: talks & activity
+heading: talks & activity
+---
+{%- comment -%}
+  Three tabs, no JavaScript: a radio input per tab, and CSS shows the panel
+  whose input is checked. Talks is the default.
+{%- endcomment -%}
+<div class="tabs">
+  <input type="radio" name="tab" id="tab-talks" checked>
+  <input type="radio" name="tab" id="tab-videos">
+  <input type="radio" name="tab" id="tab-organizing">
+  <div class="tabs__bar" role="tablist">
+    <label for="tab-talks">talks</label>
+    <label for="tab-videos">videos</label>
+    <label for="tab-organizing">organizing</label>
+  </div>
+
+  <section class="tabs__panel" id="panel-talks">
+    <ul class="entries entries--compact">
+      {% for t in site.data.talks %}{% include talk.html t=t %}{% endfor %}
+    </ul>
+    <p class="entry__meta" style="margin-top:12px">older talks are in the <a href="/vita.pdf">CV</a>.</p>
+  </section>
+
+  <section class="tabs__panel" id="panel-videos">
+    <div class="video-grid">
+      {% for v in site.data.videos %}{% include video-card.html v=v %}{% endfor %}
+    </div>
+    <p class="entry__links"><a href="https://www.youtube.com/user/{{ site.youtube_username }}/playlists">all on YouTube →</a></p>
+  </section>
+
+  <section class="tabs__panel" id="panel-organizing">
+    <ul class="entries entries--compact">
+      {% for a in site.data.activity %}
+      <li class="entry">
+        <div class="entry__date">{{ a.when }}</div>
+        <div>
+          <div class="entry__title">{% if a.url %}<a href="{{ a.url }}">{{ a.title }}</a>{% else %}{{ a.title }}{% endif %}</div>
+          <div class="entry__meta">{{ a.role }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>

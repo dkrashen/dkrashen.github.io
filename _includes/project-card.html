@@ -1,0 +1,7 @@
+{%- assign p = include.p -%}
+<article class="card">
+  <h3>{{ p.title }}<span class="chip{% if p.status == 'active' or p.status == 'ongoing' %} chip--teal{% endif %}">{{ p.status }}</span>{% if p.released == false %}<span class="chip chip--preview">preview only</span>{% endif %}</h3>
+  <p>{{ p.line }}</p>
+  {% if p.with %}<p class="entry__meta">with {{ p.with }}</p>{% endif %}
+  {% if p.links %}<div class="entry__links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }} →</a>{% endfor %}</div>{% endif %}
+</article>

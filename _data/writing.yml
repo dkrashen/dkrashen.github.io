@@ -1,0 +1,26 @@
+# Essays, opinion, and slides. Newest first. `released: false` = preview only.
+- date: 2026-11-01
+  kind: essays
+  title: AI and the evolving shape of mathematical research
+  released: false
+
+- date: 2020-12-01
+  kind: Notices, early career
+  title: organize a laid-back conference in the Rocky Mountains that participants want to return to year after year
+  line: with Kelly McKinnie
+  url: https://www.ams.org/journals/notices/202011/rnoti-p1746.pdf
+
+- date: 2020-10-01
+  kind: Notices, opinion
+  title: open algorithms, social justice, and predictive policing
+  url: /resources/open_algorithms_social_justice.pdf
+
+- date: 2013-01-01
+  kind: slides
+  title: grant writing
+  url: /resources/grant_writing_2013.pdf
+
+- date: 2013-01-01
+  kind: slides
+  title: mathematical writing
+  url: /resources/math-writing.pdf

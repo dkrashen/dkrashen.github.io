@@ -1,0 +1,8 @@
+{%- assign t = include.t -%}
+<li class="entry">
+  <div class="entry__date">{% if t.approx %}{{ t.date | date: "%b %Y" }}{% else %}{{ t.date | date: "%-d %b %Y" }}{% endif %}</div>
+  <div>
+    <div class="entry__title">{% if t.url %}<a href="{{ t.url }}">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}{% if t.kind != "talk" %}<span class="chip chip--teal">{{ t.kind }}</span>{% endif %}</div>
+    <div class="entry__meta">{{ t.venue }}{% if t.note %} · <em>{{ t.note }}</em>{% endif %}</div>
+  </div>
+</li>

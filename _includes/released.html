@@ -1,0 +1,6 @@
+{%- comment -%} Filter include.items to what this build may show; sets `shown`. {%- endcomment -%}
+{%- if site.show_unreleased -%}
+  {%- assign shown = include.items -%}
+{%- else -%}
+  {%- assign shown = include.items | where_exp: "i", "i.released != false" -%}
+{%- endif -%}

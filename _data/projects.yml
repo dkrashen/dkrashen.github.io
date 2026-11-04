@@ -1,0 +1,65 @@
+# One entry per project. `released: false` shows only in the tailnet preview
+# (site.show_unreleased), never on the live site.
+#   status: active | in preparation | published | ongoing
+#   links: list of {label, url}
+
+- title: theorem evolution graphs
+  strand: ai-math
+  line: theorem lineages for conjecture generation
+  with: Hita Kambhamettu and Lyle Ungar
+  status: published
+  date: 2026-10-03
+  links:
+    - label: NeurIPS 2026 MATH-AI workshop
+      url: https://openreview.net/forum?id=1hGZrRNkyA
+
+- title: torsorlab
+  strand: tools
+  line: tools for agentic mathematics
+  status: active
+  links:
+    - label: lab.torsor.org
+      url: https://lab.torsor.org
+
+- title: failing on purpose
+  strand: ai-education
+  line: simulated students, blind-graded exams
+  status: in preparation
+  released: false
+
+- title: AI and language
+  strand: ai-language
+  line: (title and line to come)
+  status: in preparation
+  released: false
+
+- title: the design of design
+  strand: systems
+  line: a book on design methods
+  status: in preparation
+  released: false
+
+- title: news analysis
+  strand: media
+  line: mapping coverage and provenance
+  status: active
+  released: false
+
+- title: phantoms
+  strand: math
+  line: "(your 3–5 words)"
+  with: Kemboi, Liu, Liu, Mackall, Makarova, Perry, Robotis and Venkatesh
+  status: published
+  date: 2025-11-07
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2511.05381
+
+- title: patching and field arithmetic
+  strand: math
+  line: local-global principles via patching
+  with: David Harbater, Julia Hartmann and others
+  status: ongoing
+  links:
+    - label: papers
+      url: /research/

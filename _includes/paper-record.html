@@ -1,0 +1,10 @@
+{%- comment -%} One publication from a metavita view (_data/record/publications.yml). {%- endcomment -%}
+{%- assign p = include.p -%}
+<li class="entry">
+  <div class="entry__date">{{ p.year }}</div>
+  <div>
+    <div class="entry__title">{% if p.title.tex contains "$" %}<span class="tex" data-tex="{{ p.title.tex | escape }}">{{ p.title.text }}</span>{% else %}{{ p.title.text }}{% endif %}{% if p.stage == "accepted" %}<span class="chip">to appear</span>{% elsif p.stage == "submitted" %}<span class="chip">submitted</span>{% endif %}</div>
+    <div class="entry__meta">{% if p.with.size > 0 %}with {{ p.with | map: "name" | array_to_sentence_string }}{% endif %}{% if p.venue %}{% if p.with.size > 0 %} · {% endif %}{{ p.venue }}{% if p.pubinfo %}, {{ p.pubinfo }}{% endif %}{% endif %}</div>
+    <div class="entry__links">{% if p.ids.arxiv %}<a href="https://arxiv.org/abs/{{ p.ids.arxiv }}">arXiv</a>{% endif %}{% if p.ids.doi %}<a href="https://doi.org/{{ p.ids.doi }}">DOI</a>{% endif %}{% if p.ids.mr %}<a href="https://mathscinet.ams.org/mathscinet-getitem?mr={{ p.ids.mr }}">MathSciNet</a>{% endif %}{% if p.file %}<a href="/resources/{{ p.file }}">pdf</a>{% endif %}</div>
+  </div>
+</li>

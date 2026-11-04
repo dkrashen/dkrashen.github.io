@@ -1,0 +1,17 @@
+# YouTube playlists (channel: youtube.com/user/dkrashen), read 2026-11-02.
+#   kind: course   a complete course, every lecture (otherwise just a playlist)
+# An entry may use `parts: [{title, id}]` instead of `id` for one card that
+# holds several playlists.
+- {title: mathematical statistics, kind: course, count: 38, id: PLwRA8zj9nt3iBYQzT-byR_n5CpmfnuQ5n}
+- {title: calculus 1, id: PLeuA9wEY8lW8}
+- {title: graph theory, id: PLwRA8zj9nt3gylAyX7cTIfexurIdGVp04}
+- {title: group theory, id: PLwRA8zj9nt3jcRJidikPFwVxv0My60spT}
+- {title: probability, id: PLwRA8zj9nt3iJUvPwxQmu_ZFintP-3AHh}
+- {title: wavelets, id: PLwRA8zj9nt3iU5T4BmlqgL3Q33bsox3Vp}
+- {title: combinatorics, id: PLwRA8zj9nt3gU4FemhOu95tnV5KhV_zpA}
+- {title: Galois descent, id: PLwRA8zj9nt3jSyLtYOv0EowYLBfMUAHRF}
+- {title: stacks, id: PLwRA8zj9nt3i2kRfSUmLkPT8z5qxqHw-W}
+- {title: "algebraic geometry 2.5: schemes", id: PLwRA8zj9nt3h1k8R74fPyjFiblaj_sgOe}
+- {title: Jordan algebras, id: PLwRA8zj9nt3h3ox5xayXDUGAhpujB2f69}
+- {title: derived categories and motives, id: PLwRA8zj9nt3illskWmsDifYOV8jzSnN2H}
+- {title: math snippets, id: PLwRA8zj9nt3i6ugFeiyOVu-vtR62Dki3X}

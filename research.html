@@ -1,87 +1,28 @@
 ---
 layout: default
-title: research
-tag: "Using shapes to understand the arithmetic of algebraic structures."
+title: mathematics
+eyebrow: mathematics
+heading: mathematics
+lede: algebra and arithmetic geometry
+katex: true
 ---
+<p class="entry__meta"><em>(the two paragraphs below are the current site's text, from several years ago; due for a rewrite)</em></p>
+<div class="two-col">
+  <div>
+    <h3>field patching</h3>
+    <p>Field patching is a technique for working with algebraic structures over fields of transcendence degree 1 over complete discretely valued fields, such as <b>Q</b><sub>p</sub>(t). With David Harbater and Julia Hartmann, I have been developing this theory to answer questions about division algebras, quadratic forms, Galois cohomology and torsors for linear algebraic groups over such fields. These techniques also give rise to a number of new local-global principles for algebraic structures over these fields.</p>
+  </div>
+  <div>
+    <h3>the complexity of algebraic structures</h3>
+    <p>Algebraic structures such as central simple algebras and quadratic forms give rise to important arithmetic invariants of a field, such as its Brauer dimension and its <i>u</i>-invariant. These invariants are related to each other as well as to the field's Diophantine dimension, cohomological dimension, and symbol length bounds for Galois cohomology. Many fundamental problems in field arithmetic involve understanding these invariants and their relationships, and there are many more invariants defined via algebra and algebraic geometry which promise to hold rich and subtle information about field arithmetic.</p>
+  </div>
+</div>
+<p class="entry__links"><a href="/research.pdf">research statement</a><a href="https://arxiv.org/a/krashen_d_1">all preprints on arXiv</a><a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=728218">MathSciNet</a></p>
 
-<div class="row well">
-	<div class="col-md-6">
-	<ul class="nav nav-pills">
-		<li><a id="manuscript_clicker">manuscripts</a></li>
-  </ul>
-    <br />
-		<p><b>Field patching</b> is a technique for working with algebraic
-		structures over fields of transcendence degree 1 over complete
-		discretely valued fields, such as <b>Q</b><sub>p</sub>(t).  Over
-		the past few years, I have been working with David Harbater and
-		Julia Hartmann on developing this theory in order to answer
-		questions about division algebras, quadratic forms, Galois
-		cohomology and torsors for linear algebraic groups over such
-		fields. These techniques also give rise to a number of new
-		local-global principles for algebraic structures over these
-		fields.</p>
-	</div><!--/col-->
-	<div class="col-md-6">
-	<ul class="nav nav-pills">
-    <li>
-      <a href="{{ "/research.pdf" | prepend: site.baseurl}}"
-        >research statement</a>
-    </li>
-  </ul>
-  <br />
-		<p><b>The complexity of algebraic structures and its relation to
-		field arithmetic</b> has been major theme in my recent research.
-		Algebraic structures such as central simple algebras and quadratic
-		forms give rise to a number of important arithmetic invariants of a
-		field, such as its Brauer dimension and its <i>u</i>-invariant.
-		These invariants are related to each other as well as to the
-		field's Diophantine dimension, cohomological dimension, and symbol
-		length bounds for Galois cohomology. Many fundmental problems in
-		field arithmetic involve understanding these invariants and their
-		relationship to each other, and there are many more invariants
-		defined via algebra and algebraic geometry which promise to hold
-		very rich and subtle information about field arithmetic.</p>
-	</div><!--/col-->
-</div><!--/row-->
-
-<div class="row well">
-<div class="col-md-12">
-<h2 id="manuscripts"> Preprints </h2>
-<br/>
-<br/>
-{% for p in site.data.publications.publications %}
-{% if p.status == "preprint" %}
-{% include pub.html p=p %}
-{% endif %}
+{%- comment -%} Generated from the CV record by `make data`; never edit _data/record by hand. {%- endcomment -%}
+{% for sec in site.data.record.publications.sections %}
+<h2>{% if sec.key == "preprints" %}preprints{% else %}publications{% endif %}</h2>
+<ul class="entries">
+{% for p in sec.items %}{% include paper-record.html p=p %}{% endfor %}
+</ul>
 {% endfor %}
-</div>
-</div>
-
-<div class="row well">
-<div class="col-md-12">
-<h2 id="manuscripts"> Research Publications </h2>
-<br/>
-<br/>
-{% for p in site.data.publications.publications %}
-{% if p.status == "publication" and p.type == "research" %}
-{% include pub.html p=p %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-
-
-<div class="row well">
-	<div class="col-md-12">
-	<ul>
-		<li>
-		<a href="http://arxiv.org/a/krashen_d_1"
-		>All preprints on the arXiv</a>
-		</li>
-		<li>
-		<a
-		href="http://www.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=728218"
-		>All publications on MathSciNet</a> (subscription required)
-		</li>
-	</div><!--/col-->
-</div><!--/row-->

@@ -1,0 +1,53 @@
+# Talks, panels, lectures. Newest first. kind: talk | panel | lecture | conversation
+# `date` is YYYY-MM-DD (use -01 when only the month is known; set `approx: true`).
+
+- date: 2026-10-27
+  approx: true
+  kind: panel
+  title: AI panel
+  venue: Penn AI Fellows program
+  note: details to add
+
+- date: 2026-09-14
+  kind: talk
+  title: some approaches to agentic AI in mathematical research, reading and writing
+  venue: algebra and algebraic geometry seminar, University of British Columbia
+  url: https://www.math.ubc.ca/events/sep-12-2026-some-approaches-agentic-ai-mathematical-research-reading-and-writing
+
+- date: 2026-03-26
+  kind: conversation
+  title: "behind the CV: a conversation with Prof. Daniel Krashen"
+  venue: Penn Center for Undergraduate Research and Fellowships
+
+- date: 2023-11-08
+  kind: talk
+  title: period-index problems and the complexity of Galois cohomology
+  venue: algebraic geometry seminar, University of Michigan
+
+- date: 2023-03-01
+  approx: true
+  kind: talk
+  title: the geometry of field arithmetic
+  venue: Bi-College mathematics colloquium, Bryn Mawr and Haverford
+
+- date: 2022-03-18
+  kind: talk
+  title: algebraic cycles and indecomposable algebras
+  venue: algebra seminar, University of Pennsylvania
+
+- date: 2021-11-16
+  kind: lecture
+  title: professional empathy
+  venue: C. Dwight Lahr Lecture, Dartmouth College
+  url: https://math.dartmouth.edu/activities/lahr-lectures/2021/2021-11-16-Krashen.pdf
+
+- date: 2021-07-12
+  kind: lecture
+  title: field arithmetic and complexity of algebraic structures (I and II)
+  venue: IAS summer program
+  url: https://mathinstitutes.org/videos/17940
+
+- date: 2021-04-07
+  kind: talk
+  title: descriptions of algebraic structures over fields
+  venue: mathematics colloquium, University of Pennsylvania

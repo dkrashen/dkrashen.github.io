@@ -23,3 +23,10 @@ soundcloud_username: dkrashen
 markdown: kramdown
 permalink: pretty
 analytics: "true"
+
+# Items marked `released: false` in _data show only when this is true
+# (the tailnet preview sets it; the live site never does).
+show_unreleased: false
+
+exclude:
+  - Makefile

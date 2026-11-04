@@ -1,0 +1,12 @@
+---
+layout: default
+title: writing
+eyebrow: writing
+heading: writing
+unreleased: true
+lede: essays, slides
+---
+{%- include released.html items=site.data.writing -%}
+<div class="cards cards--three">
+  {% for w in shown %}{% include writing-item.html w=w %}{% endfor %}
+</div>

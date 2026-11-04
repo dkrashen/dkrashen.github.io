@@ -1,0 +1,22 @@
+---
+layout: default
+title: projects
+eyebrow: projects
+heading: projects
+unreleased: true
+lede: work beyond the single paper
+---
+{%- include released.html items=site.data.projects -%}
+{%- assign projects = shown -%}
+<ul class="strand-index">
+  {% for s in site.data.strands %}{% assign n = projects | where: "strand", s.key | size %}{% if n > 0 %}<li><a href="#{{ s.key }}">{{ s.title }}</a></li>{% endif %}{% endfor %}
+</ul>
+{% for s in site.data.strands %}
+  {%- assign ps = projects | where: "strand", s.key -%}
+  {% if ps.size > 0 %}
+  <section class="strand" id="{{ s.key }}">
+    <div class="strand__head"><h2>{{ s.title }}</h2><p>{{ s.blurb }}</p></div>
+    <div class="cards">{% for p in ps %}{% include project-card.html p=p %}{% endfor %}</div>
+  </section>
+  {% endif %}
+{% endfor %}

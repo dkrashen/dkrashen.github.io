@@ -1,0 +1,14 @@
+{%- assign v = include.v -%}
+{%- capture foot -%}{% if v.kind == 'course' %}full course · {{ v.count }} lectures{% else %}playlist{% endif %}{%- endcapture -%}
+{%- if v.parts -%}
+<div class="video video--{{ v.kind | default: 'playlist' }}">
+  <span class="video__title">{{ v.title }}</span>
+  <span class="video__parts">{% for p in v.parts %}<a href="https://www.youtube.com/playlist?list={{ p.id }}">{{ p.title }}</a>{% endfor %}</span>
+  <span class="video__count">{{ foot }}</span>
+</div>
+{%- else -%}
+<a class="video video--{{ v.kind | default: 'playlist' }}" href="https://www.youtube.com/playlist?list={{ v.id }}">
+  <span class="video__title">{{ v.title }}</span>
+  <span class="video__count">{{ foot }}</span>
+</a>
+{%- endif -%}

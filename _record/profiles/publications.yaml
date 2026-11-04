@@ -1,0 +1,14 @@
+profile: publications
+title: Publications (dkrashen.org research page)
+defaults: {authors: full}
+sections:
+  - key: preprints
+    heading: Preprints
+    select: {kind: publication, subkind: research paper, stage: [preprint, submitted]}
+    order: date desc
+    fields: [title, authors, with, venue, pubinfo, year, stage, ids, file]
+  - key: publications
+    heading: Research Publications
+    select: {kind: publication, subkind: research paper, stage: [accepted, published]}
+    order: date desc
+    fields: [title, authors, with, venue, pubinfo, year, stage, ids, file]

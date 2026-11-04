@@ -1,60 +1,65 @@
 ---
-layout: bare
-
-navlinks:
-    -
-        name: "research"
-        imgurl: "images/research.png"
-        url: "research/"
-    -
-        name: "teaching"
-        imgurl: "images/teaching.png"
-        url: "teaching/"
-    -
-        name: "computation"
-        imgurl: "images/computation.png"
-        url: "http://github.com/dkrashen/"
-    -
-        name: "mathematical videos"
-        imgurl: "images/videos.png"
-        url: "https://www.youtube.com/user/dkrashen/playlists"
-
-
+layout: default
+unreleased: true
+tiles:
+  - name: mathematics
+    url: /research/
+    img: /images/research.png
+    line: algebra and arithmetic geometry
+  - name: projects
+    url: /projects/
+    line: AI, education, language, systems
+  - name: writing
+    url: /writing/
+    line: essays on AI and mathematics
+  - name: talks & activity
+    url: /talks/
+    img: /images/videos.png
+    line: talks, videos, organizing
+  - name: teaching
+    url: /teaching/
+    img: /images/teaching.png
+    line: courses at Penn and before
+  - name: tools
+    url: https://lab.torsor.org
+    img: /images/computation.png
+    external: true
+    line: code at torsorlab
 ---
-<div class="container" id="topmatter">
-    <div class="row" id="header-row">
-        <div class="col-md-3 col-sm-3 hidden-xs">
-            {% include maxpic.html %}
-        </div>
-        <div class="col-md-5 col-xs-8 col-sm-5">
-            <h1 > <a href="/">{{ site.headertext }}</a> </h1>
-              <h4>{{ site.tagline }}</h4>
-        </div>
-        <div class="col-md-3 col-xs-3 col-sm-3">
-            <div class="float-right;">
-            <p id="about"> <a href="about/">about</a> </p>
-            </div>
-        </div>
-    </div> <!-- /row -->
-</div> <!-- /container -->
-
-<div class="container" id="gallery">
-    <div class="row">
-        {% for navlink in page.navlinks %}
-        <div class="col-lg-3 col-md-4 col-xs-6 col-sm-4">
-            {% include gallery_item.html name=navlink.name imgurl=navlink.imgurl url=navlink.url %}
-        </div>
-        {% endfor %}
-    </div> <!-- /row -->
-</div> <!-- /container -->
-
-
-<section class="container" id="current-work" aria-labelledby="current-work-title">
-    <div class="current-work-inner">
-        <h2 id="current-work-title">Elsewhere</h2>
-        <a class="current-work-link" href="https://lab.torsor.org">
-            <span class="current-work-name">torsorlab <span aria-hidden="true">↗</span></span>
-            <span class="current-work-description">Agentic AI and its mathematical applications</span>
-        </a>
-    </div>
+<section class="intro">
+  <img class="intro__photo" src="/images/maxpicofme.jpg" alt="Danny Krashen" title="photograph courtesy of max gerber">
+  <div>
+    <h1>Danny Krashen</h1>
+    <p class="intro__motto">interesting diagrams don't have to commute</p>
+    <p class="lede">mathematician at Penn; algebra, arithmetic geometry, and AI. <em>(draft)</em></p>
+  </div>
 </section>
+
+
+<nav class="tiles" aria-label="sections">
+  {% for t in page.tiles %}
+  <a class="tile{% if t.external %} tile--external{% endif %}" href="{{ t.url }}">
+    {% if t.img %}<div class="tile__art"><img src="{{ t.img }}" alt=""></div>{% else %}<div class="tile__art tile__art--empty">drawing to come</div>{% endif %}
+    <h2>{{ t.name }}</h2>
+    <p>{{ t.line }}</p>
+  </a>
+  {% endfor %}
+</nav>
+
+{%- assign dated_projects = site.data.projects | where_exp: "p", "p.date" -%}
+{%- assign all = site.data.talks | concat: site.data.writing | concat: dated_projects -%}
+{%- include released.html items=all -%}
+{%- assign recent = shown | sort: "date" | reverse -%}
+<h2>recently</h2>
+<ul class="entries">
+  {% for r in recent limit: 5 %}
+  {%- assign href = r.url | default: r.links.first.url -%}
+  <li class="entry">
+    <div class="entry__date">{{ r.date | date: "%b %Y" }}</div>
+    <div>
+      <div class="entry__title">{% if href %}<a href="{{ href }}">{{ r.title }}</a>{% else %}{{ r.title }}{% endif %}{% if r.released == false %}<span class="chip chip--preview">preview only</span>{% endif %}</div>
+      <div class="entry__meta">{% if r.venue %}{{ r.kind }} · {{ r.venue }}{% elsif r.strand %}project · {{ r.line }}{% else %}{{ r.kind }}{% endif %}</div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

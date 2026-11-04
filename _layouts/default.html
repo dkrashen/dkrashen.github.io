@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html>
-
-	{% include head.html %}
-	<body>
-  <div class="container">
-		{% include header.html %}
-		{{ content }}
-  </div><!--/container-->
-	</body>
+<html lang="en">
+  {% include site-head.html %}
+  <body>
+    {% include site-header.html %}
+    <main class="frame page">
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      {% if page.heading %}<h1>{{ page.heading }}</h1>{% endif %}
+      {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+      {% include preview-note.html %}
+      {{ content }}
+    </main>
+    {% include site-footer.html %}
+  </body>
 </html>

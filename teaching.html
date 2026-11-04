@@ -1,46 +1,21 @@
 ---
 layout: default
 title: teaching
+eyebrow: teaching
+heading: teaching
 ---
-
-<div class="navigation" active_link="teaching_link">
-</div>
-
-
-{% if site.data.seminars %}
-<div class="row well well-sm">
-	<div class="col-md-12">
-		<h3> Seminars </h3>
-  			{% for s in site.data.seminars %}
-				{% include course.html c=s %}
-  			{% endfor %}
-	</div>
-</div>
-{% endif %}
-
-<div class="row well well-sm">
-	<div class="col-md-12">
-		<h3> Courses at UPenn </h3>
-  			{% for c in site.data.courses-upenn %}
-				{% include course.html c=c %}
-  			{% endfor %}
-	</div>
-</div>
-
-
-<div class="row well well-sm">
-	<div class="col-md-12">
-		<h3> Prior courses at Rutgers </h3>
-  			{% for c in site.data.courses-rutgers %}
-				{% include course.html c=c %}
-  			{% endfor %}
-	</div>
-</div>
-<div class="row well well-sm">
-	<div class="col-md-12">
-		<h3> Prior courses at UGA </h3>
-  			{% for c in site.data.courses-uga %}
-				{% include course.html c=c %}
-  			{% endfor %}
-	</div>
-</div>
+{% assign groups = "courses-upenn|at Penn,courses-rutgers|earlier, at Rutgers,courses-uga|earlier, at UGA" | split: "," %}
+{% for g in groups %}{% assign parts = g | split: "|" %}
+<h2>{{ parts[1] }}</h2>
+<ul class="entries">
+  {% for c in site.data[parts[0]] %}
+  <li class="entry">
+    <div class="entry__date">{{ c.semester }}</div>
+    <div>
+      <div class="entry__title">{% if c.url %}<a href="{{ c.url }}">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}</div>
+      {% if c.schedule or c.description %}<div class="entry__meta">{% if c.schedule %}{{ c.schedule }}, {{ c.location }}{% endif %}{% if c.description %} {{ c.description }}{% endif %}</div>{% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

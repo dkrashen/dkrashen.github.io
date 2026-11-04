@@ -1,0 +1,22 @@
+# The lines of work the projects page is grouped by. Order here is page order.
+- key: ai-math
+  title: AI and mathematical research
+  blurb: agents finding and checking mathematics
+- key: ai-education
+  title: AI and education
+  blurb: learning and assessment
+- key: ai-language
+  title: AI and language
+  blurb: models and linguistics
+- key: systems
+  title: complex systems and design
+  blurb: how design methods evolve
+- key: tools
+  title: tools
+  blurb: software for agentic mathematics
+- key: media
+  title: news and media
+  blurb: tracing news to sources
+- key: math
+  title: mathematics
+  blurb: beyond the standard paper

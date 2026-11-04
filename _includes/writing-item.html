@@ -1,0 +1,6 @@
+{%- assign w = include.w -%}
+{%- if w.url -%}<a class="card card--link" href="{{ w.url }}">{%- else -%}<article class="card">{%- endif -%}
+  <p class="eyebrow eyebrow--violet">{{ w.kind }} · {{ w.date | date: "%Y" }}</p>
+  <h3>{{ w.title }}{% if w.released == false %}<span class="chip chip--preview">preview only</span>{% endif %}</h3>
+  {% if w.line %}<p class="entry__meta">{{ w.line }}</p>{% endif %}
+{%- if w.url -%}</a>{%- else -%}</article>{%- endif -%}

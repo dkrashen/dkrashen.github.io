@@ -1,0 +1,1377 @@
+view: publications
+title: Publications (dkrashen.org research page)
+generated: '2026-11-03T19:03:03'
+as_of: '2026-11-03'
+record: ff91977
+sections:
+- key: preprints
+  heading: Preprints
+  kind: records
+  count: 9
+  items:
+  - id: pub-looming-phantoms
+    title:
+      tex: A Looming of phantoms
+      text: A Looming of phantoms
+    authors:
+    - id: kemboi
+      name: Kimoi Kemboi
+      sort_name: Kemboi, Kimoi
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: liu-t
+      name: Tianle Liu
+      sort_name: Liu, Tianle
+      me: false
+    - id: liu-y
+      name: Yeqin Liu
+      sort_name: Liu, Yeqin
+      me: false
+    - id: mackall
+      name: Eoin Mackall
+      sort_name: Mackall, Eoin
+      me: false
+    - id: makarova
+      name: Svetlana Makarova
+      sort_name: Makarova, Svetlana
+      me: false
+    - id: perry
+      name: Alexander Perry
+      sort_name: Perry, Alexander
+      me: false
+    - id: robotis
+      name: Antonios-Alexandros Robotis
+      sort_name: Robotis, Antonios-Alexandros
+      me: false
+    - id: venkatesh
+      name: Sridhar Venkatesh
+      sort_name: Venkatesh, Sridhar
+      me: false
+    with:
+    - id: kemboi
+      name: Kimoi Kemboi
+      sort_name: Kemboi, Kimoi
+      me: false
+    - id: liu-t
+      name: Tianle Liu
+      sort_name: Liu, Tianle
+      me: false
+    - id: liu-y
+      name: Yeqin Liu
+      sort_name: Liu, Yeqin
+      me: false
+    - id: mackall
+      name: Eoin Mackall
+      sort_name: Mackall, Eoin
+      me: false
+    - id: makarova
+      name: Svetlana Makarova
+      sort_name: Makarova, Svetlana
+      me: false
+    - id: perry
+      name: Alexander Perry
+      sort_name: Perry, Alexander
+      me: false
+    - id: robotis
+      name: Antonios-Alexandros Robotis
+      sort_name: Robotis, Antonios-Alexandros
+      me: false
+    - id: venkatesh
+      name: Sridhar Venkatesh
+      sort_name: Venkatesh, Sridhar
+      me: false
+    year: 2025
+    stage: preprint
+    ids:
+      arxiv: '2511.05381'
+  - id: pub-rational-connectedness-parametrization-finite
+    title:
+      tex: On rational connectedness and parametrization of finite Galois extensions
+      text: On rational connectedness and parametrization of finite Galois extensions
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: neftin
+      name: Danny Neftin
+      sort_name: Neftin, Danny
+      me: false
+    with:
+    - id: neftin
+      name: Danny Neftin
+      sort_name: Neftin, Danny
+      me: false
+    year: 2025
+    stage: preprint
+    ids:
+      arxiv: '2502.15674'
+  - id: pub-finiteness-formal-pushforwards
+    title:
+      tex: Finiteness of formal pushforwards
+      text: Finiteness of formal pushforwards
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    year: 2025
+    stage: preprint
+    ids:
+      arxiv: '2502.01504'
+  - id: pub-classes-lower-exponent
+    title:
+      tex: Classes in $H^{n+1}_{p^m}(F)$ of lower exponent
+      text: Classes in H^(n+1)_(p^m)(F) of lower exponent
+    authors:
+    - id: chapman
+      name: Adam Chapman
+      sort_name: Chapman, Adam
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: mckinnie
+      name: Kelly McKinnie
+      sort_name: McKinnie, Kelly
+      me: false
+    with:
+    - id: chapman
+      name: Adam Chapman
+      sort_name: Chapman, Adam
+      me: false
+    - id: mckinnie
+      name: Kelly McKinnie
+      sort_name: McKinnie, Kelly
+      me: false
+    year: 2024
+    stage: preprint
+    ids:
+      arxiv: '2409.16447'
+  - id: pub-morita-equivalences-zhus-associative
+    title:
+      tex: Morita equivalences for Zhu's associative algebra and mode transition algebras
+      text: Morita equivalences for Zhu's associative algebra and mode transition algebras
+    authors:
+    - id: damiolini
+      name: Chiara Damiolini
+      sort_name: Damiolini, Chiara
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: damiolini
+      name: Chiara Damiolini
+      sort_name: Damiolini, Chiara
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    year: 2024
+    stage: preprint
+    ids:
+      arxiv: '2403.11855'
+  - id: pub-brauertsch-fields
+    title:
+      tex: Brauertsch fields
+      text: Brauertsch fields
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    - id: shin-m
+      name: Minseon Shin
+      sort_name: Shin, Minseon
+      me: false
+    with:
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    - id: shin-m
+      name: Minseon Shin
+      sort_name: Shin, Minseon
+      me: false
+    year: 2023
+    stage: preprint
+    ids:
+      arxiv: '2305.06464'
+  - id: pub-tannakian-approach-patching
+    title:
+      tex: A Tannakian approach to patching
+      text: A Tannakian approach to patching
+    authors:
+    - id: haase
+      name: Bastian Haase
+      sort_name: Haase, Bastian
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    with:
+    - id: haase
+      name: Bastian Haase
+      sort_name: Haase, Bastian
+      me: false
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    year: 2020
+    stage: preprint
+    ids:
+      arxiv: '2004.11933'
+  - id: pub-schubert-cycles-subvarieties-generalized
+    title:
+      tex: Schubert cycles and subvarieties of generalized Severi-Brauer varieties
+      text: Schubert cycles and subvarieties of generalized Severi-Brauer varieties
+    authors:
+    - id: junkins
+      name: Caroline Junkins
+      sort_name: Junkins, Caroline
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lemire
+      name: Nicole Lemire
+      sort_name: Lemire, Nicole
+      me: false
+    with:
+    - id: junkins
+      name: Caroline Junkins
+      sort_name: Junkins, Caroline
+      me: false
+    - id: lemire
+      name: Nicole Lemire
+      sort_name: Lemire, Nicole
+      me: false
+    year: 2017
+    stage: preprint
+    ids:
+      arxiv: '1704.08687'
+  - id: pub-clifford-algebra-finite-morphism
+    title:
+      tex: The Clifford algebra of a finite morphism
+      text: The Clifford algebra of a finite morphism
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    with:
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    year: 2015
+    stage: preprint
+    ids:
+      arxiv: '1509.07195'
+- key: publications
+  heading: Research Publications
+  kind: records
+  count: 33
+  items:
+  - id: pub-conformal-blocks-smoothings-mode
+    title:
+      tex: Conformal blocks on smoothings via mode transition algebras
+      text: Conformal blocks on smoothings via mode transition algebras
+    authors:
+    - id: damiolini
+      name: Chiara Damiolini
+      sort_name: Damiolini, Chiara
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: damiolini
+      name: Chiara Damiolini
+      sort_name: Damiolini, Chiara
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    venue: Communications in Mathematical Physics
+    year: 2024
+    stage: accepted
+    ids:
+      arxiv: '2307.03767'
+  - id: pub-transcendental-splitting-fields-division
+    title:
+      tex: Transcendental splitting fields of division algebras
+      text: Transcendental splitting fields of division algebras
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    with:
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    venue: Contemporary Mathematics
+    pubinfo: Vol. 800 (2024)
+    year: 2024
+    stage: published
+    ids:
+      arxiv: '2203.15951'
+  - id: pub-factorization-presentations
+    title:
+      tex: Factorization Presentations
+      text: Factorization Presentations
+    authors:
+    - id: damiolini
+      name: Chiara Damiolini
+      sort_name: Damiolini, Chiara
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: damiolini
+      name: Chiara Damiolini
+      sort_name: Damiolini, Chiara
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    venue: Higher dimensional algebraic geometry -- a volume in honor of V. V. Shokurov. London Math. Soc. Lecture Note Ser.
+    pubinfo: Vol. 489 (2025), 163-191
+    year: 2023
+    stage: published
+    ids:
+      arxiv: '2207.05110'
+    file: Factorization_Resolution.pdf
+  - id: pub-bounding-cohomology-classes-semiglobal
+    title:
+      tex: Bounding cohomology classes over semiglobal fields
+      text: Bounding cohomology classes over semiglobal fields
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: Israel Journal of Mathematics
+    pubinfo: Vol. 257 (2023), 353-387
+    year: 2023
+    stage: published
+    ids: {}
+  - id: pub-local-global-principles-constant
+    title:
+      tex: Local-Global Principles for Constant Reductive Groups over Semi-Global Fields
+      text: Local-Global Principles for Constant Reductive Groups over Semi-Global Fields
+    authors:
+    - id: colliot-thelene
+      name: Jean-Louis Colliot-Thélène
+      sort_name: Colliot-Thélène, Jean-Louis
+      me: false
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    with:
+    - id: colliot-thelene
+      name: Jean-Louis Colliot-Thélène
+      sort_name: Colliot-Thélène, Jean-Louis
+      me: false
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    venue: Michigan Math. Journal.
+    pubinfo: Vol. 72 (2022), 77-144
+    year: 2022
+    stage: published
+    ids: {}
+  - id: pub-division-algebras-common-subfields
+    title:
+      tex: Division algebras with common subfields
+      text: Division algebras with common subfields
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: matzri
+      name: Eliyahu Matzri
+      sort_name: Matzri, Eliyahu
+      me: false
+    - id: rapinchuk
+      name: Andre Rapinchuk
+      sort_name: Rapinchuk, Andre
+      me: false
+    - id: rowen
+      name: Louis Rowen
+      sort_name: Rowen, Louis
+      me: false
+    - id: saltman
+      name: David J. Saltman
+      sort_name: Saltman, David J.
+      me: false
+    with:
+    - id: matzri
+      name: Eliyahu Matzri
+      sort_name: Matzri, Eliyahu
+      me: false
+    - id: rapinchuk
+      name: Andre Rapinchuk
+      sort_name: Rapinchuk, Andre
+      me: false
+    - id: rowen
+      name: Louis Rowen
+      sort_name: Rowen, Louis
+      me: false
+    - id: saltman
+      name: David J. Saltman
+      sort_name: Saltman, David J.
+      me: false
+    venue: Manuscripta Math.
+    pubinfo: Vol. 169 (2022), no.1-2, 209–249.
+    year: 2021
+    stage: published
+    ids: {}
+  - id: pub-local-global-principles-curves
+    title:
+      tex: Local-Global Principles for Curves over Semi-Global Fields
+      text: Local-Global Principles for Curves over Semi-Global Fields
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: pirutka
+      name: Alena Pirutka
+      sort_name: Pirutka, Alena
+      me: false
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: pirutka
+      name: Alena Pirutka
+      sort_name: Pirutka, Alena
+      me: false
+    venue: Bulletin of the London Mathematical Society
+    pubinfo: 53 (1), Feb. 2021, 177--193
+    year: 2020
+    stage: published
+    ids:
+      arxiv: '2001.05429'
+  - id: pub-local-global-principles-tori
+    title:
+      tex: Local-Global Principles for Tori over Arithmetic Curves
+      text: Local-Global Principles for Tori over Arithmetic Curves
+    authors:
+    - id: colliot-thelene
+      name: Jean-Louis Colliot-Thélène
+      sort_name: Colliot-Thélène, Jean-Louis
+      me: false
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    with:
+    - id: colliot-thelene
+      name: Jean-Louis Colliot-Thélène
+      sort_name: Colliot-Thélène, Jean-Louis
+      me: false
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    venue: Algebraic Geometry
+    pubinfo: 7 (5) (2020) 607--633
+    year: 2020
+    stage: published
+    ids:
+      arxiv: '1906.10672'
+      doi: 10.14231/AG-2020-022
+  - id: pub-multiparty-non-interactive-key
+    title:
+      tex: Multiparty Non-Interactive Key Exchange and More From Isogenies on Elliptic Curves
+      text: Multiparty Non-Interactive Key Exchange and More From Isogenies on Elliptic Curves
+    authors:
+    - id: boneh
+      name: Dan Boneh
+      sort_name: Boneh, Dan
+      me: false
+    - id: glass
+      name: Darren Glass
+      sort_name: Glass, Darren
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lauter
+      name: Kristin Lauter
+      sort_name: Lauter, Kristin
+      me: false
+    - id: sharif
+      name: Shahed Sharif
+      sort_name: Sharif, Shahed
+      me: false
+    - id: silverberg
+      name: Alice Silverberg
+      sort_name: Silverberg, Alice
+      me: false
+    - id: tibouchi
+      name: Mehdi Tibouchi
+      sort_name: Tibouchi, Mehdi
+      me: false
+    - id: zhandry
+      name: Mark Zhandry
+      sort_name: Zhandry, Mark
+      me: false
+    with:
+    - id: boneh
+      name: Dan Boneh
+      sort_name: Boneh, Dan
+      me: false
+    - id: glass
+      name: Darren Glass
+      sort_name: Glass, Darren
+      me: false
+    - id: lauter
+      name: Kristin Lauter
+      sort_name: Lauter, Kristin
+      me: false
+    - id: sharif
+      name: Shahed Sharif
+      sort_name: Sharif, Shahed
+      me: false
+    - id: silverberg
+      name: Alice Silverberg
+      sort_name: Silverberg, Alice
+      me: false
+    - id: tibouchi
+      name: Mehdi Tibouchi
+      sort_name: Tibouchi, Mehdi
+      me: false
+    - id: zhandry
+      name: Mark Zhandry
+      sort_name: Zhandry, Mark
+      me: false
+    venue: Journal of Mathematical Cryptology
+    pubinfo: Vol. 14, no. 1 (2020)
+    year: 2020
+    stage: published
+    ids:
+      arxiv: '1807.03038'
+      doi: 10.1515/jmc-2015-0047
+      mr: MR4113747
+  - id: pub-local-global-principles-zero
+    title:
+      tex: Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields
+      text: Local-Global Principles for Zero-Cycles on Homogeneous Spaces over Arithmetic Function Fields
+    authors:
+    - id: colliot-thelene
+      name: Jean-Louis Colliot-Thélène
+      sort_name: Colliot-Thélène, Jean-Louis
+      me: false
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    with:
+    - id: colliot-thelene
+      name: Jean-Louis Colliot-Thélène
+      sort_name: Colliot-Thélène, Jean-Louis
+      me: false
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    venue: Transactions of the American Mathematical Society
+    pubinfo: 372 (2019), no. 8, 5263--5286
+    year: 2019
+    stage: published
+    ids:
+      arxiv: '1710.03173'
+  - id: pub-period-index-bounds-arithmetic
+    title:
+      tex: Period-index bounds for arithmetic threefolds
+      text: Period-index bounds for arithmetic threefolds
+    authors:
+    - id: antieau
+      name: Benjamin Antieau
+      sort_name: Antieau, Benjamin
+      me: false
+    - id: auel
+      name: Asher Auel
+      sort_name: Auel, Asher
+      me: false
+    - id: ingalls
+      name: Colin Ingalls
+      sort_name: Ingalls, Colin
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    with:
+    - id: antieau
+      name: Benjamin Antieau
+      sort_name: Antieau, Benjamin
+      me: false
+    - id: auel
+      name: Asher Auel
+      sort_name: Auel, Asher
+      me: false
+    - id: ingalls
+      name: Colin Ingalls
+      sort_name: Ingalls, Colin
+      me: false
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    venue: Inventiones Mathematicae
+    pubinfo: 216 (2019), no. 2, 301-335
+    year: 2019
+    stage: published
+    ids:
+      arxiv: '1704.05489'
+  - id: pub-local-global-galois-theory
+    title:
+      tex: Local-global Galois theory of arithmetic function fields
+      text: Local-global Galois theory of arithmetic function fields
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+    venue: Israel Journal of Mathematics
+    pubinfo: vol. 232, no. 2 (2019), 849-882
+    year: 2019
+    stage: published
+    ids:
+      arxiv: '1710.03635'
+      doi: 10.1007/s11856-019-1889-z
+  - id: pub-derived-categories-torsors-abelian
+    title:
+      tex: Derived categories for torsors for Abelian schemes
+      text: Derived categories for torsors for Abelian schemes
+    authors:
+    - id: antieau
+      name: Benjamin Antieau
+      sort_name: Antieau, Benjamin
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: ward
+      name: Matthew Ward
+      sort_name: Ward, Matthew
+      me: false
+    with:
+    - id: antieau
+      name: Benjamin Antieau
+      sort_name: Antieau, Benjamin
+      me: false
+    - id: ward
+      name: Matthew Ward
+      sort_name: Ward, Matthew
+      me: false
+    venue: Advances in Mathematics
+    pubinfo: 306 (2017), 1-23
+    year: 2017
+    stage: published
+    ids:
+      arxiv: '1409.2580'
+  - id: pub-period-index-symbol-lengths
+    title:
+      tex: Period and index, symbol lengths, and generic splittings in Galois cohomology
+      text: Period and index, symbol lengths, and generic splittings in Galois cohomology
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Bulletin of the London Mathematical Society
+    pubinfo: 48 (2016), no. 6, 985-1000
+    year: 2016
+    stage: published
+    ids:
+      arxiv: '1305.5217'
+  - id: pub-local-global-principles-torsors
+    title:
+      tex: Local-global principles for torsors over arithmetic curves
+      text: Local-global principles for torsors over arithmetic curves
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: American Journal of Mathematics
+    pubinfo: 137 (2015), no. 6, 1559--1612
+    year: 2015
+    stage: published
+    ids:
+      arxiv: '1108.3323'
+      mr: MR3432268
+  - id: pub-diophantine-cohomological-dimensions
+    title:
+      tex: Diophantine and cohomological dimensions
+      text: Diophantine and cohomological dimensions
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: matzri
+      name: Eliyahu Matzri
+      sort_name: Matzri, Eliyahu
+      me: false
+    with:
+    - id: matzri
+      name: Eliyahu Matzri
+      sort_name: Matzri, Eliyahu
+      me: false
+    venue: Proceedings of the AMS
+    pubinfo: 143 (2015), no. 7, 2779--2788
+    year: 2015
+    stage: published
+    ids:
+      arxiv: '1305.5295'
+      mr: MR3336603
+  - id: pub-refinements-patching-applications-field
+    title:
+      tex: Refinements to patching and applications to field invariants
+      text: Refinements to patching and applications to field invariants
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: International Math. Research Notices
+    pubinfo: 'doi: 10.1093/imrn/rnu278 (2015)'
+    year: 2015
+    stage: published
+    ids:
+      arxiv: '1404.4349'
+      mr: MR3455871
+  - id: pub-local-global-principles-galois
+    title:
+      tex: Local-global principles for Galois cohomology
+      text: Local-global principles for Galois cohomology
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: Commentarii Mathematici Helvetici
+    pubinfo: 89 (2014), no. 1, 215--253
+    year: 2014
+    stage: published
+    ids:
+      arxiv: '1208.6359'
+      mr: MR3177913
+  - id: pub-weierstrass-preparation-algebraic-invariants
+    title:
+      tex: Weierstrass preparation and algebraic invariants
+      text: Weierstrass preparation and algebraic invariants
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: Mathematische Annalen
+    pubinfo: 356 (2013), no. 4, 1405--1424
+    year: 2013
+    stage: published
+    ids:
+      arxiv: '1109.6362'
+      mr: MR3072806
+  - id: pub-relative-brauer-groups-genus
+    title:
+      tex: Relative Brauer groups of genus 1 curves
+      text: Relative Brauer groups of genus 1 curves
+    authors:
+    - id: ciperiani
+      name: Mirela Ciperiani
+      sort_name: Ciperiani, Mirela
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: ciperiani
+      name: Mirela Ciperiani
+      sort_name: Ciperiani, Mirela
+      me: false
+    venue: Israel Journal of Mathematics
+    pubinfo: 192 (2012), no. 2, 921--949
+    year: 2012
+    stage: published
+    ids:
+      arxiv: math/0701614
+      mr: MR3009747
+  - id: pub-appendix-period-index-brauer
+    title:
+      tex: 'Appendix to: Period and index in the Brauer group of an arithmetic surface'
+      text: 'Appendix to: Period and index in the Brauer group of an arithmetic surface'
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Journal für die reine und angewandte Mathematik
+    pubinfo: 659 (2011), 1--41
+    year: 2011
+    stage: published
+    ids:
+      arxiv: math/0702240
+      mr: MR2837009
+  - id: pub-patching-subfields-division-algebras
+    title:
+      tex: Patching subfields of division algebras
+      text: Patching subfields of division algebras
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: Transactions of the American Mathematical Society
+    pubinfo: 363 (2011), no. 6, 3335--3349
+    year: 2011
+    stage: published
+    ids:
+      arxiv: '0904.1594'
+      mr: MR2775810
+  - id: pub-distinguishing-division-algebras-finite
+    title:
+      tex: Distinguishing division algebras by finite splitting fields
+      text: Distinguishing division algebras by finite splitting fields
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: mckinnie
+      name: Kelly McKinnie
+      sort_name: McKinnie, Kelly
+      me: false
+    with:
+    - id: mckinnie
+      name: Kelly McKinnie
+      sort_name: McKinnie, Kelly
+      me: false
+    venue: Manuscripta Mathematica
+    pubinfo: 134 (2011), no. 1-2, 171--182
+    year: 2011
+    stage: published
+    ids:
+      arxiv: '1001.3685'
+      mr: MR2745259
+  - id: pub-field-patching-factorization-local
+    title:
+      tex: Field patching, factorization, and local-global principles
+      text: Field patching, factorization, and local-global principles
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Quadratic forms, linear algebraic groups, and cohomology
+    pubinfo: 57--82, Dev. Math., 18, Springer, New York, 2010
+    year: 2010
+    stage: published
+    ids:
+      arxiv: '0909.3115'
+      mr: MR2648720
+  - id: pub-corestrictions-algebras-splitting-fields
+    title:
+      tex: Corestrictions of algebras and splitting fields
+      text: Corestrictions of algebras and splitting fields
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Transactions of the American Mathematical Society
+    pubinfo: 362 (2010), no. 9, 4781--4792
+    year: 2010
+    stage: published
+    ids:
+      arxiv: '0704.3443'
+      mr: MR2645050
+  - id: pub-zero-cycles-homogeneous-varieties
+    title:
+      tex: Zero cycles on homogeneous varieties
+      text: Zero cycles on homogeneous varieties
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Advances in Mathematics
+    pubinfo: 223 (2010), no. 6, 2022--2048
+    year: 2010
+    stage: published
+    ids:
+      arxiv: math/0501399
+      mr: MR2601007
+  - id: pub-applications-patching-quadratic-forms
+    title:
+      tex: Applications of patching to quadratic forms and central simple algebras
+      text: Applications of patching to quadratic forms and central simple algebras
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+    venue: Inventiones Mathematicae
+    pubinfo: 178 (2010), no. 2, 231--263
+    year: 2009
+    stage: published
+    ids:
+      arxiv: '0809.4481'
+      mr: MR2545681
+  - id: pub-pointed-trees-projective-spaces
+    title:
+      tex: Pointed trees of projective spaces.
+      text: Pointed trees of projective spaces.
+    authors:
+    - id: chen
+      name: Linda Chen
+      sort_name: Chen, Linda
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with:
+    - id: chen
+      name: Linda Chen
+      sort_name: Chen, Linda
+      me: false
+    - id: gibney
+      name: Angela Gibney
+      sort_name: Gibney, Angela
+      me: false
+    venue: Journal of Algebraic Geometry
+    pubinfo: 18 (2009), no. 3, 477--509
+    year: 2009
+    stage: published
+    ids:
+      arxiv: math/0505296
+      mr: MR2496455
+  - id: pub-index-reduction-brauer-classes
+    title:
+      tex: Index reduction for Brauer classes via stable sheaves
+      text: Index reduction for Brauer classes via stable sheaves
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    with:
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+    venue: International Mathematics Research Notices
+    pubinfo: no. 8 (2008), Art. ID rnn010, 31 pp
+    year: 2008
+    stage: published
+    ids:
+      arxiv: '0706.1072'
+      mr: MR2428144
+  - id: pub-birational-maps-between-generalized
+    title:
+      tex: Birational maps between generalized Severi-Brauer varieties
+      text: Birational maps between generalized Severi-Brauer varieties
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Journal of Pure Applied Algebra
+    pubinfo: 212 (2008), no. 4, 689--703
+    year: 2008
+    stage: published
+    ids:
+      arxiv: math/0203117
+      mr: MR2363485
+  - id: pub-motives-unitary-orthogonal-homogeneous
+    title:
+      tex: Motives of unitary and orthogonal homogeneous varieties
+      text: Motives of unitary and orthogonal homogeneous varieties
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Journal of Algebra
+    pubinfo: 318 (2007), no. 1, 135--139
+    year: 2007
+    stage: published
+    ids:
+      arxiv: math/0603389
+      mr: MR2363128
+  - id: pub-severi-brauer-varieties-symmetric
+    title:
+      tex: Severi-Brauer varieties and symmetric powers
+      text: Severi-Brauer varieties and symmetric powers
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    - id: saltman
+      name: David J. Saltman
+      sort_name: Saltman, David J.
+      me: false
+    with:
+    - id: saltman
+      name: David J. Saltman
+      sort_name: Saltman, David J.
+      me: false
+    venue: Algebraic transformation groups and algebraic varieties
+    pubinfo: 59--70, Encyclopaedia Math. Sci., 132, Springer, Berlin, 2004
+    year: 2004
+    stage: published
+    ids:
+      mr: MR2090670
+  - id: pub-severi-brauer-varieties-semidirect
+    title:
+      tex: Severi-Brauer varieties of semidirect product algebras
+      text: Severi-Brauer varieties of semidirect product algebras
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+    with: []
+    venue: Documenta Mathematica
+    pubinfo: 8 (2003), 527--546 (electronic)
+    year: 2003
+    stage: published
+    ids:
+      arxiv: math/0206154
+      mr: MR2029172
