@@ -1,8 +1,8 @@
 view: publications
 title: Publications (dkrashen.org research page)
-generated: '2026-11-04T11:27:28'
+generated: '2026-11-04T11:28:52'
 as_of: '2026-11-04'
-record: 5dfff70
+record: ce37d4a
 sections:
 - key: preprints
   heading: Preprints
@@ -34,6 +34,7 @@ sections:
         mr_author: '911705'
         mgp: '157197'
         wikidata: Q102388676
+      affiliation: Technion – Israel Institute of Technology
     with:
     - id: neftin
       name: Danny Neftin
@@ -43,6 +44,7 @@ sections:
         mr_author: '911705'
         mgp: '157197'
         wikidata: Q102388676
+      affiliation: Technion – Israel Institute of Technology
     year: 2025
     stage: preprint
     ids:
@@ -62,6 +64,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -70,6 +73,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -93,6 +97,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -101,6 +106,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     year: 2025
     stage: preprint
     ids:
@@ -118,6 +124,7 @@ sections:
         openalex: A5071009087
         orcid: 0000-0003-4102-4212
         zbmath: damiolini.chiara
+      affiliation: University of Texas at Austin
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
@@ -126,6 +133,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -147,6 +155,7 @@ sections:
         openalex: A5071009087
         orcid: 0000-0003-4102-4212
         zbmath: damiolini.chiara
+      affiliation: University of Texas at Austin
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
@@ -155,6 +164,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     year: 2024
     stage: preprint
     ids:
@@ -187,6 +197,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     - id: shin-m
       name: Minseon Shin
       sort_name: Shin, Minseon
@@ -194,6 +205,7 @@ sections:
       ids:
         mgp: '250817'
         wikidata: Q103178359
+      affiliation: University of Washington
     with:
     - id: lieblich
       name: Max Lieblich
@@ -206,6 +218,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     - id: shin-m
       name: Minseon Shin
       sort_name: Shin, Minseon
@@ -213,6 +226,7 @@ sections:
       ids:
         mgp: '250817'
         wikidata: Q103178359
+      affiliation: University of Washington
     year: 2023
     stage: preprint
     ids:
@@ -251,6 +265,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     with:
     - id: haase
       name: Bastian Haase
@@ -269,6 +284,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     year: 2020
     stage: preprint
     ids:
@@ -306,6 +322,7 @@ sections:
         mr_author: '669455'
         mgp: '44759'
         wikidata: Q102201101
+      affiliation: Western University
     with:
     - id: junkins
       name: Caroline Junkins
@@ -323,6 +340,7 @@ sections:
         mr_author: '669455'
         mgp: '44759'
         wikidata: Q102201101
+      affiliation: Western University
     year: 2017
     stage: preprint
     ids:
@@ -355,6 +373,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     with:
     - id: lieblich
       name: Max Lieblich
@@ -367,6 +386,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     year: 2015
     stage: preprint
     ids:
@@ -423,6 +443,7 @@ sections:
       ids:
         openalex: A5112149697
         orcid: 0000-0003-4759-3563
+      affiliation: Australian National University
     - id: perry
       name: Alexander Perry
       sort_name: Perry, Alexander
@@ -436,6 +457,7 @@ sections:
       ids:
         openalex: A5093487591
         orcid: 0009-0009-3071-7727
+      affiliation: Imperial College London
     - id: venkatesh
       name: Sridhar Venkatesh
       sort_name: Venkatesh, Sridhar
@@ -473,6 +495,7 @@ sections:
       ids:
         openalex: A5112149697
         orcid: 0000-0003-4759-3563
+      affiliation: Australian National University
     - id: perry
       name: Alexander Perry
       sort_name: Perry, Alexander
@@ -486,6 +509,7 @@ sections:
       ids:
         openalex: A5093487591
         orcid: 0009-0009-3071-7727
+      affiliation: Imperial College London
     - id: venkatesh
       name: Sridhar Venkatesh
       sort_name: Venkatesh, Sridhar
@@ -512,6 +536,7 @@ sections:
       ids:
         openalex: A5085836470
         orcid: 0000-0001-6968-8139
+      affiliation: Academic College of Tel Aviv-Yafo
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -532,6 +557,7 @@ sections:
         openalex: A5039007121
         orcid: 0000-0002-8250-5760
         zbmath: mckinnie.kelly
+      affiliation: University of Montana
     with:
     - id: chapman
       name: Adam Chapman
@@ -540,6 +566,7 @@ sections:
       ids:
         openalex: A5085836470
         orcid: 0000-0001-6968-8139
+      affiliation: Academic College of Tel Aviv-Yafo
     - id: mckinnie
       name: Kelly McKinnie
       sort_name: McKinnie, Kelly
@@ -548,6 +575,7 @@ sections:
         openalex: A5039007121
         orcid: 0000-0002-8250-5760
         zbmath: mckinnie.kelly
+      affiliation: University of Montana
     venue: Annals of K-Theory
     pubinfo: 11 (2026), no. 1, 37--46
     year: 2026
@@ -569,6 +597,7 @@ sections:
         openalex: A5071009087
         orcid: 0000-0003-4102-4212
         zbmath: damiolini.chiara
+      affiliation: University of Texas at Austin
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
@@ -577,6 +606,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -598,6 +628,7 @@ sections:
         openalex: A5071009087
         orcid: 0000-0003-4102-4212
         zbmath: damiolini.chiara
+      affiliation: University of Texas at Austin
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
@@ -606,6 +637,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     venue: Communications in Mathematical Physics
     pubinfo: 406 (2025), no. 6, Paper No. 131
     year: 2025
@@ -629,6 +661,7 @@ sections:
         openalex: A5071009087
         orcid: 0000-0003-4102-4212
         zbmath: damiolini.chiara
+      affiliation: University of Texas at Austin
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
@@ -637,6 +670,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -658,6 +692,7 @@ sections:
         openalex: A5071009087
         orcid: 0000-0003-4102-4212
         zbmath: damiolini.chiara
+      affiliation: University of Texas at Austin
     - id: gibney
       name: Angela Gibney
       sort_name: Gibney, Angela
@@ -666,6 +701,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     venue: Higher dimensional algebraic geometry -- a volume in honor of V. V. Shokurov. London Math. Soc. Lecture Note Ser.
     pubinfo: Vol. 489 (2025), 163-191
     year: 2025
@@ -705,6 +741,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     with:
     - id: lieblich
       name: Max Lieblich
@@ -717,6 +754,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     venue: Contemporary Mathematics
     pubinfo: Vol. 800 (2024)
     year: 2024
@@ -742,6 +780,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -750,6 +789,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -773,6 +813,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -781,6 +822,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: Israel Journal of Mathematics
     pubinfo: Vol. 257 (2023), 353-387
     year: 2023
@@ -790,6 +832,7 @@ sections:
       zbl: '1555.11028'
       openalex: W4221142571
       mr: MR4682921
+      arxiv: '2203.06770'
   - id: pub-local-global-principles-constant
     title:
       tex: Local-Global Principles for Constant Reductive Groups over Semi-Global Fields
@@ -806,6 +849,7 @@ sections:
         mr_author: '50705'
         mgp: '64090'
         wikidata: Q1247766
+      affiliation: Université Paris-Saclay
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
@@ -816,6 +860,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -824,6 +869,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -847,6 +893,7 @@ sections:
         mr_author: '136195'
         mgp: '59460'
         wikidata: Q450277
+      affiliation: Emory University
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
@@ -857,6 +904,7 @@ sections:
         mr_author: '342951'
         mgp: '75740'
         wikidata: Q7645799
+      affiliation: Emory University
     with:
     - id: colliot-thelene
       name: Jean-Louis Colliot-Thélène
@@ -869,6 +917,7 @@ sections:
         mr_author: '50705'
         mgp: '64090'
         wikidata: Q1247766
+      affiliation: Université Paris-Saclay
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
@@ -879,6 +928,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -887,6 +937,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
@@ -898,6 +949,7 @@ sections:
         mr_author: '136195'
         mgp: '59460'
         wikidata: Q450277
+      affiliation: Emory University
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
@@ -908,6 +960,7 @@ sections:
         mr_author: '342951'
         mgp: '75740'
         wikidata: Q7645799
+      affiliation: Emory University
     venue: Michigan Math. Journal.
     pubinfo: Vol. 72 (2022), 77-144
     year: 2022
@@ -943,6 +996,7 @@ sections:
         openalex: A5037860876
         orcid: 0000-0001-6154-2653
         zbmath: matzri.eliyahu
+      affiliation: Bar-Ilan University
     - id: rapinchuk
       name: Andre Rapinchuk
       sort_name: Rapinchuk, Andre
@@ -953,6 +1007,7 @@ sections:
         zbmath: rapinchuk.andrei-s
         mgp: '54183'
         wikidata: Q95216077
+      affiliation: University of Virginia
     - id: rowen
       name: Louis Rowen
       sort_name: Rowen, Louis
@@ -964,6 +1019,7 @@ sections:
         mr_author: '151270'
         mgp: '9415'
         wikidata: Q102116250
+      affiliation: Bar-Ilan University
     - id: saltman
       name: David J. Saltman
       sort_name: Saltman, David J.
@@ -983,6 +1039,7 @@ sections:
         openalex: A5037860876
         orcid: 0000-0001-6154-2653
         zbmath: matzri.eliyahu
+      affiliation: Bar-Ilan University
     - id: rapinchuk
       name: Andre Rapinchuk
       sort_name: Rapinchuk, Andre
@@ -993,6 +1050,7 @@ sections:
         zbmath: rapinchuk.andrei-s
         mgp: '54183'
         wikidata: Q95216077
+      affiliation: University of Virginia
     - id: rowen
       name: Louis Rowen
       sort_name: Rowen, Louis
@@ -1004,6 +1062,7 @@ sections:
         mr_author: '151270'
         mgp: '9415'
         wikidata: Q102116250
+      affiliation: Bar-Ilan University
     - id: saltman
       name: David J. Saltman
       sort_name: Saltman, David J.
@@ -1038,6 +1097,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1058,6 +1118,7 @@ sections:
         openalex: A5060472537
         orcid: 0009-0005-9353-1410
         zbmath: pirutka.alena
+      affiliation: Courant Institute of Mathematical Sciences
     with:
     - id: harbater
       name: David Harbater
@@ -1069,6 +1130,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: pirutka
       name: Alena Pirutka
       sort_name: Pirutka, Alena
@@ -1077,6 +1139,7 @@ sections:
         openalex: A5060472537
         orcid: 0009-0005-9353-1410
         zbmath: pirutka.alena
+      affiliation: Courant Institute of Mathematical Sciences
     venue: Bulletin of the London Mathematical Society
     pubinfo: 53 (1), Feb. 2021, 177--193
     year: 2020
@@ -1103,6 +1166,7 @@ sections:
         mr_author: '50705'
         mgp: '64090'
         wikidata: Q1247766
+      affiliation: Université Paris-Saclay
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
@@ -1113,6 +1177,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1121,6 +1186,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1144,6 +1210,7 @@ sections:
         mr_author: '136195'
         mgp: '59460'
         wikidata: Q450277
+      affiliation: Emory University
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
@@ -1154,6 +1221,7 @@ sections:
         mr_author: '342951'
         mgp: '75740'
         wikidata: Q7645799
+      affiliation: Emory University
     with:
     - id: colliot-thelene
       name: Jean-Louis Colliot-Thélène
@@ -1166,6 +1234,7 @@ sections:
         mr_author: '50705'
         mgp: '64090'
         wikidata: Q1247766
+      affiliation: Université Paris-Saclay
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
@@ -1176,6 +1245,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1184,6 +1254,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
@@ -1195,6 +1266,7 @@ sections:
         mr_author: '136195'
         mgp: '59460'
         wikidata: Q450277
+      affiliation: Emory University
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
@@ -1205,6 +1277,7 @@ sections:
         mr_author: '342951'
         mgp: '75740'
         wikidata: Q7645799
+      affiliation: Emory University
     venue: Algebraic Geometry
     pubinfo: 7 (5) (2020) 607--633
     year: 2020
@@ -1231,6 +1304,7 @@ sections:
         mr_author: '610716'
         mgp: '70975'
         wikidata: Q2896470
+      affiliation: Stanford University
     - id: glass
       name: Darren Glass
       sort_name: Glass, Darren
@@ -1279,6 +1353,7 @@ sections:
         mr_author: '213982'
         mgp: '41540'
         wikidata: Q18706051
+      affiliation: University of California, Irvine
     - id: tibouchi
       name: Mehdi Tibouchi
       sort_name: Tibouchi, Mehdi
@@ -1310,6 +1385,7 @@ sections:
         mr_author: '610716'
         mgp: '70975'
         wikidata: Q2896470
+      affiliation: Stanford University
     - id: glass
       name: Darren Glass
       sort_name: Glass, Darren
@@ -1346,6 +1422,7 @@ sections:
         mr_author: '213982'
         mgp: '41540'
         wikidata: Q18706051
+      affiliation: University of California, Irvine
     - id: tibouchi
       name: Mehdi Tibouchi
       sort_name: Tibouchi, Mehdi
@@ -1391,6 +1468,7 @@ sections:
         mr_author: '50705'
         mgp: '64090'
         wikidata: Q1247766
+      affiliation: Université Paris-Saclay
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
@@ -1401,6 +1479,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1409,6 +1488,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1432,6 +1512,7 @@ sections:
         mr_author: '136195'
         mgp: '59460'
         wikidata: Q450277
+      affiliation: Emory University
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
@@ -1442,6 +1523,7 @@ sections:
         mr_author: '342951'
         mgp: '75740'
         wikidata: Q7645799
+      affiliation: Emory University
     with:
     - id: colliot-thelene
       name: Jean-Louis Colliot-Thélène
@@ -1454,6 +1536,7 @@ sections:
         mr_author: '50705'
         mgp: '64090'
         wikidata: Q1247766
+      affiliation: Université Paris-Saclay
     - id: harbater
       name: David Harbater
       sort_name: Harbater, David
@@ -1464,6 +1547,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1472,6 +1556,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: parimala
       name: R. Parimala
       sort_name: Parimala, R.
@@ -1483,6 +1568,7 @@ sections:
         mr_author: '136195'
         mgp: '59460'
         wikidata: Q450277
+      affiliation: Emory University
     - id: suresh
       name: V. Suresh
       sort_name: Suresh, V.
@@ -1493,6 +1579,7 @@ sections:
         mr_author: '342951'
         mgp: '75740'
         wikidata: Q7645799
+      affiliation: Emory University
     venue: Transactions of the American Mathematical Society
     pubinfo: 372 (2019), no. 8, 5263--5286
     year: 2019
@@ -1503,6 +1590,120 @@ sections:
       zbl: '1440.14035'
       openalex: W2963970193
       mr: MR4014276
+  - id: pub-local-global-galois-theory
+    title:
+      tex: Local-global Galois theory of arithmetic function fields
+      text: Local-global Galois theory of arithmetic function fields
+    authors:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
+      affiliation: University of Pennsylvania
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
+      affiliation: Emory University
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
+      affiliation: Emory University
+    with:
+    - id: harbater
+      name: David Harbater
+      sort_name: Harbater, David
+      me: false
+      ids:
+        openalex: A5052309612
+        zbmath: harbater.david
+        mr_author: '205795'
+        mgp: '23203'
+        wikidata: Q1174673
+      affiliation: University of Pennsylvania
+    - id: hartmann
+      name: Julia Hartmann
+      sort_name: Hartmann, Julia
+      me: false
+      ids:
+        openalex: A5076905038
+        orcid: 0000-0003-3887-1066
+        zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
+    - id: parimala
+      name: R. Parimala
+      sort_name: Parimala, R.
+      me: false
+      ids:
+        openalex: A5073998087
+        orcid: 0000-0001-6168-618X
+        zbmath: parimala.raman
+        mr_author: '136195'
+        mgp: '59460'
+        wikidata: Q450277
+      affiliation: Emory University
+    - id: suresh
+      name: V. Suresh
+      sort_name: Suresh, V.
+      me: false
+      ids:
+        openalex: A5101188622
+        zbmath: suresh.venapally
+        mr_author: '342951'
+        mgp: '75740'
+        wikidata: Q7645799
+      affiliation: Emory University
+    venue: Israel Journal of Mathematics
+    pubinfo: vol. 232, no. 2 (2019), 849-882
+    year: 2019
+    stage: published
+    ids:
+      arxiv: '1710.03635'
+      doi: 10.1007/s11856-019-1889-z
+      zbl: '1451.11126'
+      openalex: W2963202025
+      mr: MR3990961
   - id: pub-period-index-bounds-arithmetic
     title:
       tex: Period-index bounds for arithmetic threefolds
@@ -1519,6 +1720,7 @@ sections:
         mr_author: '924946'
         mgp: '151817'
         wikidata: Q102373297
+      affiliation: Northwestern University
     - id: auel
       name: Asher Auel
       sort_name: Auel, Asher
@@ -1534,6 +1736,7 @@ sections:
         mr_author: '350601'
         mgp: '37001'
         wikidata: Q102192466
+      affiliation: Carleton University
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1557,6 +1760,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     with:
     - id: antieau
       name: Benjamin Antieau
@@ -1569,6 +1773,7 @@ sections:
         mr_author: '924946'
         mgp: '151817'
         wikidata: Q102373297
+      affiliation: Northwestern University
     - id: auel
       name: Asher Auel
       sort_name: Auel, Asher
@@ -1584,6 +1789,7 @@ sections:
         mr_author: '350601'
         mgp: '37001'
         wikidata: Q102192466
+      affiliation: Carleton University
     - id: lieblich
       name: Max Lieblich
       sort_name: Lieblich, Max
@@ -1595,6 +1801,7 @@ sections:
         mr_author: '771507'
         mgp: '84619'
         wikidata: Q102267823
+      affiliation: University of Washington
     venue: Inventiones Mathematicae
     pubinfo: 216 (2019), no. 2, 301-335
     year: 2019
@@ -1605,112 +1812,6 @@ sections:
       zbl: '1436.14040'
       openalex: W2950857684
       mr: MR3953504
-  - id: pub-local-global-galois-theory
-    title:
-      tex: Local-global Galois theory of arithmetic function fields
-      text: Local-global Galois theory of arithmetic function fields
-    authors:
-    - id: harbater
-      name: David Harbater
-      sort_name: Harbater, David
-      me: false
-      ids:
-        openalex: A5052309612
-        zbmath: harbater.david
-        mr_author: '205795'
-        mgp: '23203'
-        wikidata: Q1174673
-    - id: hartmann
-      name: Julia Hartmann
-      sort_name: Hartmann, Julia
-      me: false
-      ids:
-        openalex: A5076905038
-        orcid: 0000-0003-3887-1066
-        zbmath: hartmann.julia
-    - id: krashen
-      name: Daniel Krashen
-      sort_name: Krashen, Daniel
-      me: true
-      ids:
-        orcid: 0000-0001-6826-9901
-        openalex: A5000681345
-        zbmath: krashen.daniel
-        mgp: '61265'
-        mr_author: '728218'
-        scopus: '22985422100'
-        scholar: NhUVvcYAAAAJ
-    - id: parimala
-      name: R. Parimala
-      sort_name: Parimala, R.
-      me: false
-      ids:
-        openalex: A5073998087
-        orcid: 0000-0001-6168-618X
-        zbmath: parimala.raman
-        mr_author: '136195'
-        mgp: '59460'
-        wikidata: Q450277
-    - id: suresh
-      name: V. Suresh
-      sort_name: Suresh, V.
-      me: false
-      ids:
-        openalex: A5101188622
-        zbmath: suresh.venapally
-        mr_author: '342951'
-        mgp: '75740'
-        wikidata: Q7645799
-    with:
-    - id: harbater
-      name: David Harbater
-      sort_name: Harbater, David
-      me: false
-      ids:
-        openalex: A5052309612
-        zbmath: harbater.david
-        mr_author: '205795'
-        mgp: '23203'
-        wikidata: Q1174673
-    - id: hartmann
-      name: Julia Hartmann
-      sort_name: Hartmann, Julia
-      me: false
-      ids:
-        openalex: A5076905038
-        orcid: 0000-0003-3887-1066
-        zbmath: hartmann.julia
-    - id: parimala
-      name: R. Parimala
-      sort_name: Parimala, R.
-      me: false
-      ids:
-        openalex: A5073998087
-        orcid: 0000-0001-6168-618X
-        zbmath: parimala.raman
-        mr_author: '136195'
-        mgp: '59460'
-        wikidata: Q450277
-    - id: suresh
-      name: V. Suresh
-      sort_name: Suresh, V.
-      me: false
-      ids:
-        openalex: A5101188622
-        zbmath: suresh.venapally
-        mr_author: '342951'
-        mgp: '75740'
-        wikidata: Q7645799
-    venue: Israel Journal of Mathematics
-    pubinfo: vol. 232, no. 2 (2019), 849-882
-    year: 2019
-    stage: published
-    ids:
-      arxiv: '1710.03635'
-      doi: 10.1007/s11856-019-1889-z
-      zbl: '1451.11126'
-      openalex: W2963202025
-      mr: MR3990961
   - id: pub-derived-categories-torsors-abelian
     title:
       tex: Derived categories for torsors for Abelian schemes
@@ -1727,6 +1828,7 @@ sections:
         mr_author: '924946'
         mgp: '151817'
         wikidata: Q102373297
+      affiliation: Northwestern University
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1758,6 +1860,7 @@ sections:
         mr_author: '924946'
         mgp: '151817'
         wikidata: Q102373297
+      affiliation: Northwestern University
     - id: ward
       name: Matthew Ward
       sort_name: Ward, Matthew
@@ -1818,6 +1921,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1826,6 +1930,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1849,6 +1954,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1857,6 +1963,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: American Journal of Mathematics
     pubinfo: 137 (2015), no. 6, 1559--1612
     year: 2015
@@ -1892,6 +1999,7 @@ sections:
         openalex: A5037860876
         orcid: 0000-0001-6154-2653
         zbmath: matzri.eliyahu
+      affiliation: Bar-Ilan University
     with:
     - id: matzri
       name: Eliyahu Matzri
@@ -1901,6 +2009,7 @@ sections:
         openalex: A5037860876
         orcid: 0000-0001-6154-2653
         zbmath: matzri.eliyahu
+      affiliation: Bar-Ilan University
     venue: Proceedings of the AMS
     pubinfo: 143 (2015), no. 7, 2779--2788
     year: 2015
@@ -1926,6 +2035,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1934,6 +2044,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -1957,6 +2068,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1965,6 +2077,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: International Math. Research Notices
     pubinfo: 'doi: 10.1093/imrn/rnu278 (2015)'
     year: 2015
@@ -1990,6 +2103,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -1998,6 +2112,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -2021,6 +2136,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2029,6 +2145,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: Commentarii Mathematici Helvetici
     pubinfo: 89 (2014), no. 1, 215--253
     year: 2014
@@ -2054,6 +2171,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2062,6 +2180,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -2085,6 +2204,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2093,9 +2213,10 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: Mathematische Annalen
     pubinfo: 356 (2013), no. 4, 1405--1424
-    year: 2013
+    year: 2012
     stage: published
     ids:
       arxiv: '1109.6362'
@@ -2118,6 +2239,7 @@ sections:
         mr_author: '838646'
         mgp: '109401'
         wikidata: Q102309116
+      affiliation: University of Texas at Austin
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -2141,6 +2263,7 @@ sections:
         mr_author: '838646'
         mgp: '109401'
         wikidata: Q102309116
+      affiliation: University of Texas at Austin
     venue: Israel Journal of Mathematics
     pubinfo: 192 (2012), no. 2, 921--949
     year: 2012
@@ -2194,6 +2317,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2202,6 +2326,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -2225,6 +2350,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2233,9 +2359,10 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: Transactions of the American Mathematical Society
     pubinfo: 363 (2011), no. 6, 3335--3349
-    year: 2011
+    year: 2010
     stage: published
     ids:
       arxiv: '0904.1594'
@@ -2268,6 +2395,7 @@ sections:
         openalex: A5039007121
         orcid: 0000-0002-8250-5760
         zbmath: mckinnie.kelly
+      affiliation: University of Montana
     with:
     - id: mckinnie
       name: Kelly McKinnie
@@ -2277,9 +2405,10 @@ sections:
         openalex: A5039007121
         orcid: 0000-0002-8250-5760
         zbmath: mckinnie.kelly
+      affiliation: University of Montana
     venue: Manuscripta Mathematica
     pubinfo: 134 (2011), no. 1-2, 171--182
-    year: 2011
+    year: 2010
     stage: published
     ids:
       arxiv: '1001.3685'
@@ -2287,34 +2416,6 @@ sections:
       doi: 10.1007/s00229-010-0390-0
       zbl: '1221.16016'
       openalex: W2119787149
-  - id: pub-field-patching-factorization-local
-    title:
-      tex: Field patching, factorization, and local-global principles
-      text: Field patching, factorization, and local-global principles
-    authors:
-    - id: krashen
-      name: Daniel Krashen
-      sort_name: Krashen, Daniel
-      me: true
-      ids:
-        orcid: 0000-0001-6826-9901
-        openalex: A5000681345
-        zbmath: krashen.daniel
-        mgp: '61265'
-        mr_author: '728218'
-        scopus: '22985422100'
-        scholar: NhUVvcYAAAAJ
-    with: []
-    venue: Quadratic forms, linear algebraic groups, and cohomology
-    pubinfo: 57--82, Dev. Math., 18, Springer, New York, 2010
-    year: 2010
-    stage: published
-    ids:
-      arxiv: '0909.3115'
-      mr: MR2648720
-      doi: 10.1007/978-1-4419-6211-9_4
-      zbl: '1251.12007'
-      openalex: W1575186435
   - id: pub-corestrictions-algebras-splitting-fields
     title:
       tex: Corestrictions of algebras and splitting fields
@@ -2371,6 +2472,34 @@ sections:
       doi: 10.1016/j.aim.2009.10.016
       zbl: '1192.14034'
       openalex: W2034193220
+  - id: pub-field-patching-factorization-local
+    title:
+      tex: Field patching, factorization, and local-global principles
+      text: Field patching, factorization, and local-global principles
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
+    with: []
+    venue: Quadratic forms, linear algebraic groups, and cohomology
+    pubinfo: 57--82, Dev. Math., 18, Springer, New York, 2010
+    year: 2010
+    stage: published
+    ids:
+      arxiv: '0909.3115'
+      mr: MR2648720
+      doi: 10.1007/978-1-4419-6211-9_4
+      zbl: '1251.12007'
+      openalex: W1575186435
   - id: pub-applications-patching-quadratic-forms
     title:
       tex: Applications of patching to quadratic forms and central simple algebras
@@ -2386,6 +2515,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2394,6 +2524,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -2417,6 +2548,7 @@ sections:
         mr_author: '205795'
         mgp: '23203'
         wikidata: Q1174673
+      affiliation: University of Pennsylvania
     - id: hartmann
       name: Julia Hartmann
       sort_name: Hartmann, Julia
@@ -2425,6 +2557,7 @@ sections:
         openalex: A5076905038
         orcid: 0000-0003-3887-1066
         zbmath: hartmann.julia
+      affiliation: University of Pennsylvania
     venue: Inventiones Mathematicae
     pubinfo: 178 (2009), no. 2, 231--263
     year: 2009
@@ -2454,6 +2587,7 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -2481,9 +2615,10 @@ sections:
         openalex: A5055718307
         orcid: 0000-0003-0208-4140
         zbmath: gibney.angela
+      affiliation: University of Pennsylvania
     venue: Journal of Algebraic Geometry
     pubinfo: 18 (2009), no. 3, 477--509
-    year: 2009
+    year: 2008
     stage: published
     ids:
       arxiv: math/0505296
@@ -2491,56 +2626,6 @@ sections:
       doi: 10.1090/s1056-3911-08-00494-3
       zbl: '1171.14009'
       openalex: W1995375598
-  - id: pub-index-reduction-brauer-classes
-    title:
-      tex: Index reduction for Brauer classes via stable sheaves
-      text: Index reduction for Brauer classes via stable sheaves
-    authors:
-    - id: krashen
-      name: Daniel Krashen
-      sort_name: Krashen, Daniel
-      me: true
-      ids:
-        orcid: 0000-0001-6826-9901
-        openalex: A5000681345
-        zbmath: krashen.daniel
-        mgp: '61265'
-        mr_author: '728218'
-        scopus: '22985422100'
-        scholar: NhUVvcYAAAAJ
-    - id: lieblich
-      name: Max Lieblich
-      sort_name: Lieblich, Max
-      me: false
-      ids:
-        openalex: A5054539311
-        orcid: 0000-0002-1753-6261
-        zbmath: lieblich.max
-        mr_author: '771507'
-        mgp: '84619'
-        wikidata: Q102267823
-    with:
-    - id: lieblich
-      name: Max Lieblich
-      sort_name: Lieblich, Max
-      me: false
-      ids:
-        openalex: A5054539311
-        orcid: 0000-0002-1753-6261
-        zbmath: lieblich.max
-        mr_author: '771507'
-        mgp: '84619'
-        wikidata: Q102267823
-    venue: International Mathematics Research Notices
-    pubinfo: no. 8 (2008), Art. ID rnn010, 31 pp
-    year: 2008
-    stage: published
-    ids:
-      arxiv: '0706.1072'
-      mr: MR2428144
-      doi: 10.1093/imrn/rnn010
-      zbl: '1146.14011'
-      openalex: W2019777538
   - id: pub-birational-maps-between-generalized
     title:
       tex: Birational maps between generalized Severi-Brauer varieties
@@ -2569,6 +2654,58 @@ sections:
       doi: 10.1016/j.jpaa.2007.06.021
       zbl: '1133.14014'
       openalex: W2004380102
+  - id: pub-index-reduction-brauer-classes
+    title:
+      tex: Index reduction for Brauer classes via stable sheaves
+      text: Index reduction for Brauer classes via stable sheaves
+    authors:
+    - id: krashen
+      name: Daniel Krashen
+      sort_name: Krashen, Daniel
+      me: true
+      ids:
+        orcid: 0000-0001-6826-9901
+        openalex: A5000681345
+        zbmath: krashen.daniel
+        mgp: '61265'
+        mr_author: '728218'
+        scopus: '22985422100'
+        scholar: NhUVvcYAAAAJ
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
+      affiliation: University of Washington
+    with:
+    - id: lieblich
+      name: Max Lieblich
+      sort_name: Lieblich, Max
+      me: false
+      ids:
+        openalex: A5054539311
+        orcid: 0000-0002-1753-6261
+        zbmath: lieblich.max
+        mr_author: '771507'
+        mgp: '84619'
+        wikidata: Q102267823
+      affiliation: University of Washington
+    venue: International Mathematics Research Notices
+    pubinfo: no. 8 (2008), Art. ID rnn010, 31 pp
+    year: 2008
+    stage: published
+    ids:
+      arxiv: '0706.1072'
+      mr: MR2428144
+      doi: 10.1093/imrn/rnn010
+      zbl: '1146.14011'
+      openalex: W2019777538
   - id: pub-motives-unitary-orthogonal-homogeneous
     title:
       tex: Motives of unitary and orthogonal homogeneous varieties

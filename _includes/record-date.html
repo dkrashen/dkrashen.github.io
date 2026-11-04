@@ -1,0 +1,5 @@
+{%- comment -%} A record date at its own precision: "2023", "Jul 2024" or "14 Sep 2026". Pass d. {%- endcomment -%}
+{%- assign s = include.d | append: "" -%}
+{%- if s.size >= 10 -%}{{ s | date: "%-d %b %Y" }}
+{%- elsif s.size == 7 -%}{{ s | append: "-01" | date: "%b %Y" }}
+{%- else -%}{{ s }}{%- endif -%}

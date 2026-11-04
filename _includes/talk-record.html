@@ -1,0 +1,11 @@
+{%- comment -%} One talk from the CV record (_data/record/talks.yml). {%- endcomment -%}
+{%- assign t = include.t -%}
+{%- assign chips = "mini-course,plenary,colloquium,outreach" | split: "," -%}
+<li class="entry">
+  <div class="entry__date">{% include record-date.html d=t.when.start %}</div>
+  <div>
+    <div class="entry__title">{% if t.url %}<a href="{{ t.url }}">{% endif %}{% if t.title.tex contains "$" %}<span class="tex" data-tex="{{ t.title.tex | escape }}">{{ t.title.text }}</span>{% else %}{{ t.title.text | default: t.title }}{% endif %}{% if t.url %}</a>{% endif %}{% if chips contains t.subkind %}<span class="chip chip--teal">{{ t.subkind }}</span>{% endif %}</div>
+    <div class="entry__meta">{{ t.venue | replace: "--", "–" }}</div>
+    {% if t.links %}<div class="entry__links">{% for l in t.links %}<a href="{{ l.url }}">{{ l.label | default: l.type }}</a>{% endfor %}</div>{% endif %}
+  </div>
+</li>

@@ -48,20 +48,44 @@ tiles:
   {% endfor %}
 </nav>
 
+{%- comment -%}
+  Merge record talks with essays and dated projects, newest first: build
+  "date~source~index" keys, sort them as strings, then render each.
+{%- endcomment -%}
+{%- assign talks = site.data.record.talks.sections.first.items -%}
 {%- assign dated_projects = site.data.projects | where_exp: "p", "p.date" -%}
-{%- assign all = site.data.talks | concat: site.data.writing | concat: dated_projects -%}
-{%- include released.html items=all -%}
-{%- assign recent = shown | sort: "date" | reverse -%}
+{%- assign others = site.data.writing | concat: dated_projects -%}
+{%- include released.html items=others -%}
+{%- assign others = shown -%}
+{%- capture keys -%}
+  {%- for t in talks limit: 5 -%}{{ t.when.start | append: "" }}~t~{{ forloop.index0 }}^{%- endfor -%}
+  {%- for o in others -%}{{ o.date | date: "%Y-%m-%d" }}~o~{{ forloop.index0 }}^{%- endfor -%}
+{%- endcapture -%}
+{%- assign keys = keys | split: "^" | sort | reverse -%}
 <h2>recently</h2>
 <ul class="entries">
-  {% for r in recent limit: 5 %}
+  {% for k in keys limit: 5 %}
+  {%- assign parts = k | split: "~" -%}
+  {%- assign n = parts[2] | plus: 0 -%}
+  {%- if parts[1] == "t" -%}
+  {%- assign r = talks[n] -%}
+  <li class="entry">
+    <div class="entry__date">{% include record-date.html d=r.when.start %}</div>
+    <div>
+      <div class="entry__title">{% assign href = r.url | default: r.links.first.url %}{% if href %}<a href="{{ href }}">{{ r.title.text | default: r.title }}</a>{% else %}{{ r.title.text | default: r.title }}{% endif %}</div>
+      <div class="entry__meta">talk · {{ r.venue }}</div>
+    </div>
+  </li>
+  {%- else -%}
+  {%- assign r = others[n] -%}
   {%- assign href = r.url | default: r.links.first.url -%}
   <li class="entry">
     <div class="entry__date">{{ r.date | date: "%b %Y" }}</div>
     <div>
       <div class="entry__title">{% if href %}<a href="{{ href }}">{{ r.title }}</a>{% else %}{{ r.title }}{% endif %}{% if r.released == false %}<span class="chip chip--preview">preview only</span>{% endif %}</div>
-      <div class="entry__meta">{% if r.venue %}{{ r.kind }} · {{ r.venue }}{% elsif r.strand %}project · {{ r.line }}{% else %}{{ r.kind }}{% endif %}</div>
+      <div class="entry__meta">{% if r.strand %}project · {{ r.line }}{% else %}{{ r.kind }}{% endif %}</div>
     </div>
   </li>
+  {%- endif -%}
   {% endfor %}
 </ul>

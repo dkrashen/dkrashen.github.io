@@ -3,12 +3,13 @@ layout: default
 title: talks & activity
 eyebrow: talks & activity
 heading: talks & activity
+katex: true
 ---
 {%- comment -%}
   Three tabs, no JavaScript: a radio input per tab, and CSS shows the panel
   whose input is checked. Talks is the default.
 {%- endcomment -%}
-{%- include released.html items=site.data.talks -%}{%- assign talks = shown -%}
+{%- assign talks = site.data.record.talks.sections.first.items -%}
 {%- include released.html items=site.data.videos -%}{%- assign videos = shown -%}
 {%- include released.html items=site.data.activity -%}{%- assign activity = shown -%}
 <div class="tabs">
@@ -23,9 +24,9 @@ heading: talks & activity
 
   <section class="tabs__panel" id="panel-talks">
     <ul class="entries entries--compact">
-      {% for t in talks %}{% include talk.html t=t %}{% endfor %}
+      {% for t in talks %}{% include talk-record.html t=t %}{% endfor %}
     </ul>
-    <p class="entry__meta" style="margin-top:12px">older talks are in the <a href="/vita.pdf">CV</a>.</p>
+    <p class="entry__meta" style="margin-top:12px">talks since 2021; older ones are in the <a href="/vita.pdf">CV</a>.</p>
   </section>
 
   <section class="tabs__panel" id="panel-videos">
