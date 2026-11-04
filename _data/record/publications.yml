@@ -1,8 +1,8 @@
 view: publications
 title: Publications (dkrashen.org research page)
-generated: '2026-11-04T11:28:52'
+generated: '2026-11-04T12:45:39'
 as_of: '2026-11-04'
-record: ce37d4a
+record: c17a67c
 sections:
 - key: preprints
   heading: Preprints
@@ -113,8 +113,8 @@ sections:
       arxiv: '2502.01504'
   - id: pub-morita-equivalences-zhus-associative
     title:
-      tex: Morita equivalences for Zhu's associative algebra and mode transition algebras
-      text: Morita equivalences for Zhu's associative algebra and mode transition algebras
+      tex: Morita equivalences for Zhu's algebra
+      text: Morita equivalences for Zhu's algebra
     authors:
     - id: damiolini
       name: Chiara Damiolini
@@ -408,6 +408,7 @@ sections:
       ids:
         openalex: A5008954823
         orcid: 0000-0002-4058-9230
+      affiliation: Princeton University
     - id: krashen
       name: Daniel Krashen
       sort_name: Krashen, Daniel
@@ -424,18 +425,21 @@ sections:
       name: Tianle Liu
       sort_name: Liu, Tianle
       me: false
+      affiliation: University of Southern California
     - id: liu-y
       name: Yeqin Liu
       sort_name: Liu, Yeqin
       me: false
       ids:
         zbmath: liu.yeqin
+      affiliation: University of Michigan
     - id: mackall
       name: Eoin Mackall
       sort_name: Mackall, Eoin
       me: false
       ids:
         openalex: A5120356375
+      affiliation: University of California, Santa Cruz
     - id: makarova
       name: Svetlana Makarova
       sort_name: Makarova, Svetlana
@@ -450,6 +454,7 @@ sections:
       me: false
       ids:
         openalex: A5120452186
+      affiliation: University of Michigan
     - id: robotis
       name: Antonios-Alexandros Robotis
       sort_name: Robotis, Antonios-Alexandros
@@ -464,6 +469,7 @@ sections:
       me: false
       ids:
         openalex: A5120452187
+      affiliation: University of Utah
     with:
     - id: kemboi
       name: Kimoi Kemboi
@@ -472,22 +478,26 @@ sections:
       ids:
         openalex: A5008954823
         orcid: 0000-0002-4058-9230
+      affiliation: Princeton University
     - id: liu-t
       name: Tianle Liu
       sort_name: Liu, Tianle
       me: false
+      affiliation: University of Southern California
     - id: liu-y
       name: Yeqin Liu
       sort_name: Liu, Yeqin
       me: false
       ids:
         zbmath: liu.yeqin
+      affiliation: University of Michigan
     - id: mackall
       name: Eoin Mackall
       sort_name: Mackall, Eoin
       me: false
       ids:
         openalex: A5120356375
+      affiliation: University of California, Santa Cruz
     - id: makarova
       name: Svetlana Makarova
       sort_name: Makarova, Svetlana
@@ -502,6 +512,7 @@ sections:
       me: false
       ids:
         openalex: A5120452186
+      affiliation: University of Michigan
     - id: robotis
       name: Antonios-Alexandros Robotis
       sort_name: Robotis, Antonios-Alexandros
@@ -516,6 +527,7 @@ sections:
       me: false
       ids:
         openalex: A5120452187
+      affiliation: University of Utah
     venue: Advances in Mathematics
     pubinfo: 499 (2026), Paper No. 111046
     year: 2026
@@ -1030,6 +1042,7 @@ sections:
         mr_author: '153620'
         mgp: '7980'
         wikidata: Q102156690
+      affiliation: Institute For Defense Analyses
     with:
     - id: matzri
       name: Eliyahu Matzri
@@ -1073,6 +1086,7 @@ sections:
         mr_author: '153620'
         mgp: '7980'
         wikidata: Q102156690
+      affiliation: Institute For Defense Analyses
     venue: Manuscripta Math.
     pubinfo: Vol. 169 (2022), no.1-2, 209–249.
     year: 2021
@@ -1335,6 +1349,7 @@ sections:
         mr_author: '619019'
         mgp: '77976'
         wikidata: Q6438154
+      affiliation: Meta (United States)
     - id: sharif
       name: Shahed Sharif
       sort_name: Sharif, Shahed
@@ -1342,6 +1357,7 @@ sections:
       ids:
         openalex: A5011971905
         zbmath: sharif.shahed
+      affiliation: California State University, San Marcos
     - id: silverberg
       name: Alice Silverberg
       sort_name: Silverberg, Alice
@@ -1365,6 +1381,7 @@ sections:
         mr_author: '893634'
         mgp: '177481'
         wikidata: Q28002947
+      affiliation: NTT (Japan)
     - id: zhandry
       name: Mark Zhandry
       sort_name: Zhandry, Mark
@@ -1373,6 +1390,7 @@ sections:
         openalex: A5024874638
         orcid: 0000-0001-7071-6272
         zbmath: zhandry.mark
+      affiliation: Stanford University
     with:
     - id: boneh
       name: Dan Boneh
@@ -1404,6 +1422,7 @@ sections:
         mr_author: '619019'
         mgp: '77976'
         wikidata: Q6438154
+      affiliation: Meta (United States)
     - id: sharif
       name: Shahed Sharif
       sort_name: Sharif, Shahed
@@ -1411,6 +1430,7 @@ sections:
       ids:
         openalex: A5011971905
         zbmath: sharif.shahed
+      affiliation: California State University, San Marcos
     - id: silverberg
       name: Alice Silverberg
       sort_name: Silverberg, Alice
@@ -1434,6 +1454,7 @@ sections:
         mr_author: '893634'
         mgp: '177481'
         wikidata: Q28002947
+      affiliation: NTT (Japan)
     - id: zhandry
       name: Mark Zhandry
       sort_name: Zhandry, Mark
@@ -1442,6 +1463,7 @@ sections:
         openalex: A5024874638
         orcid: 0000-0001-7071-6272
         zbmath: zhandry.mark
+      affiliation: Stanford University
     venue: Journal of Mathematical Cryptology
     pubinfo: Vol. 14, no. 1 (2020)
     year: 2020
@@ -2761,6 +2783,7 @@ sections:
         mr_author: '153620'
         mgp: '7980'
         wikidata: Q102156690
+      affiliation: Institute For Defense Analyses
     with:
     - id: saltman
       name: David J. Saltman
@@ -2772,6 +2795,7 @@ sections:
         mr_author: '153620'
         mgp: '7980'
         wikidata: Q102156690
+      affiliation: Institute For Defense Analyses
     venue: Algebraic transformation groups and algebraic varieties
     pubinfo: 59--70, Encyclopaedia Math. Sci., 132, Springer, Berlin, 2004
     year: 2004

@@ -1,13 +1,13 @@
 view: talks
 title: Talks (dkrashen.org talks page)
-generated: '2026-11-04T11:28:56'
+generated: '2026-11-04T12:45:42'
 as_of: '2026-11-04'
-record: ce37d4a
+record: c17a67c
 sections:
 - key: talks
   heading: Talks
   kind: records
-  count: 29
+  count: 30
   items:
   - id: talk-2026-some-approaches-agentic
     title:
@@ -52,6 +52,9 @@ sections:
       start: '2025-09-30'
       end: '2025-09-30'
     url: https://www.birs.ca/events/2025/5-day-workshops/25w5323/schedule
+    links:
+    - type: video
+      url: https://www.birs.ca/events/2025/5-day-workshops/25w5323/videos/watch/202509301531-Krashen.html
   - id: talk-complexity-algebraic-objects-fields
     title:
       tex: Complexity of algebraic objects over fields and the period-index problem
@@ -82,6 +85,9 @@ sections:
     when:
       start: 2024-07
       end: 2024-07
+    links:
+    - type: video
+      url: https://www.youtube.com/watch?v=m6gU4Wff9jw
   - id: talk-symbol-length-problem-brauer
     title:
       tex: The symbol length problem for Brauer groups and Galois cohomology
@@ -92,6 +98,9 @@ sections:
       start: '2024-06-25'
       end: '2024-06-25'
     url: https://stats.birs.ca/events/2024/5-day-workshops/24w5309/schedule
+    links:
+    - type: video
+      url: https://www.birs.ca/events/2024/5-day-workshops/24w5309/videos/watch/202406251110-Krashen.html
   - id: talk-explorations-world-vertex-operator
     title:
       tex: Explorations in the world of Vertex Operator Algebras
@@ -186,6 +195,16 @@ sections:
     when:
       start: '2022-03-18'
       end: '2022-03-18'
+  - id: talk-2021-can-you-hear-2
+    title:
+      tex: Can you hear the shape of a division algebra?
+      text: Can you hear the shape of a division algebra?
+    subkind: seminar
+    venue: Graduate Pizza Seminar, University of Pennsylvania
+    location: Philadelphia, PA
+    when:
+      start: '2021-12-03'
+      end: '2021-12-03'
   - id: talk-2021-can-you-hear
     title:
       tex: Can you hear the shape of a division algebra?
@@ -207,8 +226,8 @@ sections:
       end: '2021-11-16'
     url: https://hopper.dartmouth.edu/activities/lahr-lectures/2021/Krashen.php
     links:
-    - type: slides
-      label: Slides (pdf)
+    - type: poster
+      label: Flyer (pdf)
       url: https://math.dartmouth.edu/activities/lahr-lectures/2021/2021-11-16-Krashen.pdf
   - id: talk-hearing-shape-division-algebras
     title:
@@ -227,8 +246,8 @@ sections:
     subkind: research
     venue: Amitsur Centennial Symposium
     when:
-      start: '2021-11-04'
-      end: '2021-11-04'
+      start: '2021-11-03'
+      end: '2021-11-03'
     url: https://iias.huji.ac.il/event/amitsur
   - id: talk-algebraic-structures-algebraic-structures
     title:
