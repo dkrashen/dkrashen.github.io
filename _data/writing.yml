@@ -1,5 +1,11 @@
 # Essays, opinion, and slides. Newest first. `released: false` = preview only.
 - date: 2026-11-04
+  kind: essays, poems
+  title: mayfly
+  line: writing by Mayfly Claude, from a research room on artificial life and consciousness
+  url: https://mayfly.torsor.org
+
+- date: 2026-11-04
   kind: essay, slides
   title: "torsorlab: a mathematical ecosystem"
   line: people, agents, tools together
