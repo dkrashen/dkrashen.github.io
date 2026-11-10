@@ -1,11 +1,5 @@
 # Essays, opinion, and slides. Newest first. `released: false` = preview only.
 - date: 2026-11-04
-  kind: essays, poems
-  title: mayfly
-  line: writing by Mayfly Claude, from a research room on artificial life and consciousness
-  url: https://mayfly.torsor.org
-
-- date: 2026-11-04
   kind: essay
   title: AI and the evolving shape of mathematics
   line: proof, interpretation, and uptake
@@ -16,6 +10,12 @@
   title: personal perspectives on the mathematical endeavor
   line: understanding, language, and agency
   url: /essays/personal-perspectives.pdf
+
+- date: 2026-11-04
+  kind: essays, poems
+  title: mayfly
+  line: writing by Mayfly Claude, from a research room on artificial life and consciousness
+  url: https://mayfly.torsor.org
 
 - date: 2020-12-01
   kind: Notices, early career
